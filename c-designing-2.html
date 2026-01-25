@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MachineryCorp - Industrial Catalog</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <!-- Google Fonts (Inter) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        /* Smooth scrolling */
+        html { scroll-behavior: smooth; }
+        
+        /* Custom scrollbar for sidebar */
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #f1f5f9; 
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #cbd5e1; 
+            border-radius: 2px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8; 
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 bg-slate-900 text-white shadow-xl">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                
+                <!-- Logo -->
+                <div class="flex items-center gap-3 cursor-pointer">
+                    <div class="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-700 flex items-center justify-center rounded-lg shadow-inner">
+                        <i data-lucide="settings" class="text-white w-6 h-6"></i>
+                    </div>
+                    <div class="flex flex-col">
+                        <span class="font-bold text-xl tracking-tight leading-none">MACHINERY<span class="text-blue-400">CORP</span></span>
+                        <span class="text-[10px] text-gray-400 uppercase tracking-widest">Industrial Solutions</span>
+                    </div>
+                </div>
+                
+                <!-- Desktop Search -->
+                <div class="hidden md:flex flex-1 max-w-lg mx-12 relative group">
+                    <input 
+                        type="text" 
+                        placeholder="Find equipment (e.g. 'Servo Filler')" 
+                        class="w-full pl-12 pr-4 py-3 bg-slate-800 border border-slate-700 rounded-full text-gray-200 placeholder-slate-500 focus:bg-slate-700 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 outline-none transition-all"
+                    >
+                    <i data-lucide="search" class="absolute left-4 top-3.5 w-5 h-5 text-slate-500 group-focus-within:text-blue-400 transition-colors"></i>
+                </div>
+
+                <!-- Actions -->
+                <div class="hidden md:flex items-center gap-4">
+                    <button class="text-sm font-medium text-gray-300 hover:text-white transition-colors">Support</button>
+                    <button class="bg-blue-600 hover:bg-blue-500 text-white px-5 py-2.5 rounded-full text-sm font-bold shadow-lg shadow-blue-900/50 transition-all hover:-translate-y-0.5">
+                        Get Quote
+                    </button>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button id="mobile-menu-btn" class="md:hidden p-2 text-gray-300 hover:text-white transition-colors">
+                    <i data-lucide="menu"></i>
+                </button>
+            </div>
+        </div>
+        
+        <!-- Mobile Menu (Hidden by default) -->
+        <div id="mobile-menu" class="hidden md:hidden bg-slate-800 border-t border-slate-700 pb-4">
+            <div class="px-4 pt-4 pb-2 space-y-1">
+                <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-white bg-slate-900">Products</a>
+                <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-slate-700">Services</a>
+                <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-slate-700">About Us</a>
+                <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-slate-700">Contact</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 w-full flex-grow">
+        
+        <!-- Breadcrumb -->
+        <div class="flex items-center text-sm text-gray-500 mb-8">
+            <span class="hover:text-blue-600 cursor-pointer transition-colors">Home</span>
+            <i data-lucide="chevron-right" class="w-4 h-4 mx-2 text-gray-300"></i>
+            <span class="font-medium text-gray-900 bg-white px-3 py-1 rounded-full shadow-sm border border-gray-100">Products Catalog</span>
+        </div>
+
+        <div class="flex flex-col lg:flex-row gap-10">
+            
+            <!-- Sidebar -->
+            <aside class="lg:w-1/4 flex-shrink-0 hidden lg:block">
+                <div class="sticky top-28 space-y-6">
+                    <!-- Categories Card -->
+                    <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6">
+                        <div class="flex items-center gap-2 mb-6">
+                            <div class="p-2 bg-blue-50 rounded-lg">
+                                <i data-lucide="filter" class="w-5 h-5 text-blue-600"></i>
+                            </div>
+                            <h2 class="font-bold text-gray-900 text-lg">Categories</h2>
+                        </div>
+                        
+                        <nav id="category-list" class="space-y-2">
+                            <!-- Categories will be injected here by JS -->
+                        </nav>
+                    </div>
+
+                    <!-- Promo Card -->
+                    <div class="bg-gradient-to-br from-slate-900 to-slate-800 rounded-2xl p-6 text-white shadow-xl relative overflow-hidden group">
+                        <div class="absolute top-0 right-0 w-32 h-32 bg-blue-500 rounded-full blur-[60px] opacity-20 group-hover:opacity-30 transition-opacity duration-500"></div>
+                        <h3 class="font-bold text-lg mb-2 relative z-10">Custom Engineering</h3>
+                        <p class="text-sm text-gray-300 mb-4 relative z-10 leading-relaxed">
+                            Need a specific line configuration? We design tailored solutions.
+                        </p>
+                        <button class="w-full py-2.5 bg-white text-slate-900 text-sm font-bold rounded-lg hover:bg-blue-50 transition-colors relative z-10 shadow-lg">
+                            Contact Engineers
+                        </button>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Main Grid Area -->
+            <main class="flex-1">
+                <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 gap-4">
+                    <div>
+                        <h1 id="page-title" class="text-3xl font-bold text-gray-900 tracking-tight">All Products</h1>
+                        <p class="text-gray-500 mt-1">Premium industrial machinery for your production line.</p>
+                    </div>
+                    <div class="flex items-center gap-3 text-sm">
+                        <span class="text-gray-500">Sort by:</span>
+                        <select class="bg-white border border-gray-200 rounded-lg px-3 py-2 text-gray-900 font-semibold focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none cursor-pointer hover:border-blue-400 transition-colors">
+                            <option>Relevance</option>
+                            <option>Newest First</option>
+                            <option>Price: Low to High</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Product Grid -->
+                <div id="product-grid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8">
+                    <!-- Products will be injected here by JS -->
+                </div>
+
+                <!-- Pagination -->
+                <div class="mt-16 flex justify-center">
+                    <div class="bg-white p-1 rounded-full shadow-sm border border-gray-100 flex gap-1">
+                        <button class="w-10 h-10 flex items-center justify-center rounded-full text-gray-400 hover:bg-gray-50 hover:text-gray-900 transition-colors">
+                            <i data-lucide="chevron-left" class="w-5 h-5"></i>
+                        </button>
+                        <button class="w-10 h-10 flex items-center justify-center rounded-full bg-blue-600 text-white font-bold shadow-md transform hover:scale-105 transition-transform">1</button>
+                        <button class="w-10 h-10 flex items-center justify-center rounded-full text-gray-600 hover:bg-gray-50 hover:text-blue-600 transition-colors">2</button>
+                        <button class="w-10 h-10 flex items-center justify-center rounded-full text-gray-600 hover:bg-gray-50 hover:text-blue-600 transition-colors">3</button>
+                        <button class="w-10 h-10 flex items-center justify-center rounded-full text-gray-900 hover:bg-gray-50 hover:text-blue-600 transition-colors">
+                            <i data-lucide="chevron-right" class="w-5 h-5"></i>
+                        </button>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Footer Mockup -->
+    <footer class="bg-white border-t border-gray-200 mt-auto">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
+                <p>&copy; 2024 MachineryCorp. All rights reserved.</p>
+                <div class="flex gap-6 mt-4 md:mt-0">
+                    <a href="#" class="hover:text-blue-600">Privacy Policy</a>
+                    <a href="#" class="hover:text-blue-600">Terms of Service</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript Logic -->
+    <script>
+        // --- Mock Data ---
+        const PRODUCTS = [
+            {
+                id: 'p1',
+                name: 'Pro-X500 Rotary Labeler',
+                category: 'Labeling',
+                isNew: true,
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Rotary+Labeler',
+                specifications: {
+                    'Speed': '600 ppm',
+                    'Power': '15 kW',
+                    'Voltage': '380V / 50Hz'
+                }
+            },
+            {
+                id: 'p2',
+                name: 'Servo Filling System A-20',
+                category: 'Filling',
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Filling+System',
+                specifications: {
+                    'Nozzles': '12 Heads',
+                    'Accuracy': '±0.5%',
+                    'Volume': '100-1000ml'
+                }
+            },
+            {
+                id: 'p3',
+                name: 'AutoPack Carton Erector',
+                category: 'Packaging',
+                isNew: true,
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Carton+Erector',
+                specifications: {
+                    'Speed': '40 cpm',
+                    'Tape Width': '48-72 mm',
+                    'Carton Size': 'Max 500mm'
+                }
+            },
+            {
+                id: 'p4',
+                name: 'FlexConveyor Belt Series',
+                category: 'Conveyors',
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Conveyor+Belt',
+                specifications: {
+                    'Width': '600 mm',
+                    'Load Cap': '150 kg/m',
+                    'Speed': '0-30m/min'
+                }
+            },
+            {
+                id: 'p5',
+                name: 'Thermal Shrink Tunnel T-800',
+                category: 'Packaging',
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Shrink+Tunnel',
+                specifications: {
+                    'Temp Range': '0-250°C',
+                    'Chamber': '1200x450mm',
+                    'Power': '12 kW'
+                }
+            },
+            {
+                id: 'p6',
+                name: 'Robotic Palletizer R-200',
+                category: 'Palletizing',
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Robot+Palletizer',
+                specifications: {
+                    'Payload': '200 kg',
+                    'Reach': '3100 mm',
+                    'Cycles': '800/hr'
+                }
+            }
+        ];
+
+        const CATEGORIES = [
+            'All Products',
+            'Liquid Filling',
+            'Labeling Machines',
+            'Cartoning & Case Packing',
+            'Palletizing Systems',
+            'Conveyors & Logistics',
+            'Inspection Systems'
+        ];
+
+        let activeCategory = 'All Products';
+
+        // --- Render Functions ---
+
+        function renderCategories() {
+            const container = document.getElementById('category-list');
+            container.innerHTML = CATEGORIES.map(cat => {
+                const isActive = cat === activeCategory;
+                const activeClasses = 'bg-blue-600 text-white font-semibold shadow-md shadow-blue-500/20';
+                const inactiveClasses = 'text-gray-600 hover:bg-gray-50 hover:text-blue-600';
+                
+                return `
+                    <button 
+                        onclick="setActiveCategory('${cat}')"
+                        class="w-full text-left px-4 py-3 rounded-xl text-sm transition-all flex justify-between items-center group ${isActive ? activeClasses : inactiveClasses}"
+                    >
+                        ${cat}
+                        ${isActive ? '<i data-lucide="chevron-right" class="w-4 h-4"></i>' : ''}
+                    </button>
+                `;
+            }).join('');
+            
+            // Re-initialize icons for newly added elements
+            lucide.createIcons();
+        }
+
+        function renderProducts() {
+            const container = document.getElementById('product-grid');
+            
+            // Filter logic (simple mock)
+            const filteredProducts = activeCategory === 'All Products' 
+                ? PRODUCTS 
+                : PRODUCTS.filter(p => p.category === activeCategory || activeCategory.includes(p.category));
+
+            if (filteredProducts.length === 0) {
+                container.innerHTML = `<div class="col-span-full text-center py-20 text-gray-500">No products found in this category.</div>`;
+                return;
+            }
+
+            container.innerHTML = filteredProducts.map(product => {
+                // Generate specs HTML
+                const specsHtml = Object.entries(product.specifications).map(([key, value]) => `
+                    <div class="flex items-center text-sm border-b border-gray-50 pb-1 last:border-0 last:pb-0">
+                        <span class="w-4 h-4 mr-2 text-blue-500 flex items-center justify-center">
+                            <div class="w-1.5 h-1.5 bg-blue-500 rounded-full"></div>
+                        </span>
+                        <span class="text-gray-500 w-24 font-medium truncate">${key}</span>
+                        <span class="text-gray-900 font-semibold truncate">${value}</span>
+                    </div>
+                `).join('');
+
+                return `
+                    <div class="group flex flex-col bg-white rounded-2xl shadow-md hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 overflow-hidden relative border border-gray-100/50">
+                        
+                        ${product.isNew ? `
+                        <div class="absolute top-4 left-4 z-10 bg-amber-500 text-white text-xs font-bold px-3 py-1 rounded-full shadow-sm">
+                            NEW ARRIVAL
+                        </div>` : ''}
+
+                        <!-- Image -->
+                        <div class="relative w-full aspect-[4/3] bg-gray-100 overflow-hidden">
+                            <img
+                                src="${product.image}"
+                                alt="${product.name}"
+                                class="w-full h-full object-cover object-center mix-blend-multiply opacity-90 group-hover:opacity-100 group-hover:scale-105 transition-all duration-500"
+                            />
+                            <div class="absolute inset-0 bg-gradient-to-t from-black/5 to-transparent pointer-events-none"></div>
+                        </div>
+
+                        <!-- Content -->
+                        <div class="p-6 flex-grow flex flex-col">
+                            <div class="flex justify-between items-start mb-2">
+                                <span class="text-xs font-bold text-blue-600 uppercase tracking-wider bg-blue-50 px-2 py-1 rounded-md">
+                                    ${product.category}
+                                </span>
+                            </div>
+
+                            <h3 class="text-xl font-bold text-gray-900 mb-4 leading-tight group-hover:text-blue-600 transition-colors">
+                                ${product.name}
+                            </h3>
+
+                            <div class="mb-6 flex-grow space-y-2">
+                                ${specsHtml}
+                            </div>
+
+                            <button 
+                                onclick="alert('Viewing details: ${product.name}')"
+                                class="w-full py-3 px-4 bg-gray-900 text-white font-bold text-sm rounded-xl hover:bg-blue-600 hover:shadow-lg hover:shadow-blue-500/30 transition-all duration-200 flex items-center justify-center gap-2 group-hover/btn"
+                            >
+                                View Specs
+                                <i data-lucide="arrow-right" class="w-4 h-4 transition-transform group-hover/btn:translate-x-1"></i>
+                            </button>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            // Re-initialize icons
+            lucide.createIcons();
+        }
+
+        function setActiveCategory(cat) {
+            activeCategory = cat;
+            document.getElementById('page-title').innerText = cat;
+            renderCategories();
+            renderProducts();
+        }
+
+        // --- Initialization ---
+        document.addEventListener('DOMContentLoaded', () => {
+            // Initial Render
+            renderCategories();
+            renderProducts();
+            
+            // Mobile Menu Toggle
+            const mobileBtn = document.getElementById('mobile-menu-btn');
+            const mobileMenu = document.getElementById('mobile-menu');
+            
+            mobileBtn.addEventListener('click', () => {
+                mobileMenu.classList.toggle('hidden');
+            });
+
+            // Initialize Icons
+            lucide.createIcons();
+        });
+
+    </script>
+</body>
+</html>

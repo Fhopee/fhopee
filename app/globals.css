@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 你可以在这里加一些全局样式，比如让背景色看起来更柔和 */
+body {
+  @apply bg-gray-50 text-slate-900;
+}

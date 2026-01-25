@@ -1,0 +1,2305 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]><html class="ie ie6"> <![endif]-->
+
+<!--[if IE 7 ]><html class="ie ie7"> <![endif]-->
+
+<!--[if IE 8 ]><html class="ie ie8"> <![endif]-->
+
+<!--[if IE 9 ]><html class="ie ie9"> <![endif]-->
+
+
+
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>Contact Us | FHOPE</title>
+
+<meta name="description" content="Contact us for more information of FHOPE  in products, technical service, and support..." />
+
+<meta name="keywords" content="">
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<meta name="uri-translation" content="on" />
+
+<link rel="alternate" href="https://www.fhopepack.com/m/list.php?tid=294">
+
+<!-- Head Tag Start -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MFJT5B6');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Apple Touch Icon Without System Shine Effect -->
+
+<meta name="msapplication-TileColor" content="#FFFFFF">
+
+<!-- Application Icons for Windows 8 -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="msapplication-TileColor">
+
+<!-- Style Sheets -->
+
+<link href="/source/css/bootstrap.css" rel="stylesheet">
+
+
+
+<link href="/source/css/itp-custom4.css" rel="stylesheet">
+
+<link rel="shortcut icon" href="https://www.fhopepack.com/source/fhope.ico">
+
+<!-- Custom CSS from CMS -->
+
+<link href="/source/css/style.css" rel="stylesheet" type="text/css" />
+<link rel="preload" href="https://www.fhopepack.com/source/images/fhopepack-logo.png" as="image" />
+
+
+
+<!-- Head Tag End -->
+
+
+
+<!-- Favicons -->
+
+
+
+<link rel="stylesheet" href="/source/css/slick.css">
+
+<style>
+
+    /* Reset default styles */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+
+
+    .msg_form {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .msg_form li {
+      margin-bottom: 15px;
+    }
+
+    .msg_form label {
+      display: block;
+      font-size: 16px;
+      color: #333;
+      margin-bottom: 5px;
+    }
+
+    .msg_form input,
+    .msg_form textarea {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      transition: border-color 0.3s ease;
+    }
+
+    .msg_form input:focus,
+    .msg_form textarea:focus {
+      border-color: #007bff;
+      outline: none;
+    }
+
+    .msg_form textarea {
+      resize: vertical;
+      min-height: 100px;
+    }
+
+    .msg_form button {
+      padding: 12px 20px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .msg_form button:hover {
+      background-color: #0056b3;
+    }
+
+    .msg_form p {
+      margin-bottom: 0;
+    }
+
+    .msg_form .butbox {
+      text-align: center;
+    }
+
+    .msg_form input::placeholder,
+    .msg_form textarea::placeholder {
+      color: #aaa;
+    }
+
+    /* Style for the required * indicator */
+    .msg_form span {
+      color: #FF0000;
+    }
+
+
+</style>
+
+
+<style>
+        /* Custom Styles for Modern Tech Blue Theme */
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+            background-color: #f0f4f8;
+            color: #1e293b;
+        }
+        /* menu自定义样式 */
+        .menu-bar {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 72px;
+            background: #0a2540;
+            box-shadow: 0 4px 24px 0 rgba(37,99,235,0.08);
+            padding: 0 24px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .menu-logo {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #fff;
+            letter-spacing: 1px;
+            margin-right: 32px;
+        }
+        .menu-logo span { color: #60a5fa; }
+        .menu-links {
+            display: flex;
+            gap: 24px;
+            align-items: center;
+            transition: all .3s;
+            justify-content: center;
+        }
+        .menu-link, .menu-btn {
+            color: #cbd5e1;
+            font-weight: 700;
+            padding: 8px 16px;
+            border-radius: 12px;
+            transition: all .25s cubic-bezier(.4,0,.2,1);
+            font-size: 1.2rem;
+            text-decoration: none !important;
+        }
+        .menu-link:hover, .menu-link.active {
+            background: #2563eb;
+            color: #fff;
+        }
+        .menu-btn {
+            background: #f59e42;
+            color: #fff;
+            font-weight: 700;
+            border: none;
+            border-radius: 12px;
+            padding: 10px 28px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            box-shadow: 0 4px 24px 0 rgba(37,99,235,0.08);
+            transition: all .25s cubic-bezier(.4,0,.2,1);
+        }
+        .menu-btn:hover { background: #ea580c; transform: translateY(-2px); }
+        .menu-hamburger {
+            display: none;
+            background: none;
+            border: none;
+            font-size: 2rem;
+            color: #fff;
+            cursor: pointer;
+            margin-left: 16px;
+            z-index: 110;
+        }
+        @media (max-width: 900px) {
+            .menu-links {
+                gap: 12px;
+            }
+            .menu-btn {
+                padding: 8px 16px;
+                font-size: 0.95rem;
+            }
+        }
+        @media (max-width: 700px) {
+            .menu-hamburger { display: block; }
+            .menu-links {
+                display: none;
+                position: absolute;
+                top: 72px;
+                left: 0;
+                width: 100vw;
+                background: #0a2540;
+                flex-direction: column;
+                gap: 0;
+                box-shadow: 0 8px 32px 0 rgba(37,99,235,0.12);
+                border-bottom-left-radius: 12px;
+                border-bottom-right-radius: 12px;
+                overflow: hidden;
+                z-index: 9999;
+            }
+            .menu-links.open {
+                display: flex !important;
+                animation: menuDrop .3s;
+            }
+        }
+        @keyframes menuDrop {
+            from { transform: translateY(-30px); opacity: 0;}
+            to { transform: translateY(0); opacity: 1;}
+        }
+        .menu-link {
+            padding: 16px 24px;
+            border-radius: 0;
+            border-bottom: 1px solid #1e293b;
+            width: 100%;
+            text-align: left;
+        }
+        .menu-btn {
+            margin: 16px 24px;
+            width: calc(100% - 48px);
+        }
+        /* hero自定义样式 */
+        .hero-modern {
+            position: relative;
+          min-height: 60vh;
+          height: 600px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          overflow: hidden;
+        }
+  
+        .hero-content {
+          position: relative;
+          z-index: 1;
+          color: #fff;
+          text-align: center;
+          max-width: 700px;
+          margin: 0 auto;
+          padding: 32px 16px;
+        }
+        .hero-title {
+          font-size: 4.5rem;
+          font-weight: 800;
+          margin-bottom: 24px;
+          line-height: 1.15;
+          letter-spacing: 1px;
+        }
+        .hero-desc {
+          font-size: 1.25rem;
+          color: #e0e7ef;
+          margin-bottom: 36px;
+        }
+        .hero-btn {
+          display: inline-block;
+          background: #f59e42;
+          color: #fff;
+          font-weight: 700;
+          border-radius: 12px;
+          padding: 14px 36px;
+          font-size: 1.1rem;
+          box-shadow: 0 4px 24px 0 rgba(37,99,235,0.08);
+          transition: background .2s, transform .2s;
+          margin-bottom: 28px;
+          text-decoration: none;
+        }
+        .hero-btn:hover {
+          background: #ea580c;
+          transform: translateY(-2px) scale(1.04);
+        }
+        .hero-contact {
+          font-size: 1.1rem;
+          color: #60a5fa;
+          font-weight: 600;
+        }
+        @media (max-width: 700px) {
+          .hero-modern { height: 340px; min-height: 0; }
+          .hero-title { font-size: 1.4rem; }
+          .hero-desc { font-size: 1rem; }
+          .hero-btn { font-size: 1rem; padding: 12px 18px; }
+        }
+        /* why partner自定义样式 */
+        .why-container {
+          max-width: 1280px;
+          margin: 0 auto;
+          padding: 0 16px;
+        }
+        .why-title {
+          font-size: 2rem;
+          font-weight: 700;
+          color: #1e40af;
+          margin-bottom: 8px;
+          letter-spacing: 1px;
+          text-align: center;
+        }
+        .why-subtitle {
+          color: #3b82f6;
+          font-size: 1.2rem;
+          margin-bottom: 32px;
+          text-align: center;
+        }
+        .why-stats {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 32px;
+          justify-content: center;
+        }
+        .stat-item {
+            background-color: #ffffff;
+            color: #1e293b;
+            padding: 2rem 1.5rem;
+            border-radius: 0.5rem;
+            text-align: center;
+            border: 1px solid #2563eb;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 2px 8px 0 rgba(37,99,235,0.06);
+            flex: 1 1 200px;
+            min-width: 180px;
+            max-width: 260px;
+        }
+        .stat-item .stat-number {
+            color: #2563eb;
+            font-weight: 800;
+            font-size: 3.5rem;
+            margin-bottom: 8px;
+            display: block;
+            letter-spacing: 2px;
+            font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+            transition: color 0.2s;
+        }
+        .stat-item:hover {
+            transform: translateY(-3px) scale(1.04);
+            box-shadow: 0 6px 18px rgba(37, 99, 235, 0.13);
+        }
+        .stat-label { font-size: 1.2rem; font-weight: 700; color: #2563eb; margin-top: 0.5rem; }
+        @media (max-width: 900px) {
+          .why-stats { flex-direction: column; align-items: center; }
+        }
+        .accent-bg { /* Accent color - Orange/Yellow for CTAs */
+            background-color: #f97316; /* Vibrant Orange */
+        }
+        .accent-text { /* Accent color for text if needed, usually blue for this theme */
+            color: #f97316;
+        }
+        .primary-text {
+            color: #2563eb; /* Primary Blue for headings or important text */
+        }
+        .secondary-text {
+            color: #475569; /* Slate gray for supporting text */
+        }
+
+        .cta-button {
+            background-color: #f97316; /* Vibrant Orange */
+            color: #ffffff; /* White text on orange button */
+            font-weight: 600; /* Semibold */
+            padding: 0.875rem 1.75rem; /* py-3.5 px-7 */
+            border-radius: 0.375rem; /* rounded-md */
+            transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+            text-decoration: none;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        .cta-button:hover {
+            background-color: #ea580c; /* Darker Orange */
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        .cta-button-secondary { /* For less prominent CTAs */
+            background-color: #2563eb; /* Blue */
+            color: #ffffff;
+            font-weight: 600;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.375rem;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+        .cta-button-secondary:hover {
+            background-color: #1d4ed8; /* Darker Blue */
+            transform: translateY(-1px);
+        }
+
+        .product-card {
+            background-color: #ffffff; /* White card background */
+            border-radius: 0.5rem; /* rounded-lg */
+            overflow: hidden;
+            border: 1px solid #e2e8f0; /* Light gray border */
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05), 0 1px 2px 0 rgba(0, 0, 0, 0.03);
+        }
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.07), 0 4px 6px -2px rgba(0, 0, 0, 0.04);
+        }
+        .stat-item {
+            background-color: #ffffff;
+            color: #1e293b;
+            padding: 2rem 1.5rem;
+            border-radius: 0.5rem;
+            text-align: center;
+            border: 1px solid #2563eb;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 2px 8px 0 rgba(37,99,235,0.06);
+        }
+        .stat-item .stat-number {
+            color: #2563eb;
+            font-weight: 800;
+            font-size: 3rem;
+            margin-bottom: 8px;
+            display: block;
+            letter-spacing: 2px;
+            font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+            transition: color 0.2s;
+        }
+        .stat-item:hover {
+            transform: translateY(-3px) scale(1.04);
+            box-shadow: 0 6px 18px rgba(37, 99, 235, 0.13);
+        }
+        .nav-link {
+            color: #e2e8f0; /* Lighter text for dark header */
+            padding: 0.5rem 0.75rem;
+            border-radius: 0.375rem;
+            transition: color 0.3s ease, background-color 0.3s ease;
+        }
+        .nav-link:hover {
+            color: #ffffff;
+            background-color: rgba(255, 255, 255, 0.1); /* Subtle hover for dark header */
+        }
+        .mobile-nav-link { /* Specific for mobile menu items */
+            color: #374151; /* Darker gray for light mobile menu */
+        }
+        .mobile-nav-link:hover {
+            color: #1e40af;
+            background-color: #e0e7ff; /* Light blue hover */
+        }
+
+        #backToTopBtn {
+            position: fixed;
+            bottom: 30px; /* Increased spacing */
+            right: 30px;
+            display: none;
+            z-index: 100;
+            background-color: #2563eb; /* Blue */
+            color: #ffffff;
+        }
+        #backToTopBtn:hover {
+            background-color: #1d4ed8; /* Darker Blue */
+        }
+        .testimonial-card {
+            background-color: #ffffff;
+            border: 1px solid #e2e8f0; /* Light gray border */
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05), 0 1px 2px 0 rgba(0, 0, 0, 0.03);
+        }
+        .client-logo-box {
+            width: 180px;
+            height: 72px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex: 0 0 180px;
+            margin: 0 24px 24px 0;
+            background: transparent;
+        }
+        .client-logo {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            filter: none;
+            opacity: 1;
+            background: transparent;
+            transition: none;
+            max-width: none;
+        }
+        .client-logo:hover {
+            filter: grayscale(0%);
+            opacity: 1;
+        }
+        .section-title {
+            color: #1e40af; /* Dark Blue for section titles */
+            font-weight: 700; /* Bold */
+        }
+        .section-subtitle {
+            color: #3b82f6; /* Lighter Blue for subtitles */
+            font-weight: 500; /* Medium */
+        }
+        .section-description {
+            color: #475569; /* Slate gray */
+        }
+        /* Ample white space using Tailwind's spacing scale */
+        section {
+            padding-top: 4rem; /* py-16 */
+            padding-bottom: 4rem; /* py-16 */
+        }
+        .container {
+            max-width: 1280px; /* xl */
+        }
+
+        .hero-modern {
+          position: relative;
+          min-height: 60vh;
+          height: 600px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          overflow: hidden;
+        }
+        .hero-bg {
+          position: absolute;
+          inset: 0;
+          background: linear-gradient(120deg,rgba(10,37,64,0.55) 60%,rgba(37,99,235,0.5) 100%), url('https://www.fhopepack.com/blog/wp-content/uploads/2025/05/steel-coil-tilter-manufacturer-png.webp') center/cover no-repeat;
+          z-index: 0;
+        }
+        .hero-content {
+          position: relative;
+          z-index: 1;
+          color: #fff;
+          text-align: center;
+          max-width: 700px;
+          margin: 0 auto;
+          padding: 32px 16px;
+        }
+        .hero-title {
+          font-size: 4.5rem;
+          font-weight: 800;
+          margin-bottom: 24px;
+          line-height: 1.15;
+          letter-spacing: 1px;
+        }
+        .hero-desc {
+          font-size: 1.25rem;
+          color: #e0e7ef;
+          margin-bottom: 36px;
+        }
+        .hero-btn {
+          display: inline-block;
+          background: #f59e42;
+          color: #fff;
+          font-weight: 700;
+          border-radius: 12px;
+          padding: 14px 36px;
+          font-size: 1.1rem;
+          box-shadow: 0 4px 24px 0 rgba(37,99,235,0.08);
+          transition: background .2s, transform .2s;
+          margin-bottom: 28px;
+          text-decoration: none;
+        }
+        .hero-btn:hover {
+          background: #ea580c;
+          transform: translateY(-2px) scale(1.04);
+        }
+        .hero-contact {
+          font-size: 1.1rem;
+          color: #60a5fa;
+          font-weight: 600;
+        }
+        @media (max-width: 700px) {
+          .hero-modern { height: 340px; min-height: 0; }
+          .hero-title { font-size: 1.4rem; }
+          .hero-desc { font-size: 1rem; }
+          .hero-btn { font-size: 1rem; padding: 12px 18px; }
+        }
+        /* why partner自定义样式 */
+        .why-container {
+          max-width: 1280px;
+          margin: 0 auto;
+          padding: 0 16px;
+        }
+        .why-title {
+          font-size: 2rem;
+          font-weight: 700;
+          color: #1e40af;
+          margin-bottom: 8px;
+          letter-spacing: 1px;
+          text-align: center;
+        }
+        .why-subtitle {
+          color: #3b82f6;
+          font-size: 1.2rem;
+          margin-bottom: 32px;
+          text-align: center;
+        }
+        .why-stats {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 32px;
+          justify-content: center;
+        }
+        .stat-item {
+            background-color: #ffffff;
+            color: #1e293b;
+            padding: 2rem 1.5rem;
+            border-radius: 0.5rem;
+            text-align: center;
+            border: 1px solid #2563eb;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 2px 8px 0 rgba(37,99,235,0.06);
+            flex: 1 1 200px;
+            min-width: 180px;
+            max-width: 260px;
+        }
+        .stat-item .stat-number {
+            color: #2563eb;
+            font-weight: 800;
+            font-size: 3rem;
+            margin-bottom: 8px;
+            display: block;
+            letter-spacing: 2px;
+            font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+            transition: color 0.2s;
+        }
+        .stat-item:hover {
+            transform: translateY(-3px) scale(1.04);
+            box-shadow: 0 6px 18px rgba(37, 99, 235, 0.13);
+        }
+        @media (max-width: 900px) {
+          .why-stats { flex-direction: column; align-items: center; }
+        }
+
+        /* 汉堡包导航样式补充 */
+        @media (max-width: 700px) {
+            .menu-hamburger { display: block; }
+            .menu-links {
+                display: none;
+                position: absolute;
+                top: 72px;
+                left: 0;
+                width: 100vw;
+                background: #0a2540;
+                flex-direction: column;
+                gap: 0;
+                box-shadow: 0 8px 32px 0 rgba(37,99,235,0.12);
+                border-bottom-left-radius: 12px;
+                border-bottom-right-radius: 12px;
+                overflow: hidden;
+                z-index: 105;
+            }
+            .menu-links.open {
+                display: flex;
+                animation: menuDrop .3s;
+            }
+            @keyframes menuDrop {
+                from { transform: translateY(-30px); opacity: 0;}
+                to { transform: translateY(0); opacity: 1;}
+            }
+            .menu-link {
+                padding: 16px 24px;
+                border-radius: 0;
+                border-bottom: 1px solid #1e293b;
+                width: 100%;
+                text-align: left;
+            }
+            .menu-btn {
+                margin: 16px 24px;
+                width: calc(100% - 48px);
+            }
+        }
+
+        /* why us 响应式布局优化 */
+        @media (max-width: 900px) {
+            .why-stats {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap: 20px;
+                padding: 0 16px;
+            }
+            .stat-item {
+                min-width: 140px;
+                max-width: none;
+            }
+        }
+        @media (max-width: 500px) {
+            .why-stats {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* services 本地样式 */
+        .services-section {
+            padding: 5rem 0;
+        }
+        .services-container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+        .services-header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+        .services-title {
+            font-size: 2.25rem;
+            font-weight: 700;
+            color: #1e40af;
+            margin-bottom: 0.75rem;
+        }
+        .services-subtitle {
+            font-size: 1.5rem;
+            color: #3b82f6;
+        }
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(2, 1fr);
+            gap: 2.5rem;
+        }
+        .service-card {
+            background: #ffffff;
+            border-radius: 0.5rem;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .service-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+        .service-image {
+            width: 100%;
+            aspect-ratio: 1/1;
+            height: auto;
+            object-fit: cover;
+        }
+        .service-content {
+            padding: 2rem;
+        }
+        .service-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 0.75rem;
+        }
+        .service-description {
+            color: #475569;
+            font-size: 0.875rem;
+            margin-bottom: 1.5rem;
+        }
+        .service-link {
+            display: block;
+            text-align: center;
+            background: #2563eb;
+            color: #ffffff;
+            padding: 0.75rem;
+            border-radius: 0.375rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .service-link:hover {
+            background: #1d4ed8;
+        }
+
+        /* showcases 本地样式 */
+        .showcases-section {
+            padding: 5rem 0;
+            background: #0f172a;
+            color: #e2e8f0;
+        }
+        .showcases-container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+        .showcases-header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+        .showcases-title {
+            font-size: 2.25rem;
+            font-weight: 700;
+            color: #60a5fa;
+            margin-bottom: 0.75rem;
+        }
+        .showcases-subtitle {
+            font-size: 1.5rem;
+            color: #94a3b8;
+        }
+        .showcases-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(4, 1fr);
+            gap: 1.5rem;
+        }
+        .showcase-image {
+            width: 100%;
+            aspect-ratio: 1/1;
+            height: auto;
+            object-fit: cover;
+            border-radius: 0.5rem;
+            opacity: 0.8;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+        }
+        .showcase-image:hover {
+            transform: scale(1.05);
+            opacity: 1;
+        }
+        .showcases-cta {
+            text-align: center;
+            margin-top: 4rem;
+        }
+        .showcases-button {
+            display: inline-block;
+            background: #f97316;
+            color: #ffffff;
+            padding: 0.875rem 2rem;
+            border-radius: 0.375rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+        .showcases-button:hover {
+            background: #ea580c;
+            transform: translateY(-2px);
+        }
+
+        /* 响应式布局 */
+        @media (max-width: 1024px) {
+            .services-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .showcases-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+        @media (max-width: 768px) {
+            .services-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1.5rem;
+            }
+            .showcases-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        @media (max-width: 480px) {
+            .services-grid {
+                grid-template-columns: 1fr;
+            }
+            .showcases-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1rem;
+            }
+        }
+
+        /* Comprehensive Support 区块样式 */
+        .support-section { padding: 5rem 0; background: #e8f0fb; }
+        .support-container { max-width: 1280px; margin: 0 auto; padding: 0 1rem; display: flex; gap: 3rem; align-items: center; flex-wrap: wrap; }
+        .support-header { flex: 1 1 350px; }
+        .support-title { font-size: 2.25rem; font-weight: 700; color: #1e40af; margin-bottom: 0.75rem; }
+        .support-subtitle { font-size: 1.5rem; color: #3b82f6; margin-bottom: 2rem; }
+        .support-list { list-style: none; padding: 0; margin: 0; }
+        .support-list-item { display: flex; align-items: flex-start; gap: 1rem; font-size: 1.1rem; color: #475569; margin-bottom: 1.5rem; }
+        .support-list-item svg { color: #2563eb; flex-shrink: 0; }
+        .support-image { flex: 1 1 350px; max-width: 500px; border-radius: 0.5rem; box-shadow: 0 4px 24px 0 rgba(37,99,235,0.08); }
+        @media (max-width: 900px) { .support-container { flex-direction: column; gap: 2rem; } .support-image { width: 100%; } }
+
+        /* Clients 区块样式 */
+        .clients-section { padding: 5rem 0; background: #fff; }
+        .clients-container { max-width: 1280px; margin: 0 auto; padding: 0 1rem; }
+        .clients-header { text-align: center; margin-bottom: 3rem; }
+        .clients-title { font-size: 2.25rem; font-weight: 700; color: #1e40af; margin-bottom: 0.75rem; }
+        .clients-desc { color: #64748b; font-size: 1.1rem; margin-bottom: 1.5rem; }
+        .clients-logos {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow: hidden;
+            justify-content: flex-start;
+            align-items: center;
+            width: 100%;
+            max-width: 1280px;
+            margin: 0 auto;
+            position: relative;
+        }
+        .client-logo-box {
+            width: 180px;
+            height: 72px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex: 0 0 180px;
+            margin: 0 24px 24px 0;
+            background: transparent;
+        }
+        .client-logo {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            filter: none;
+            opacity: 1;
+            background: transparent;
+            transition: none;
+            max-width: none;
+        }
+        @media (max-width: 900px) {
+            .client-logo-box { width: 120px; height: 56px; margin: 0 12px 12px 0; }
+        }
+        @media (max-width: 600px) {
+            .client-logo-box { width: 80px; height: 40px; margin: 0 8px 8px 0; }
+        }
+
+        /* Testimonials 区块样式 */
+        .testimonials-section { padding: 5rem 0; background: #1e293b; color: #e2e8f0; }
+        .testimonials-container { max-width: 1280px; margin: 0 auto; padding: 0 1rem; }
+        .testimonials-header { text-align: center; margin-bottom: 3rem; }
+        .testimonials-title { font-size: 2.25rem; font-weight: 700; color: #60a5fa; margin-bottom: 0.75rem; }
+        .testimonials-subtitle { color: #3b82f6; font-size: 1.2rem; margin-bottom: 2rem; }
+        .testimonials-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
+        .testimonial-card { background: #24304a; border-radius: 0.5rem; box-shadow: 0 2px 8px 0 rgba(37,99,235,0.06); padding: 2rem; text-align: left; transition: transform 0.2s, box-shadow 0.2s; }
+        .testimonial-card:hover { transform: translateY(-3px) scale(1.04); box-shadow: 0 6px 18px rgba(37, 99, 235, 0.13); }
+        .testimonial-stars { color: #fbbf24; font-size: 1.2rem; margin-bottom: 1rem; }
+        .testimonial-text { color: #475569; font-size: 1rem; margin-bottom: 1.5rem; font-style: italic; }
+        .testimonial-author { font-weight: 600; color: #60a5fa; font-size: 1.1rem; }
+        .testimonial-role { color: #cbd5e1; font-size: 0.95rem; }
+        @media (max-width: 900px) { .testimonials-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 600px) { .testimonials-grid { grid-template-columns: 1fr; } }
+
+        /* Contact 区块样式 */
+        .contact-section { padding: 5rem 0; background: #0f172a; color: #e2e8f0; }
+        .contact-container { max-width: 700px; margin: 0 auto; padding: 0 1rem; background: #1e293b; border-radius: 0.75rem; box-shadow: 0 4px 24px 0 rgba(37,99,235,0.08); }
+        .contact-header { text-align: center; margin-bottom: 2.5rem; }
+        .contact-title { font-size: 2.25rem; font-weight: 700; color: #60a5fa; margin-bottom: 0.75rem; }
+        .contact-subtitle { color: #94a3b8; font-size: 1.2rem; margin-bottom: 2rem; }
+        .contact-form { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+        .contact-input, .contact-textarea { width: 100%; padding: 1.2rem 1rem; border-radius: 0.375rem; border: 1.5px solid #334155; background: #334155; color: #fff; font-size: 1.1rem; margin-bottom: 0; box-sizing: border-box; }
+        .contact-input::placeholder, .contact-textarea::placeholder { color: #94a3b8; font-size: 1.05rem; }
+        .contact-input:focus, .contact-textarea:focus { outline: 2px solid #2563eb; border-color: #2563eb; }
+        .contact-form-row { grid-column: span 2; }
+        .contact-btn { grid-column: span 2; background: #f97316; color: #fff; font-weight: 600; padding: 1.2rem; border-radius: 0.375rem; border: none; font-size: 1.2rem; cursor: pointer; transition: background 0.2s; }
+        .contact-btn:hover { background: #ea580c; }
+        @media (max-width: 600px) { .contact-form { grid-template-columns: 1fr; } .contact-btn, .contact-form-row { grid-column: span 1; } }
+
+        /* Footer 区块样式 */
+        .footer-section { background: #0a2540; color: #cbd5e1; padding: 3rem 0; }
+        .footer-container { max-width: 1280px; margin: 0 auto; padding: 0 1rem; text-align: center; }
+        .footer-logo { font-size: 2rem; font-weight: bold; color: #fff; letter-spacing: 1px; margin-bottom: 1rem; display: inline-block; }
+        .footer-logo span { color: #60a5fa; }
+        .footer-info { margin-bottom: 1.5rem; color: #64748b; font-size: 1rem; }
+        .footer-social { display: flex; justify-content: center; gap: 1.5rem; margin-top: 1.5rem; }
+        .footer-social a { color: #cbd5e1; font-size: 1.5rem; transition: color 0.2s; }
+        .footer-social a:hover { color: #60a5fa; }
+
+        /* client testimonials 加头像 */
+        .testimonial-avatar { width: 64px; height: 64px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #60a5fa; }
+        .testimonial-card { display: flex; flex-direction: column; align-items: center; }
+
+        /* logo区和menu间距 */
+        .clients-section { margin-top: 48px; }
+        header { margin-bottom: 0; }
+        .menu-logo { margin-right: 32px; }
+
+        /* why partner section 手机端stat-item高度一致 */
+        .stat-item { min-height: 120px; padding: 1.5rem 1rem; }
+        @media (max-width: 900px) { .stat-item { min-height: 100px; } }
+        @media (max-width: 600px) { .stat-item { min-height: 80px; } }
+
+        /* Comprehensive Support新版样式 */
+        .support-section { padding: 5rem 0; background: #e8f0fb; }
+        .support-flex { display: flex; gap: 3rem; align-items: flex-start; flex-wrap: wrap; max-width: 1280px; margin: 0 auto; padding: 0 1rem; }
+        .support-left { flex: 1 1 400px; min-width: 300px; }
+        .support-title-prefix { font-size: 1.1rem; color: #f97316; font-weight: 700; margin-bottom: 0.5rem; letter-spacing: 1px; }
+        .support-title-main { font-size: 2.5rem; font-weight: 800; color: #1e40af; margin-bottom: 1.2rem; }
+        .support-desc { color: #475569; font-size: 1.15rem; margin-bottom: 2rem; }
+        .support-icon-list { display: flex; flex-direction: column; gap: 1.2rem; margin-bottom: 2.5rem; }
+        .support-icon-item { display: flex; align-items: center; gap: 1rem; font-size: 1.1rem; color: #2563eb; font-weight: 600; }
+        .support-icon-item svg { width: 28px; height: 28px; flex-shrink: 0; }
+        .support-btn { display: inline-block; background: #f97316; color: #fff; font-weight: 700; padding: 1rem 2.5rem; border-radius: 0.5rem; font-size: 1.1rem; text-decoration: none; margin-top: 1.5rem; transition: background 0.2s; }
+        .support-btn:hover { background: #ea580c; }
+        .support-img-wrap { flex: 1 1 350px; min-width: 260px; display: flex; align-items: center; justify-content: center; }
+        .support-img { width: 100%; max-width: 500px; border-radius: 0.5rem; box-shadow: 0 4px 24px 0 rgba(37,99,235,0.08); }
+        @media (max-width: 900px) { .support-flex { flex-direction: column; gap: 2rem; } .support-img { max-width: 100%; } }
+
+        /* Certifications Section Styles */
+        .certifications-section {
+            padding: 5rem 0;
+            background: #f8fafc;
+        }
+        .certifications-container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+        .certifications-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        .certifications-title {
+            font-size: 2.25rem;
+            font-weight: 700;
+            color: #1e40af;
+            margin-bottom: 0.75rem;
+        }
+        .certifications-subtitle {
+            color: #3b82f6;
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+        .certifications-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2rem;
+            justify-content: center;
+        }
+        .certification-card {
+            background: #ffffff;
+            border-radius: 0.5rem;
+            overflow: hidden;
+            box-shadow: 0 2px 8px 0 rgba(37,99,235,0.06);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 1.5rem;
+        }
+        .certification-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 18px rgba(37, 99, 235, 0.13);
+        }
+        .certification-image {
+            width: 120px;
+            height: 120px;
+            object-fit: contain;
+            margin-bottom: 1rem;
+        }
+        .certification-content {
+            text-align: center;
+        }
+        .certification-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 0.5rem;
+        }
+        .certification-desc {
+            color: #64748b;
+            font-size: 0.95rem;
+        }
+
+        @media (max-width: 1024px) {
+            .certifications-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1.5rem;
+            }
+        }
+        @media (max-width: 640px) {
+            .certifications-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+            .certification-card {
+                padding: 1rem;
+            }
+            .certification-image {
+                width: 100px;
+                height: 100px;
+            }
+        }
+
+        /* Production Capacity Section Styles */
+        .capacity-section {
+            padding: 5rem 0;
+            background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%);
+            color: #ffffff;
+        }
+        .capacity-container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+        .capacity-header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+        .capacity-title {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: #ffffff;
+            margin-bottom: 1rem;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .capacity-subtitle {
+            font-size: 1.3rem;
+            color: #e0e7ff;
+            margin-bottom: 2rem;
+        }
+        .capacity-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+        .capacity-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 1rem;
+            padding: 2rem;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .capacity-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+        .capacity-icon {
+            width: 280px;
+            height: 280px;
+            margin: 0 auto 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            border-radius: 0.5rem;
+        }
+        .capacity-icon-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+        .capacity-card:hover .capacity-icon-img {
+            transform: scale(1.05);
+        }
+        .capacity-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: #ffffff;
+        }
+        .capacity-desc {
+            font-size: 1.1rem;
+            color: #e0e7ff;
+        }
+        .capacity-features {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+            margin-top: 4rem;
+        }
+        .feature-item {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 1rem;
+            padding: 2rem;
+            display: flex;
+            align-items: flex-start;
+            gap: 1.5rem;
+        }
+        .feature-icon {
+            font-size: 2.5rem;
+            flex-shrink: 0;
+        }
+        .feature-content h3 {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #ffffff;
+        }
+        .feature-content p {
+            color: #e0e7ff;
+            font-size: 1rem;
+            line-height: 1.5;
+        }
+
+        @media (max-width: 1024px) {
+            .capacity-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .capacity-features {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        @media (max-width: 640px) {
+            .capacity-grid {
+                grid-template-columns: 1fr;
+            }
+            .capacity-features {
+                grid-template-columns: 1fr;
+            }
+            .capacity-title {
+                font-size: 2rem;
+            }
+            .capacity-subtitle {
+                font-size: 1.1rem;
+            }
+        }
+    </style>
+
+
+</head>
+
+<body class="" ng-app="itpApp">
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFJT5B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- lite-youtube custom element -->
+<link rel="stylesheet" href="/source/embed.css" />
+<script src="/source/embed.js"></script> 
+
+
+  <div id="mobileSearchPanel" class="mobileNavPanel closed">
+    <div id="mobileSearchInput">
+       <form name="form3mob" action="/search.php" method="post" class="seform" onSubmit="return CheckSearchMob();">
+        <input name="q" type="text" maxlength="50"  tabindex="1" value="" placeholder='Enter your search term' autocomplete="off" style="z-index: 10000;" />
+        <input name="pagesize" type="hidden" value="10"/>
+        <input name="channeltype" type="hidden" value="6"/>
+        <input name="typeid" type="hidden" value="1"/> 
+        <input name="lang" type="hidden" value="en"/>
+        <button type='submit' class='icon search'>search</button> 
+      </form> 
+     </div>
+  </div>
+  <div id="navSecondary" class="mobileNavPanel closed">
+    <div id="navSecondaryInner" class="clearfix">
+        
+    <ul class="nav navbar-nav clearfix">
+	<li><strong><a href="https://www.fhopepack.com/" title="FHOPE PACK"><span style="color:#0000CD;">HOME </span></a></strong></li>
+	<li><strong><a href="https://www.fhopepack.com/blog/" target="_blank" title="Fhope Blog"><span style="color:#0000CD;">Blog</span></a></strong></li>
+	<li><strong><a href="https://www.fhopepack.com/cn/industry-machine/fhope.html" target="_blank" title="wrapping machine"><span style="color:#0000CD;">Industry Machine</span></a></strong></li>
+	<li><strong><a href="https://www.fhopepack.com/cn/Show-Room/index.html" title="Show room of Fhope Machine"><span style="color:#0000CD;">Show Room </span></a></strong></li>
+	<li><strong><a href="https://www.fhopepack.com/markets/" title="Market"><span style="color:#0000CD;">Market</span></a></strong></li>
+	<li><strong><a href="https://www.fhopepack.com/About_Us.html" title="about us"><span style="color:#0000CD;">About Us</span></a></strong></li>
+	<li><strong><a href="https://www.fhopepack.com/Contact-Us.html" title="Contact us"><span style="color:#0000CD;">Contact Us</span></a></strong></li>
+</ul>
+
+<!-- GTranslate: moblie-->     
+<script type="text/javascript">
+/* <![CDATA[ */
+function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.pathname.split('/')[1];if(plang.length !=2 && plang.toLowerCase() != 'zh-cn' && plang.toLowerCase() != 'zh-tw')plang='en';if(lang == 'en')location.href=location.protocol+'//'+location.host+location.pathname.replace('/'+plang+'/', '/')+location.search;else location.href=location.protocol+'//'+location.host+'/'+lang+location.pathname.replace('/'+plang+'/', '/')+location.search;}
+/* ]]> */
+</script>
+
+      <div id="navRightCol">
+        <div id="navLanguage">
+          <select onchange="doGTranslate(this);"><option value="">Language</option>
+      <option value="en|en">English</option><option value="en|ar">Arabic</option><option value="en|zh-CN">Chinese </option><option value="en|nl">Dutch</option>
+      <option value="en|fr">French</option><option value="en|de">German</option><option value="en|hi">Hindi</option><option value="en|it">Italian</option>
+      <option value="en|ja">Japanese</option><option value="en|ko">Korean</option><option value="en|pt">Portuguese</option>
+      <option value="en|ru">Russian</option><option value="en|es">Spanish</option><option value="en|iw">Hebrew</option>
+      <option value="en|vi">Vietnamese</option><option value="en|th">Thai</option><option value="en|ml">Malayalam</option></select>
+
+        </div>
+        <ul>
+          <li id="navPhone"><a href="tel:+86-139-51501635"><span class="icon"></span>Service</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+   <!-- GTranslate: Pics -->
+  <nav id="navSecondaryIcons">
+    <div id="mobileSearchIcon" class="icon closed"></div>
+    <div id="mobileNavIcon" class="icon closed"></div>
+  </nav>
+  <div id="headerOverlay"></div>
+  <header class="container-fluid">
+    <div id="contactInfo">
+     <p> 
+      <a href="#" onclick="doGTranslate('en|zh-CN');return false;" title="Chinese (Simplified)" class="gflag nturl" style="background-position:-300px -0px;">
+<img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Chinese (Simplified)" /></a>
+<a href="#" onclick="doGTranslate('en|en');return false;" title="English" class="gflag nturl" style="background-position:-0px -0px;">
+    <img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="English" /></a>
+    <a href="#" onclick="doGTranslate('en|fr');return false;" title="French" class="gflag nturl" style="background-position:-200px -100px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="French" /></a><a href="#" onclick="doGTranslate('en|de');return false;" title="German" class="gflag nturl" style="background-position:-300px -100px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="German" /></a><a href="#" onclick="doGTranslate('en|it');return false;" title="Italian" class="gflag nturl" style="background-position:-600px -100px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Italian" /></a><a href="#" onclick="doGTranslate('en|ja');return false;" title="Japanese" class="gflag nturl" style="background-position:-700px -100px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Japanese" /></a><a href="#" onclick="doGTranslate('en|ko');return false;" title="Korean" class="gflag nturl" style="background-position:-0px -200px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Korean" /></a><a href="#" onclick="doGTranslate('en|pt');return false;" title="Portuguese" class="gflag nturl" style="background-position:-300px -200px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Portuguese" /></a><a href="#" onclick="doGTranslate('en|ru');return false;" title="Russian" class="gflag nturl" style="background-position:-500px -200px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Russian" /></a><a href="#" onclick="doGTranslate('en|es');return false;" title="Spanish" class="gflag nturl" style="background-position:-600px -200px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Spanish" /></a><a href="#" onclick="doGTranslate('en|id');return false;" title="Indonesian" class="gflag nturl" style="background-position:-300px -300px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Indonesian" /></a><a href="#" onclick="doGTranslate('en|th');return false;" title="Thai" class="gflag nturl" style="background-position:-0px -500px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Thai" /></a>
+
+<style type="text/css">
+<!--
+a.gflag {vertical-align:middle;font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url(//gtranslate.net/flags/24.png);}
+a.gflag img {border:0;}
+a.gflag:hover {background-image:url(//gtranslate.net/flags/24a.png);}
+-->
+</style>
+      </p>
+      
+    </div>
+    
+    
+    
+     <!-- GTranslate: srip-->
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.pathname.split('/')[1];if(plang.length !=2 && plang.toLowerCase() != 'zh-cn' && plang.toLowerCase() != 'zh-tw')plang='en';if(lang == 'en')location.href=location.protocol+'//'+location.host+location.pathname.replace('/'+plang+'/', '/')+location.search;else location.href=location.protocol+'//'+location.host+'/'+lang+location.pathname.replace('/'+plang+'/', '/')+location.search;}
+/* ]]> */
+</script>
+  
+
+    
+    <div id="headerLanguage">
+      <select onchange="doGTranslate(this);"><option value="">Select Language</option>
+      <option value="en|en">English</option><option value="en|ar">Arabic</option><option value="en|zh-CN">Chinese (Simplified)</option><option value="en|nl">Dutch</option>
+      <option value="en|fr">French</option><option value="en|de">German</option><option value="en|hi">Hindi</option><option value="en|it">Italian</option>
+      <option value="en|ja">Japanese</option><option value="en|ko">Korean</option><option value="en|pt">Portuguese</option>
+      <option value="en|ru">Russian</option><option value="en|es">Spanish</option><option value="en|iw">Hebrew</option>
+      <option value="en|vi">Vietnamese</option><option value="en|th">Thai</option><option value="en|ml">Malayalam</option></select>
+
+
+    </div>
+    
+    
+    <div id="headerSearch">
+       <form name="form3" action="/search.php" method="post" class="seform" onSubmit="return CheckSearch();">
+        <input name="q" type="text" maxlength="50"  tabindex="1" value="" placeholder='Enter your search term' autocomplete="off" style="z-index: 10000;" />
+        <input name="pagesize" type="hidden" value="10"/>
+        <input name="channeltype" type="hidden" value="6"/>
+        <input name="typeid" type="hidden" value="1"/> 
+        <input name="lang" type="hidden" value="en"/>
+        <button type='submit' class='icon search'>search</button> 
+      </form> 
+    </div>
+    <div id="logo"> <a href="/"> <img src="https://www.fhopepack.com/source/images/fhopepack-logo.png" alt="FhopePack" width="228" height="88" /> </a> </div>
+    
+
+    
+    
+    
+    
+  </header>
+ <!-- Pre Content content start -->
+   <div id="navStripe" class="panelTapeBG ipg"></div>
+  <div id="navContent">
+    <nav id="navPrimary"> 
+    	
+    	
+    	<a href="#" id="products" class="closed"><b class="caret"></b>Products</a> 
+    	<a href="#" id="markets" class="closed"><b class="caret"></b>Markets</a> 
+     </nav>
+	
+    <div id="navProductsDropdown" class="dropdown closed clearfix" style="display: none;">  
+      <div class="wrapper clearfix">
+        <div class="navLinks navColOne">
+         <ul class="clearfix">
+            <li><i><b><a href="https://www.fhopepack.com/Coil_packing_machine.html"><u>COIL PACKING MACHINE</u></a></b></i></li>
+			<li><a href="https://www.fhopepack.com/Steel-coil-wrapping-machine/">Steel coil wrapping machine</a></li>
+            <li><a href="https://www.fhopepack.com/Wire-coil-wrapping-machine/">Wire coil wrapping machine</a></li>
+            <li><a href="https://www.fhopepack.com/Hose-packaging-machine/">Hose packing machine</a></li>
+            <li><a href="https://www.fhopepack.com/Copper-coil-packing-machine/">Copper packing machine</a></li>
+            <li><a href="https://www.fhopepack.com/Tyre-packing-machine/">Tyre packing machine</a></li>
+            <li><a href="https://www.fhopepack.com/Cable-packing-machine/">Cable packing machine</a></li>
+            <li><a href="https://www.fhopepack.com/Bearing-packing-machine/">Bearing packing machine</a></li>
+            <li><a href="https://www.fhopepack.com/Pipe-packing-machine/">Pipe Packing machine</a></li>
+            <li><i><b><a href="https://www.fhopepack.com/Coil_upender.html"><u>TILTER&UPENDER</u></a></b></i></li>
+            <li><a href="https://www.fhopepack.com/Mechanical/">Mechanical tilter</a></li>
+            <li><a href="https://www.fhopepack.com/Hydraulic/">Hydraulic tilter</a></li>
+			<li><a href="https://www.fhopepack.com/hydraulic-dumper/">Hydraulic box dumper</a></li> 
+          
+            <li><i><b><a href="https://www.fhopepack.com/pallet-inverter/"><u>PALLET INVERTER</u></a></b></i></li>
+			<li><i><b><a href="https://www.fhopepack.com/autobag.html"><u>AUTO BAGGER</u></a></b></i></li>	
+			</ul>  
+          </div>
+          
+        <div class="navLinks navColTwo">
+          <ul class="clearfix">
+            <li><i><b>
+			<a href="https://www.fhopepack.com/Stretch_wrapping_machine.html"><u>STRETCH WRAPPING MACHINE</u></a></b></i></li>
+            <li><a href="https://www.fhopepack.com/Semi-auto-pallet-wrapping-machine/">Semiauto pallet wrapping machine</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Automatic-pallet-wrapping-machine/">Automatic Pallet stretch wrapper</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Rotary-arm-wrapping-machine/">Rotary arm stretch wrapper</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Rotary-ring-stretch-wrapper/">Rotary ring stretch wrapper</a></li> 
+             <li><b><u><i>
+				<a href="https://www.fhopepack.com/Horizontal_wrapping_machine.html">HORIZONTAL WRAPPING MACHINE</a></i></u></b></li>
+            <li>
+			<a href="https://www.fhopepack.com/Semiauto-horizontal-wrapper/" >Semiauto orbital stretch wrapper</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Automatic-horizontal-stretch-wrapper/" >Automatic orbital stretch wrapper</a></li>
+            
+                <li>
+			<a href="https://www.fhopepack.com/Customize-orbital-wrapper/" >Customize orbital wrapper</a></li>
+    
+            <li><b><u><i>
+			<a href="https://www.fhopepack.com/Shrinking_machine.html">SHRINKING MACHINE</a></i></u></b></li>
+            <li><a href="https://www.fhopepack.com/Door_packing_machine.html">Door Shrinking machine</a></li>
+            <li><a href="https://www.fhopepack.com/Panel_shrinking_machine.html">Panel Shrinking machine</a></li>
+          </ul>
+        </div>
+        
+        <div class="navLinks navColThree">
+          <ul class="clearfix">
+            <li><i><b>
+			<a href="https://www.fhopepack.com/Automatic-Strapping-Machine/"><u>AUTOMATIC STRAPPING MACHINE</u></a></b></i></li>
+            <li>
+			<a href="https://www.fhopepack.com/steel-coil-strapping-machinery/">Steel coil strapping machine</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Steel-tube-strapping-machine/">Steel tube strapping machine</a></li>
+			<li>
+			<a href="https://www.fhopepack.com/Steel-wire-strapping-machine/">Steel wire strapping machine</a></li>
+            <li><i><b>
+			<a href="https://www.fhopepack.com/Automatic-Packing-Line/"><u>AUTOMATIC PACKING LINE</u></a></b></i></li>
+            <li>
+			<a href="https://www.fhopepack.com/Automatic-Coil-Packing-Line/">Automaitc coil packing line</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Automatic-Steel-Tube-Packing-Line/">Automatic steel tube packing line</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Plastic-Pipe-Packing-Line/">Plastic Pipe Packing Line</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Aluminum/">Aluminum profile packing line</a></li>
+			<li>
+			<a href="https://www.fhopepack.com/wire-line/">Automatic wire packing line</a></li>
+			<li>
+			<a href="https://www.fhopepack.com/Copper-Coil-Packing-Line/">Automatic copper coil packing line</a></li>
+			<li>
+			<a href="https://www.fhopepack.com/Master-coil-wrapper/">Master coil stretch wrapper</a></li>
+			
+		
+			
+            <li><b><u><i>
+			<a href="https://www.fhopepack.com/Automatic-Coiling-Machine/">AUTOMATIC COILER</a></i></u></b></li>
+            <li>
+			<a href="https://www.fhopepack.com/Horizontal-Coiling-Machine/">Horizontal automatic coiler</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Vertical-Coiling-Machine/">Vertical automatic coiler</a></li>
+            <li>			
+            <a href="https://www.fhopepack.com/cable-winder/">Automatic cable winder</a></li> 
+          </ul>
+        </div>
+      </div>
+    </div>
+
+
+    <div id="navMarketsDropdown" class="dropdown closed clearfix">
+      <div class="wrapper clearfix">
+        <div class="navLinks navColOne">
+          <ul>
+            <li> <img data-src="/source/images/icon-coil.png" class="lazyload" class="lazyload"/><a href="https://www.fhopepack.com/Industry%20Solution/Coil_packing_solution.html">COIL</a></li>
+            <li> <img data-src="/source/images/icon-steel-industry.png" class="lazyload"/><a href="https://www.fhopepack.com/Industry%20Solution/Metal_packing_solution.html">STEEL INDUSTRY</a></li>
+            <li> <img data-src="/source/images/icon-wire.png" class="lazyload"/><a href="https://www.fhopepack.com/Wire_coil_packing_machine.html">WIRE INDUSTRY</a></li>
+            <li> <img data-src="/source/images/icon_remediation.png" class="lazyload"/> 
+			<a href="https://www.fhopepack.com/Industry%20Solution/Plastic_packing_solution.html">PLASTIC & RUBBER INDUSTRY</a></li>
+            <li> <img data-src="/source/images/icon-aluminum.png" class="lazyload"/>
+			<a href="https://www.fhopepack.com/Aluminum_wrapping_machine.html">ALUMINUM INDUSTRY</a></li>
+          </ul>
+        </div>
+        <div class="navLinks navColTwo">
+          <ul>
+            <li> <img data-src="/source/images/icon_hvac.png" class="lazyload"/>  
+			<a href="https://www.fhopepack.com/Industry%20Solution/Palletizing_packing_solution.html">PALLET 
+			</a></li>
+            <li> <img data-src="/source/images/icon_consumer.png" class="lazyload"/> 
+			<a href="https://www.fhopepack.com/Pipe_bag_packaging_machine.html">BAGGING</a></li>
+            <li> <img data-src="/source/images/icon_marine.png" class="lazyload"/> 
+			LOGISTICSS</li>
+            <li> <img data-src="/source/images/icon_manufacturing.png" class="lazyload"/> CONSTRUCTION</li>
+            <li> <img data-src="/source/images/icon_structure.png" class="lazyload"/> GENERAL MANUFACTURING</li>
+          </ul>
+        </div>
+        <div class="navLinks navColThree">
+          <ul>
+            <li> <img data-src="/source/images/icon-long-shape-product.png" class="lazyload"/>  
+			<a href="https://www.fhopepack.com/Industry%20Solution/Horizontal_packing_solution.html">LONG SHAPE PRODUCTS</a></li>
+            <li> <img data-src="/source/images/icon-wooden-timber.png" class="lazyload"/>  
+			<a href="https://www.fhopepack.com/Industry%20Solution/Lumber%20and%20panel_packing_solution.html">WOODEN&amp;TIMBER</a></li>
+            <li> <img data-src="/source/images/icon-door.png" class="lazyload"/>  
+			<a href="https://www.fhopepack.com/Industry%20Solution/Door_packing_solution.html">DOOR &amp; PANEL</a></li>
+            <li> <img data-src="/source/images/icon-paper-cardboard.png" class="lazyload"/>  
+			<a href="https://www.fhopepack.com/Industry%20Solution/Paper_packing_solution.html">PAPER & CARDBOARD</a></li>
+            <li> <img data-src="/source/images/icon_electrical.png" class="lazyload"/> ELECTRICAL APPLIANCES</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+</div>
+  
+     
+  
+  <!-- Pre Content content end --> 
+
+
+  
+
+<!-- feature content start -->
+
+   
+
+  <!-- feature content end -->
+
+
+
+  <!-- feature content end -->
+
+  
+<!-- Post Content content end 111-->
+
+ <style>
+    /* A soft reset and basic module styling */
+    .contact * {
+        box-sizing: border-box;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .contact {
+        background-color: #ffffff;
+        padding: 80px 0;
+        color: #333;
+    }
+
+    /* Main layout grid */
+    .contact .grid {
+        max-width: 1280px;
+        margin: auto;
+        padding: 0 24px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 64px;
+        align-items: flex-start;
+    }
+
+    /* --- Form Column (Left) with New Non-Conflicting Classes --- */
+    .contact .inquiry-form-container .inquiry-form__header h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        color: #2563eb;
+        margin-bottom: 8px;
+    }
+    .contact .inquiry-form-container .inquiry-form__header p {
+        text-align: center;
+        font-size: 18px;
+        line-height: 1.6;
+        color: #6B7280;
+        margin-bottom: 40px;
+    }
+
+    .contact .inquiry-form__row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        margin-bottom: 20px;
+    }
+
+    /* 使用更具体的选择器来增加优先级 */
+.contact .inquiry-form .inquiry-form__group {
+    margin-bottom: 30px; 
+}
+
+    /* New specific class for form inputs to avoid conflicts */
+    .contact .inquiry-form__input {
+        width: 100%;
+        padding: 15px;
+        font-size: 16px;
+        color: #272222;
+        background-color: #f9fafb;
+       
+        border-radius: 8px;
+        transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        height: 52px; /* Set explicit height */
+        border: 1px solid #4a5568
+    }
+
+    /* Style for the textarea specifically */
+    .contact .inquiry-form__textarea {
+        height: auto; /* Override the fixed height */
+        min-height: 300px;
+        resize: vertical;
+    }
+
+    .contact .inquiry-form__input::placeholder {
+        color: #95a5a6;
+    }
+
+    .contact .inquiry-form__input:focus {
+        outline: none;
+        border-color: #3498DB;
+        box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.4);
+    }
+
+    /* Submit button */
+    .contact .inquiry-form__submit-wrapper {
+        margin-top: 10px;
+    }
+    .contact .inquiry-form__submit {
+        width: 100%;
+        padding: 15px 20px;
+        font-size: 18px;
+        font-weight: 700;
+        color: #ffffff;
+        background-color: #007BFF;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+    }
+    .contact .inquiry-form__submit:hover {
+        background-color: #0056b3;
+    }
+
+    /* Alert Message Styles */
+    .contact .alert {
+        padding: 15px;
+        margin-top: 20px;
+        border-radius: 8px;
+        font-size: 16px;
+        text-align: center;
+    }
+    .contact .alert-success {
+        background-color: #d4edda;
+        color: #553bcb;
+        border: 1px solid #c3e6cb;
+    }
+     .contact .alert-danger {
+        background-color: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+    }
+
+
+    /* --- Info Column (Right) - Unchanged --- */
+    .contact .info-col {
+        background-color: #f9fafb;
+        padding: 60px;
+        border-radius: 12px;
+        border: 1px solid #e5e7eb;
+    }
+    .contact .info-item { display: flex; align-items: flex-start; margin-bottom: 28px; }
+    .contact .info-item:last-child { margin-bottom: 0; }
+    .contact .info-icon { flex-shrink: 0; width: 48px; height: 48px; border-radius: 50%; display: grid; place-items: center; background-color: #e0e7ff; color: #3b82f6; margin-right: 20px; }
+    .contact .info-icon svg { width: 24px; height: 24px; }
+    .contact .info-content h3 { font-size: 18px; font-weight: 600; margin-bottom: 4px; color: #111827; }
+    .contact .info-content p { font-size: 16px; line-height: 1.6; color: #6B7280; }
+    .contact .info-content a { color: #2563eb; font-weight: 500; text-decoration: none; }
+    .contact .info-content a:hover { color: #1d4ed8; }
+    .contact .map { margin-top: 32px; border-radius: 12px; overflow: hidden; border: 1px solid #e5e7eb; }
+    .contact .map iframe { display: block; width: 100%; border: 0; }
+
+    /* --- Responsive --- */
+    @media (max-width: 1024px) {
+        .contact .grid { grid-template-columns: 1fr; gap: 48px; }
+    }
+    @media (max-width: 640px) {
+        .contact .inquiry-form__row { grid-template-columns: 1fr; }
+    }
+</style>
+
+<div class="contact">
+    <div class="grid">
+        <div class="inquiry-form-container">
+            <div class="inquiry-form__header">
+                <h2>Contact Us</h2>
+                <p>Our senior engineers will provide a free technical consultation within 2 working hours.</p>
+            </div>
+            
+                       <form id='inquiry-form' class='inquiry-form' method='post'>
+                <div class="inquiry-form__row">
+                    <input type="text" id="form-name" name="uname" placeholder="*Name" required class="inquiry-form__input">
+                    <input type="email" id="form-email" name="email" placeholder="*Email Address" required class="inquiry-form__input">
+                </div>
+                <div class="inquiry-form__group">
+                    <input type="tel" id="form-phone" name="mobile" placeholder="Phone Number" class="inquiry-form__input">
+                </div>
+                <div class="inquiry-form__group" style="padding-bottom: 18px;">
+                    <input type="text" id="form-company" name="company" placeholder="Your Website" class="inquiry-form__input">
+                </div>
+                <div style="padding: 20px;"></div>
+                <div class="inquiry-form__group">
+                    <textarea id="form-message" name="msg" placeholder="*Your Message / Inquiry" required class="inquiry-form__input inquiry-form__textarea"></textarea>
+                </div>
+
+                <input type="hidden" id="currentPageUrl" name="url" value="">
+                <input type="hidden" id="ip_address" name="ip_address" value="">
+
+                <div class="inquiry-form__submit-wrapper">
+                    <button type="submit" class="inquiry-form__submit">Send Message</button>
+                </div>
+            </form>
+
+            <div id="form-success-alert" class="alert alert-success" role="alert" hidden>Submit sucessful! Our team will reply in working 2 hours.</div>
+            <div id="form-danger-alert" class="alert alert-danger" role="alert" hidden></div>
+
+        </div>
+        
+        <div class="info-col">
+            <div class="info-item">
+                <div class="info-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                </div>
+                <div class="info-content">
+                    <h3>Email Us</h3>
+                    <p>Contact our sales or service team.</p>
+                    <a href="/cdn-cgi/l/email-protection#1871767e77587e7077687d68797b73367b7775"><span class="__cf_email__" data-cfemail="51383f373e1137393e21342130323a7f323e3c">[email&#160;protected]</span></a><br>
+                     <a href="/cdn-cgi/l/email-protection#92f4fafde2f7e2f3f1f9d2f5fff3fbfebcf1fdff"><span class="__cf_email__" data-cfemail="1b7d73746b7e6b7a78705b7c767a727735787476">[email&#160;protected]</span></a>
+                </div>
+            </div>
+            <div class="info-item">
+                <div class="info-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                </div>
+                <div class="info-content">
+                    <h3>Call Us</h3>
+                    <p>We are available during business hours.</p>
+                    <a href="tel:008613951501635">Mobile/Whatsapp/Wechat: 0086-13951501635</a>
+                </div>
+            </div>
+            <div class="info-item">
+                <div class="info-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                </div>
+                <div class="info-content">
+                    <h3>Our Locations</h3>
+                    <p>
+                        <strong>Shanghai Office:</strong> B1130, Bldg 5, No.2758 songjin road, Shanghai.
+                        <br>
+                        <strong>Kunshan Factory:</strong> No.1428 North road shipu fengshou, Kunshan.
+                    </p>
+                </div>
+            </div>
+            <div class="map">
+                <iframe 
+                    height="300" 
+                    allowfullscreen="" 
+                    loading="lazy" 
+                    referrerpolicy="no-referrer-when-downgrade" 
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3422.373268894267!2d120.99902631564883!3d31.48625995738676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b39920170a3f7b%3A0x6398363825851416!2sQiandeng%2C%20Kunshan%2C%20Suzhou%2C%20Jiangsu%2C%20China!5e0!3m2!1sen!2sus!4v1624834458896!5m2!1sen!2sus&language=en">
+                </iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+ <section id="clients" class="clients-section">
+            <div class="clients-container">
+                <div class="clients-header">
+                    <h2 class="clients-title">Leading Companies Choose Us</h2>
+                    <div class="clients-desc">Over 500+ Upender Servicing Coil Handling Around The World.​</div>
+                </div>
+                <div class="clients-logos">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/arcelormittal.png" alt="arcelormittal" class="client-logo" width="75" height="37" loading="lazy">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/gerdau-2.png" alt="gerdau 2" class="client-logo" width="75" height="39" loading="lazy">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/hyundai-steel.png" alt="hyundai steel" class="client-logo" width="75" height="37" loading="lazy">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/jfe_holdings_company_logo.svg.png" alt="jfe holdings company logo" class="client-logo" width="75" height="38" loading="lazy">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/nippon-steel-corporation.png" alt="nippon steel corporation" class="client-logo" width="75" height="29" loading="lazy">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/novelis.jpg" alt="novelis" class="client-logo" width="75" height="49" loading="lazy">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/nucor-corporation.png" alt="nucor corporation" class="client-logo" width="75" height="36" loading="lazy">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/posco.png" alt="posco" class="client-logo" width="75" height="37" loading="lazy">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/signode-brand-page-logo.png" alt="signode brand page logo" class="client-logo" width="75" height="37" loading="lazy">
+                    <img src="https://www.fhopepack.com/videos/wp-content/uploads/2025/01/tatasteellogo-1.jpg" alt="tatasteellogo 1" class="client-logo" width="75" height="41" loading="lazy">
+                </div>
+            </div>
+        </section>
+
+      
+
+       
+
+
+   <!-- Production Capacity Section -->
+        <section id="production-capacity" class="capacity-section">
+            <div class="capacity-container">
+                <div class="capacity-header">
+                    <h2 class="capacity-title">Production Capacity</h2>
+                    <div class="capacity-subtitle">Advanced Manufacturing Excellence</div>
+                </div>
+                <div class="capacity-grid">
+                    <div class="capacity-card">
+                        <div class="capacity-icon">
+                            <img src="https://www.fhopepack.com/blog/wp-content/uploads/2025/02/steel-coil.webp" alt="Production Capacity" class="capacity-icon-img" loading="lazy">
+                        </div>
+                        <div class="capacity-content">
+                            <h3 class="capacity-number">5,000+</h3>
+                            <p class="capacity-desc">Annual Production Capacity</p>
+                        </div>
+                    </div>
+                    <div class="capacity-card">
+                        <div class="capacity-icon">
+                            <img src="https://www.fhopepack.com/Stretch%20wrapping%20machines/images/Fhopepack-factory.jpg" alt="Manufacturing Facility" class="capacity-icon-img" loading="lazy">
+                        </div>
+                        <div class="capacity-content">
+                            <h3 class="capacity-number">5,000㎡</h3>
+                            <p class="capacity-desc">Manufacturing Facility</p>
+                        </div>
+                    </div>
+                    <div class="capacity-card">
+                        <div class="capacity-icon">
+                            <img src="https://www.fhopepack.com/blog/wp-content/uploads/2025/01/control-system-checking-for-packing-line-1-jpg.webp" alt="Professional Engineers" class="capacity-icon-img" loading="lazy">
+                        </div>
+                        <div class="capacity-content">
+                            <h3 class="capacity-number">50+</h3>
+                            <p class="capacity-desc">Professional Engineers</p>
+                        </div>
+                    </div>
+                    <div class="capacity-card">
+                        <div class="capacity-icon">
+                            <img src="https://www.fhopepack.com/blog/wp-content/uploads/2024/09/Quality-Control-and-Inspection-jpg.webp" alt="Years Experience" class="capacity-icon-img" loading="lazy">
+                        </div>
+                        <div class="capacity-content">
+                            <h3 class="capacity-number">15+</h3>
+                            <p class="capacity-desc">Years Experience</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="capacity-features">
+                    <div class="feature-item">
+                        <div class="feature-icon">🏭</div>
+                        <div class="feature-content">
+                            <h3>Advanced Manufacturing</h3>
+                            <p>State-of-the-art CNC machines and automated production lines</p>
+                        </div>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">🔧</div>
+                        <div class="feature-content">
+                            <h3>Quality Control</h3>
+                            <p>Strict quality control system with 100% inspection</p>
+                        </div>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">🚀</div>
+                        <div class="feature-content">
+                            <h3>R&D Innovation</h3>
+                            <p>Continuous innovation and technology advancement</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    // --- 1. 在这里替换成你自己的 EmailJS 信息 ---
+    const EMAILJS_PUBLIC_KEY = 'kOSbT2m1XQpGi_npm';
+    const EMAILJS_SERVICE_ID = 'service_mqg62ar';
+    const EMAILJS_TEMPLATE_ID = 'template_9s54uen';
+
+    // --- 2. 获取表单和相关元素 (使用更新后的ID) ---
+    const form = document.getElementById('inquiry-form');
+    if (!form) {
+        console.error('错误：无法找到ID为 "inquiry-form" 的表单。');
+        return;
+    }
+    const submitButton = form.querySelector('button[type="submit"]');
+
+    // 表单输入字段
+    const nameInput = document.getElementById('form-name');
+    const emailInput = document.getElementById('form-email');
+    const messageTextarea = document.getElementById('form-message');
+
+    // 隐藏字段
+    const urlField = document.getElementById('currentPageUrl');
+    const ipField = document.getElementById('ip_address');
+
+    // 成功/失败消息提示框
+    const successAlert = document.getElementById('form-success-alert');
+    const dangerAlert = document.getElementById('form-danger-alert');
+    
+    // --- 3. 初始化 EmailJS ---
+    if (typeof emailjs !== 'undefined') {
+        emailjs.init(EMAILJS_PUBLIC_KEY);
+    } else {
+        console.error('EmailJS SDK not loaded.');
+        return;
+    }
+
+    // --- 4. 监听表单提交事件 ---
+    form.addEventListener('submit', function (event) {
+        event.preventDefault(); // 阻止默认提交行为
+
+        // --- 表单验证 ---
+        if (!nameInput.value.trim() || !emailInput.value.trim() || !messageTextarea.value.trim()) {
+            dangerAlert.textContent = 'Please fill in all required fields.';
+            dangerAlert.hidden = false;
+            setTimeout(() => { dangerAlert.hidden = true; }, 4000);
+            return;
+        }
+
+        // --- 禁用按钮，显示正在处理 ---
+        submitButton.disabled = true;
+        submitButton.textContent = 'SENDING...';
+        successAlert.hidden = true;
+        dangerAlert.hidden = true;
+
+        // --- 定义邮件发送函数 ---
+        const sendEmail = () => {
+            emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, form)
+                .then((response) => {
+                    console.log('SUCCESS!', response.status, response.text);
+                    successAlert.hidden = false;
+                    form.reset();
+                    setTimeout(() => { successAlert.hidden = true; }, 5000);
+                }, (error) => {
+                    console.log('FAILED...', error);
+                    dangerAlert.textContent = 'Oops! There was a problem sending your message.';
+                    dangerAlert.hidden = false;
+                })
+                .finally(() => {
+                    // 无论邮件发送成功或失败，最后都恢复按钮状态
+                    submitButton.disabled = false;
+                    submitButton.textContent = 'Send Message'; // 恢复为原始文本
+                });
+        };
+        
+        // --- 填充隐藏字段并发送邮件 ---
+        // 1. 填充当前页面URL
+        if (urlField) {
+            urlField.value = window.location.href;
+        }
+
+        // 2. 异步获取IP地址
+        fetch('https://ip-api.com/json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok: ' + response.statusText);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('IP address acquired:', data.query);
+                if (ipField) {
+                    ipField.value = data.query;
+                }
+            })
+            .catch((err) => {
+                console.warn('Could not fetch IP address. Reason:', err.message);
+                if (ipField) {
+                    ipField.value = 'IP not available';
+                }
+            })
+            .finally(() => {
+                // 3. 关键：无论IP获取成功还是失败，都调用发送邮件的函数
+                console.log('Proceeding to send email...');
+                sendEmail();
+            });
+    });
+});
+</script>
+  
+  
+  
+  
+  <!-- Post Content content end -->
+
+  
+
+    <footer>
+    <div class="wrapper clearfix">
+      <div id="emailSignup" class="footerCol">
+        <h4> Special Products</h4>
+        <ul>
+          <li> <a href="https://www.fhopepack.com/Hose-coiling-and-strapping-machine.html">Automatic coiling machine</a> </li>
+          <li> <a href="http://www.calloytool.com">Calloytool</a> </li>
+          <li> <a href="https://www.fhopepack.com/Industry%20Solution/Industry_solution.html">Packaging solution</a> </li>
+          <li> <a href="https://www.fhopepack.com/Stretch-film-and-packing-material.html">Packing material </a> </li>
+          <li> <a  href="https://www.fhopepack.com/Horizontal_wrapping_machine.html">Orbital stretch wrapper</a> </li>
+        </ul>
+      </div>
+      <div id="" class="footerCol equalHeights">
+        <h4> Company</h4>
+        <ul>
+          <li> <a href="https://www.fhopepack.com/About_Us.html">About Us</a> </li>
+          <li> Factory </li>
+          <li> Team </li>
+          <li> Delivery </li>
+        </ul>
+      </div>
+      <div id="" class="footerCol equalHeights">
+        <h4> Support</h4>
+        <ul>
+          <li> B2B Support</li>
+          <li><a href="https://www.fhopepack.com/Contact-Us.html">Contact Us</a></li>
+          <li> Privacy Policy </li>
+          <li> Terms of Use </li>
+        </ul>
+      </div>
+      <div id="socialMedia" class="footerCol"> 
+        
+        <!-- Socail Media Start -->
+        <div class="section socialPanel">
+          <div class="socialPanel-header">
+            <h4 class="socialPanel-title"> Connect With Us </h4>
+          </div>
+          <ul class="content">
+            <li> <a href="https://www.facebook.com/yan.randal" rel="nofollow"> <img src="https://www.fhopepack.com/source/images/Fhope-icon-social-facebook.png" alt="fhopepack facebook" width="21" height="20" /> Facebook 
+			</a> </li>
+            <li> <a href="https://twitter.com/fhopepack"> <img src="https://www.fhopepack.com/source/images/Fhope-icon-social-twitter.png" alt="Twitter fhopepack" width="21" height="20" /> Twitter </a> </li>
+            <li> <a href="https://www.youtube.com/channel/UC4VWX0gorymh0z5GVw16z-g" rel="nofollow"> <img src="https://www.fhopepack.com/source/images/Fhope-icon-social-youtube.png" alt="Youtube fhopepack" width="21" height="20" /> Youtube </a> </li>
+            <li> <a href="https://www.pinterest.com/fhopepack/" rel="nofollow"> <img src="https://www.fhopepack.com/source/images/Fhope-icon-social-pinterest.png" alt="Pinterest fhopepack" width="21" height="20" /> Pinterest </a> </li>
+            <li> <a href="https://www.linkedin.com/company/fhope-pack/"> <img src="https://www.fhopepack.com/source/images/Fhope-icon-social-linkedin.png" alt="Linkedin fhopepack" width="21" height="20" /> LinkedIn </a> </li>
+            <li>  <img src="https://www.fhopepack.com/source/images/Fhope-icon-social-instagram.png" alt="Instagram fhopepack" width="21" height="20" /> Instagram </a> </li>
+          </ul>
+          
+          <!-- Social Media End --> 
+          
+        </div>
+      </div>
+      <div id="footerCopyright" class="clearfix"> <img src="/source/images/icon-fhopegroup.png" width="35" height="35" />
+        <p><span class="corpName">&copy; <script>document.write(new Date().getFullYear())</script> 
+		Fhope Machinery Co.,Ltd </span><span class="pipe"> | </span><span class="allRights">All Rights Reserved</span></p>
+      </div>
+    </div>
+  </footer>
+
+<script language='javascript'>
+function CheckSearch()
+{
+  if(document.form3.q.value=="")
+  {
+      document.form3.q.focus();
+      alert("Please enter the keyword!");
+      return false;
+  } 
+  return true;
+}
+function CheckSearchMob()
+{
+  if(document.form3mob.q.value=="")
+  {
+      document.form3mob.q.focus();
+      alert("Please enter the keyword!");
+      return false;
+  } 
+  return true;
+}
+</script> 
+
+<script src="/source/js/jquery.min.js"></script> 
+  <!-- LAZYLOAD --> 
+   <script src="/source/lazysizes.min.js" async></script>
+  
+<script src="/source/js/jquery.lazyload-1.9.1.js"></script> 
+
+<script type="text/javascript" charset="utf-8">
+  $(function() {
+      $("img.lazy").lazyload({effect: "fadeIn"});
+  });
+</script>
+
+
+  
+
+  <script src="/source/js/jquery.min.js"></script> 
+
+  <script src="/source/js/bootstrap.min.js"></script> 
+  
+  
+  
+  <script type="text/javascript">  
+window.onload = function(){
+    var nowDate = new Date();
+    var str = nowDate.getFullYear()+"-"+((nowDate.getMonth()+1)<10?"0":"")+(nowDate.getMonth()+1)+"-"+(nowDate.getDate()<10?"0":"")+nowDate.getDate()+" "+(nowDate.getHours()<10?"0":"")+nowDate.getHours()+":"+(nowDate.getMinutes()<10?"0":"")+nowDate.getMinutes()+":"+(nowDate.getSeconds()<10?"0":"")+nowDate.getSeconds();
+    document.getElementById("time").value=str;
+    var url = window.location.href;
+    document.getElementById("url").value=url;
+}
+
+
+$(document).ready(function() {
+    $('#myform').submit(function() {
+    //提交前验证表单
+      var isPhone = /^([0-9]{3,4}-)?[0-9]{7,8}$/;
+      var isMobile = /^((\+?86)|(\(\+86\)))?(13[012356789][0-9]{8}|15[012356789][0-9]{8}|18[012356789][0-9]{8}|147[0-9]{8}|177[0-9]{8}|1349[0-9]{7})$/;
+      var isMail = /^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/;
+      if(document.myform.uname.value=='' || document.myform.uname.value.length<2){
+        alert("Please fill in your name!");
+        document.myform.uname.focus();
+            return false;
+      }/*
+      else if (document.myform.mobile.value=="" || !isMobile.test(document.myform.mobile.value)){
+          alert('Please fill in the correct mobile phone!');
+        document.myform.mobile.focus();
+        return false;
+      }*/  
+      else if(document.myform.email.value=="" || !isMail.test(document.myform.email.value)){
+         alert("Please fill in the correct E-mail!");
+         document.myform.email.focus();
+         return false;
+      }   
+      else if(document.myform.msg.value=='' || document.myform.msg.value.length<2){
+        alert("Please fill in the message!");
+        document.myform.msg.focus();
+            return false;
+      }    
+    //开始执行数据提交
+        jQuery.ajax({
+            url: '/page/diy.php',
+            data: $('#myform').serialize(),//提交数据值
+            type: "POST",
+      error: function(request) {
+          alert("Connection error!");
+      },
+            beforeSend: function()
+            {  //提交前事件
+
+            },
+            success: function()
+            {
+                $('#myform')[0].reset();//重置表单
+             window.location.href='https://www.fhopepack.com/thank-you.html'
+            }
+        });
+    return false;
+    });
+});  
+</script>
+  
+  
+
+  <script src="/source/js/bootstrap-select.js"></script> 
+
+  <script src="/source/js/jquery.flexisel.js"></script> 
+
+  <script src="/source/js/jquery.equalheights.js"></script> 
+
+  <script src="/source/js/underscore-min.js"></script> 
+
+  <script src="/source/js/itp-custom4.js"></script> 
+
+  <script src="/source/js/fresco.min.js"></script>
+
+
+
+
+  <script type="text/javascript" src="/source/js/conversion.js">
+
+</script>
+
+
+
+  <script type="text/javascript">
+
+$(".mainContent h4.section.section-collapse").click( function() {
+
+    $(this).toggleClass("closed");
+
+});
+
+</script>
+
+ <script src="/source/lazysizes.min.js" async></script>
+  <!-- LAZYLOAD --> 
+<script src="/source/js/jquery.lazyload-1.9.1.js"></script> 
+
+
+
+  <!-- Images End -->
+
+
+    <!-- logo轮播JS（平滑滑动） -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const logoRow = document.querySelector('.clients-logos');
+      if (!logoRow) return;
+      const logoNodes = Array.from(logoRow.querySelectorAll('img'));
+      // 包裹每个logo
+      if (!logoRow.querySelector('.client-logo-box')) {
+        logoRow.innerHTML = '';
+        logoNodes.forEach(img => {
+          const box = document.createElement('div');
+          box.className = 'client-logo-box';
+          box.appendChild(img);
+          logoRow.appendChild(box);
+        });
+      }
+      const boxes = Array.from(logoRow.querySelectorAll('.client-logo-box'));
+      let visibleCount = 7;
+      let startIdx = 0;
+      let intervalId = null;
+      let animating = false;
+
+      function updateVisibleCount() {
+        if (window.innerWidth < 600) return 2;
+        if (window.innerWidth < 900) return 4;
+        return 7;
+      }
+
+      function renderLogos() {
+        // 只渲染可见数量+1（用于平滑滑动）
+        logoRow.innerHTML = '';
+        for (let i = 0; i < visibleCount + 1; i++) {
+          const idx = (startIdx + i) % boxes.length;
+          logoRow.appendChild(boxes[idx].cloneNode(true));
+        }
+        logoRow.style.transition = 'none';
+        logoRow.style.transform = 'translateX(0)';
+      }
+
+      function slideNext() {
+        if (animating) return;
+        animating = true;
+        logoRow.style.transition = 'transform 0.8s cubic-bezier(.4,0,.2,1)';
+        logoRow.style.transform = `translateX(-${logoRow.firstChild.offsetWidth}px)`;
+        setTimeout(() => {
+          startIdx = (startIdx + 1) % boxes.length;
+          renderLogos();
+          animating = false;
+        }, 800);
+      }
+
+      function startCarousel() {
+        if (intervalId) return;
+        intervalId = setInterval(slideNext, 3000);
+      }
+      function stopCarousel() {
+        if (intervalId) clearInterval(intervalId);
+        intervalId = null;
+      }
+
+      // IntersectionObserver，滚动到区块时启动轮播
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            visibleCount = updateVisibleCount();
+            renderLogos();
+            startCarousel();
+          } else {
+            stopCarousel();
+          }
+        });
+      }, { threshold: 0.3 });
+      observer.observe(logoRow);
+
+      window.addEventListener('resize', () => {
+        visibleCount = updateVisibleCount();
+        renderLogos();
+      });
+    });
+    </script>
+
+
+
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"b05cc58e506842c0a244f053e77a1287","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
+
+

@@ -1,0 +1,456 @@
+[
+  {
+    "id": "95",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "E200 Horizontal Spiral Stretch Wrapping Machine",
+    "slug": "e200-horizontal-spiral-stretch-wrapping-machine",
+    "seoTitle": "E200 Automatic Horizontal Spiral Stretch Wrapper | High-Speed Industrial Packaging",
+    "metaDescription": "The E200 automatic horizontal stretch wrapper delivers high-speed, reliable spiral wrapping for palletized loads. Features include PLC control, adjustable tension, and energy-efficient operation.",
+    "fullContentHtml": "<h2>E200 Horizontal Spiral Stretch Wrapping Machine</h2><p>The E200 is a fully automatic horizontal spiral stretch wrapping machine designed for high-volume B2B packaging operations. Engineered for durability and precision, it ensures consistent load containment and protection during transit and storage.</p><h3>Key Features</h3><ul><li>Advanced PLC control system with touchscreen interface</li><li>Adjustable spiral wrapping patterns and film tension</li><li>Energy-efficient direct drive motor system</li><li>Stainless steel construction in critical contact areas</li><li>Integrated safety guards and emergency stop</li><li>Compatible with various film types including pre-stretch film</li></ul><h3>Applications</h3><p>Ideal for wrapping palletized goods in industries such as food & beverage, pharmaceuticals, logistics, and manufacturing. Suitable for uniform and irregular shaped loads.</p>",
+    "specifications": {
+      "Speed": "Up to 60 pallets per hour",
+      "Power": "3-phase, 400V, 5.5 kW",
+      "Max Load Height": "2200 mm",
+      "Max Load Weight": "2000 kg",
+      "Film Roll Size": "500 mm diameter, 50 micron max thickness",
+      "Control System": "PLC with 7-inch touchscreen",
+      "Machine Dimensions": "2500 x 1800 x 3200 mm (LxWxH)",
+      "Weight": "Approx. 850 kg"
+    },
+    "mainImage": "/images/products/e200-horizontal-spiral-stretch-wrapping-machine.webp",
+    "gallery": [
+      "/images/products/e200-horizontal-spiral-stretch-wrapping-machine-1.png"
+    ]
+  },
+  {
+    "id": "98",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "E500 Orbital Horizontal Stretch Wrapping System",
+    "slug": "e500-orbital-horizontal-stretch-wrapping-system",
+    "seoTitle": "E500 Orbital Horizontal Stretch Wrapping System | Automatic Pallet Wrapping Solution",
+    "metaDescription": "High-speed automatic horizontal stretch wrapper for industrial pallet stabilization. Features orbital wrapping technology, PLC control, and energy-efficient operation for B2B packaging lines.",
+    "fullContentHtml": "<h2>E500 Orbital Horizontal Stretch Wrapping System</h2><p>The E500 Orbital Horizontal Stretch Wrapping System represents the pinnacle of automated pallet wrapping technology. Designed for high-volume industrial applications, this system delivers consistent, secure wrapping with minimal operator intervention.</p><h3>Key Features</h3><ul><li><strong>Orbital Wrapping Technology:</strong> Advanced orbital rotation ensures uniform film distribution and superior load containment</li><li><strong>Fully Automated Operation:</strong> PLC-controlled system with touchscreen interface for easy setup and monitoring</li><li><strong>High-Speed Performance:</strong> Optimized for production lines requiring rapid throughput without compromising wrap quality</li><li><strong>Adaptive Tension Control:</strong> Intelligent film tension management prevents tearing while maximizing stretch efficiency</li><li><strong>Modular Design:</strong> Customizable configurations to accommodate various pallet sizes and production environments</li></ul><h3>Applications</h3><p>Ideal for manufacturing facilities, distribution centers, and logistics operations requiring reliable, automated pallet stabilization for shipping and storage.</p>",
+    "specifications": {
+      "Speed": "Up to 120 pallets per hour",
+      "Power": "3-phase, 400V, 50Hz, 5.5kW",
+      "Max Pallet Dimensions": "1200mm × 1200mm × 2200mm (L×W×H)",
+      "Film Width Range": "500-750mm",
+      "Control System": "PLC with 10-inch touchscreen HMI",
+      "Wrapping Pattern": "Programmable orbital with adjustable overlap (30-70%)",
+      "Film Pre-stretch": "Up to 300%",
+      "Machine Weight": "Approximately 850kg",
+      "Safety Features": "Emergency stop, safety curtains, overload protection"
+    },
+    "mainImage": "/images/products/e500-orbital-horizontal-stretch-wrapping-system.webp",
+    "gallery": []
+  },
+  {
+    "id": "94",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "Spiror E100 Horizontal Stretch Wrapping Machine",
+    "slug": "spiror-e100-horizontal-stretch-wrapping-machine",
+    "seoTitle": "Spiror E100 Automatic Horizontal Stretch Wrapper | High-Speed Industrial Packaging",
+    "metaDescription": "The Spiror E100 automatic horizontal stretch wrapper delivers high-speed, reliable pallet wrapping for industrial applications. Features include PLC control, adjustable tension, and energy-efficient operation.",
+    "fullContentHtml": "<h2>Spiror E100 Horizontal Stretch Wrapping Machine</h2><p>The Spiror E100 is a fully automatic horizontal stretch wrapping machine designed for high-volume industrial packaging operations. Engineered for reliability and efficiency, this system streamlines pallet stabilization with consistent wrap tension and minimal film usage.</p><h3>Key Features</h3><ul><li><strong>Fully Automated Operation:</strong> PLC-controlled system with touchscreen interface for easy setup and monitoring.</li><li><strong>High-Speed Wrapping:</strong> Capable of wrapping up to 120 pallets per hour, depending on configuration.</li><li><strong>Adjustable Tension Control:</strong> Precision film tension settings to optimize load containment and reduce film waste.</li><li><strong>Modular Design:</strong> Compatible with various conveyor systems and integration into existing packaging lines.</li><li><strong>Energy Efficient:</strong> Low-power consumption motors and optimized cycle times reduce operational costs.</li><li><strong>Safety Features:</strong> Includes emergency stop, safety curtains, and overload protection.</li></ul><h3>Applications</h3><p>Ideal for industries requiring secure palletized loads for storage and transportation, including food & beverage, pharmaceuticals, logistics, and manufacturing.</p>",
+    "specifications": {
+      "Wrapping Speed": "Up to 120 pallets/hour",
+      "Power Supply": "400V / 50Hz / 3-phase",
+      "Power Consumption": "5.5 kW",
+      "Max Pallet Dimensions": "1600mm (L) x 1600mm (W) x 2200mm (H)",
+      "Max Load Weight": "2000 kg",
+      "Film Roll Diameter": "Up to 500mm",
+      "Control System": "PLC with 10-inch touchscreen HMI",
+      "Film Pre-stretch": "Up to 300%",
+      "Machine Weight": "Approx. 850 kg",
+      "Noise Level": "< 75 dB(A)"
+    },
+    "mainImage": "/images/products/spiror-e100-horizontal-stretch-wrapping-machine.webp",
+    "gallery": []
+  },
+  {
+    "id": "96",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "E300 Horizontal Orbital Stretch Wrapping Machine",
+    "slug": "e300-horizontal-orbital-stretch-wrapping-machine",
+    "seoTitle": "E300 Automatic Horizontal Stretch Wrapper | Industrial Packaging Solution",
+    "metaDescription": "High-speed E300 automatic horizontal stretch wrapping machine for industrial pallet stabilization. Features orbital wrapping technology, PLC control, and energy-efficient operation.",
+    "fullContentHtml": "<h2>E300 Horizontal Orbital Stretch Wrapping Machine</h2><p>The E300 represents the latest advancement in automatic horizontal stretch wrapping technology, designed for high-volume industrial packaging operations. This machine combines precision engineering with robust construction to deliver consistent, reliable pallet stabilization for various industries including logistics, manufacturing, and distribution centers.</p><h3>Key Features</h3><ul><li><strong>Orbital Wrapping Technology:</strong> Provides 360-degree uniform film application for superior load containment</li><li><strong>PLC Control System:</strong> User-friendly interface with programmable wrapping patterns and tension control</li><li><strong>High-Speed Operation:</strong> Capable of processing up to 120 pallets per hour depending on configuration</li><li><strong>Adaptive Film Delivery:</strong> Automatic film tension adjustment for optimal stretch and material savings</li><li><strong>Modular Design:</strong> Easy integration with existing conveyor systems and production lines</li><li><strong>Safety Features:</strong> Emergency stop systems, safety curtains, and comprehensive fault diagnostics</li></ul><h3>Applications</h3><p>Ideal for stabilizing palletized goods including boxes, bags, drums, and irregularly shaped loads. Suitable for food & beverage, pharmaceuticals, building materials, and consumer goods industries.</p>",
+    "specifications": {
+      "Speed": "Up to 120 pallets/hour",
+      "Power": "3-phase, 400V, 50Hz, 5.5kW",
+      "Max Load Dimensions": "1200mm x 1200mm x 2200mm (L x W x H)",
+      "Max Load Weight": "2000kg",
+      "Film Width Range": "500mm - 750mm",
+      "Film Stretch Ratio": "Up to 300%",
+      "Control System": "PLC with touchscreen interface",
+      "Wrapping Patterns": "Programmable (spiral, cross, banding)",
+      "Machine Dimensions": "2500mm x 1800mm x 3200mm",
+      "Weight": "Approx. 850kg"
+    },
+    "mainImage": "/images/products/e300-horizontal-orbital-stretch-wrapping-machine.webp",
+    "gallery": [
+      "/images/products/e300-horizontal-orbital-stretch-wrapping-machine-1.png"
+    ]
+  },
+  {
+    "id": "97",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "E400 Horizontal Stretch Wrapping Machine",
+    "slug": "e400-horizontal-stretch-wrapping-machine",
+    "seoTitle": "E400 Automatic Horizontal Stretch Wrapper | High-Speed Industrial Packaging Solution",
+    "metaDescription": "The E400 automatic horizontal stretch wrapper delivers reliable, high-speed pallet wrapping for industrial applications. Features include programmable controls, energy-efficient operation, and robust construction for demanding environments.",
+    "fullContentHtml": "<h2>E400 Automatic Horizontal Stretch Wrapping Machine</h2><p>The E400 is a fully automatic horizontal stretch wrapping system designed for high-volume production environments. Engineered for durability and precision, this machine streamlines pallet stabilization with consistent wrap tension and minimal film waste.</p><h3>Key Features</h3><ul><li><strong>Fully Automated Operation:</strong> Programmable logic controller (PLC) with touchscreen interface for easy setup and monitoring.</li><li><strong>High-Speed Wrapping:</strong> Capable of wrapping up to 120 pallets per hour, depending on load size and wrap pattern.</li><li><strong>Energy-Efficient Design:</strong> Optimized motor and drive system reduces power consumption during operation.</li><li><strong>Robust Construction:</strong> Heavy-duty steel frame and industrial-grade components ensure long-term reliability in demanding conditions.</li><li><strong>Versatile Compatibility:</strong> Accommodates a wide range of pallet sizes and load types with adjustable turntable and mast settings.</li><li><strong>Safety Features:</strong> Includes emergency stop, safety curtains, and overload protection for operator and equipment safety.</li></ul><h3>Applications</h3><p>Ideal for warehouses, distribution centers, manufacturing plants, and logistics operations requiring consistent, secure pallet wrapping for shipping and storage.</p>",
+    "specifications": {
+      "Speed": "Up to 120 pallets per hour",
+      "Power": "3-phase, 400V, 50Hz, 5.5 kW",
+      "Max Load Capacity": "2000 kg",
+      "Pallet Size Range": "800-1600 mm (W) x 800-1600 mm (L)",
+      "Max Load Height": "2200 mm",
+      "Film Roll Size": "500 mm diameter, 2500 mm length",
+      "Control System": "PLC with 10-inch touchscreen HMI",
+      "Turntable Type": "Motorized, variable speed",
+      "Wrap Cycles": "Programmable, 2-10 layers",
+      "Machine Dimensions": "3200 mm (L) x 2200 mm (W) x 2800 mm (H)",
+      "Weight": "Approx. 850 kg"
+    },
+    "mainImage": "/images/products/e400-horizontal-stretch-wrapping-machine.webp",
+    "gallery": [
+      "/images/products/e400-horizontal-stretch-wrapping-machine-1.png"
+    ]
+  },
+  {
+    "id": "99",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "E600 Horizontal Spiral Stretch Wrapping Machine",
+    "slug": "e600-horizontal-spiral-stretch-wrapping-machine",
+    "seoTitle": "E600 Automatic Horizontal Stretch Wrapper | Industrial Spiral Wrapping Machine",
+    "metaDescription": "High-performance E600 automatic horizontal stretch wrapper for industrial pallet stabilization. Features spiral wrapping technology, PLC control, and energy-efficient operation.",
+    "fullContentHtml": "<h2>E600 Horizontal Spiral Stretch Wrapping Machine</h2><p>The E600 is a fully automatic horizontal stretch wrapper designed for high-volume industrial applications. This machine utilizes advanced spiral wrapping technology to provide secure, consistent pallet stabilization for logistics and warehousing operations.</p><h3>Key Features</h3><ul><li>Fully automated operation with PLC control system</li><li>Horizontal spiral wrapping pattern for optimal load containment</li><li>Adjustable wrapping parameters for different load types</li><li>Energy-efficient motor and film delivery system</li><li>User-friendly touchscreen interface with preset programs</li><li>Robust steel construction for continuous operation</li><li>Safety features including emergency stop and protective guarding</li></ul><h3>Applications</h3><p>Ideal for wrapping palletized goods in manufacturing, distribution centers, and logistics facilities. Suitable for various industries including food & beverage, pharmaceuticals, chemicals, and consumer goods.</p>",
+    "specifications": {
+      "Wrapping Speed": "Up to 60 pallets per hour",
+      "Power Supply": "380V/50Hz, 3-phase",
+      "Motor Power": "2.2 kW",
+      "Max Load Height": "2200 mm",
+      "Max Load Weight": "2000 kg",
+      "Film Width Range": "500-750 mm",
+      "Control System": "PLC with touchscreen interface",
+      "Machine Dimensions": "2500 × 1800 × 3200 mm (L×W×H)",
+      "Weight": "850 kg"
+    },
+    "mainImage": "/images/products/e600-horizontal-spiral-stretch-wrapping-machine.webp",
+    "gallery": []
+  },
+  {
+    "id": "101",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "E1400 Horizontal Orbital Stretch Wrapping Machine",
+    "slug": "e1400-horizontal-orbital-stretch-wrapping-machine",
+    "seoTitle": "E1400 Automatic Horizontal Stretch Wrapper | Industrial Packaging Solution",
+    "metaDescription": "High-speed E1400 automatic horizontal stretch wrapper for industrial pallet stabilization. Features orbital wrapping technology, PLC control, and energy-efficient operation.",
+    "fullContentHtml": "<h2>E1400 Horizontal Orbital Stretch Wrapping Machine</h2><p>The E1400 is a fully automatic horizontal stretch wrapping system designed for high-volume industrial packaging operations. This machine utilizes advanced orbital wrapping technology to provide consistent, secure pallet stabilization for transportation and storage.</p><h3>Key Features</h3><ul><li>Fully automated operation with programmable logic controller (PLC)</li><li>Horizontal orbital wrapping motion for uniform film distribution</li><li>Adjustable wrapping parameters for different load types</li><li>Integrated safety systems with emergency stop functions</li><li>Low-maintenance design with easy-access components</li><li>Compatible with various stretch film types and thicknesses</li></ul><h3>Applications</h3><p>Ideal for packaging operations in manufacturing, distribution centers, food processing, and logistics facilities where consistent pallet stability is required.</p>",
+    "specifications": {
+      "Speed": "Up to 60 pallets per hour",
+      "Power": "3-phase, 380V, 5.5kW",
+      "Max Load Dimensions": "1200mm × 1200mm × 2200mm",
+      "Max Load Weight": "2000kg",
+      "Film Roll Size": "500mm width, 300mm diameter",
+      "Control System": "PLC with touchscreen interface",
+      "Wrapping Pattern": "Programmable horizontal orbital",
+      "Machine Dimensions": "2500mm × 1800mm × 2200mm",
+      "Weight": "850kg"
+    },
+    "mainImage": "/images/products/e1400-horizontal-orbital-stretch-wrapping-machine.webp",
+    "gallery": [
+      "/images/products/e1400-horizontal-orbital-stretch-wrapping-machine-1.png"
+    ]
+  },
+  {
+    "id": "102",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "E1800 Horizontal Orbital Stretch Wrapper",
+    "slug": "e1800-horizontal-orbital-stretch-wrapper",
+    "seoTitle": "E1800 Automatic Horizontal Stretch Wrapper | Industrial Packaging Solution",
+    "metaDescription": "The E1800 automatic horizontal stretch wrapper provides efficient, high-speed packaging for palletized goods with advanced orbital wrapping technology.",
+    "fullContentHtml": "<h2>E1800 Horizontal Orbital Stretch Wrapper</h2><p>The E1800 is a fully automatic horizontal stretch wrapping machine designed for high-volume industrial packaging operations. Utilizing advanced orbital wrapping technology, this system delivers consistent, secure pallet loads with optimal film usage and reduced labor costs.</p><h3>Key Features</h3><ul><li>Fully automated operation with programmable controls</li><li>Horizontal orbital wrapping motion for uniform tension</li><li>Adjustable wrapping parameters for different load types</li><li>Integrated safety features including emergency stop and safety curtains</li><li>Energy-efficient design with low power consumption</li><li>Compatible with various stretch film types and widths</li></ul><h3>Applications</h3><p>Ideal for packaging palletized goods in manufacturing, distribution, and logistics environments. Suitable for food & beverage, pharmaceuticals, building materials, and consumer goods industries.</p>",
+    "specifications": {
+      "Speed": "Up to 60 pallets per hour",
+      "Power": "3-phase, 380-480V, 5.5 kW",
+      "Max Load Capacity": "2000 kg",
+      "Max Pallet Dimensions": "1200 x 1200 x 2200 mm",
+      "Film Width Range": "500-750 mm",
+      "Control System": "PLC with touchscreen interface",
+      "Wrapping Pattern": "Programmable orbital patterns",
+      "Machine Weight": "850 kg",
+      "Footprint": "2500 x 1800 mm"
+    },
+    "mainImage": "/images/products/e1800-horizontal-orbital-stretch-wrapper.webp",
+    "gallery": [
+      "/images/products/e1800-horizontal-orbital-stretch-wrapper-1.png"
+    ]
+  },
+  {
+    "id": "100",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "E1000 Horizontal Spiral Stretch Wrapping Machine",
+    "slug": "e1000-horizontal-spiral-stretch-wrapping-machine",
+    "seoTitle": "E1000 Automatic Horizontal Stretch Wrapper | High-Speed Industrial Packaging",
+    "metaDescription": "The E1000 automatic horizontal stretch wrapper delivers high-speed, reliable spiral wrapping for palletized loads. Features adjustable tension control, PLC automation, and energy-efficient operation.",
+    "fullContentHtml": "<h2>E1000 Horizontal Spiral Stretch Wrapping Machine</h2><p>The E1000 is an advanced automatic horizontal stretch wrapper designed for high-volume industrial packaging operations. Engineered for reliability and efficiency, this machine provides consistent spiral wrapping for palletized goods across logistics, manufacturing, and distribution sectors.</p><h3>Key Features</h3><ul><li><strong>Fully Automated Operation:</strong> PLC-controlled system with customizable wrapping programs</li><li><strong>High-Speed Performance:</strong> Wraps up to 120 pallets per hour with precision</li><li><strong>Adjustable Tension Control:</strong> Maintains optimal film tension for secure loads without product damage</li><li><strong>Energy-Efficient Design:</strong> Reduces film consumption and operational costs</li><li><strong>Robust Construction:</strong> Heavy-duty steel frame for continuous operation in demanding environments</li><li><strong>User-Friendly Interface:</strong> Touchscreen control panel with intuitive programming</li></ul><h3>Applications</h3><p>Ideal for wrapping palletized products in food & beverage, pharmaceuticals, building materials, and consumer goods industries. Suitable for uniform and irregular load shapes with adjustable parameters.</p>",
+    "specifications": {
+      "Speed": "Up to 120 pallets/hour",
+      "Power": "5.5 kW, 380V/50Hz (3-phase)",
+      "Max Load Capacity": "2000 kg",
+      "Max Pallet Dimensions": "1500×1500×2200 mm (L×W×H)",
+      "Film Width Range": "500-750 mm",
+      "Control System": "PLC with touchscreen interface",
+      "Wrapping Pattern": "Spiral (adjustable overlap 30-70%)",
+      "Tension Control": "Automatic electronic tension system",
+      "Machine Weight": "850 kg",
+      "Noise Level": "<75 dB(A)"
+    },
+    "mainImage": "/images/products/e1000-horizontal-spiral-stretch-wrapping-machine.webp",
+    "gallery": [
+      "/images/products/e1000-horizontal-spiral-stretch-wrapping-machine-1.png"
+    ]
+  },
+  {
+    "id": "103",
+    "categoryName": "Automatic horizontal stretch wrapper",
+    "productName": "E2400 Horizontal Orbital Stretch Wrapping Machine",
+    "slug": "e2400-horizontal-orbital-stretch-wrapping-machine",
+    "seoTitle": "E2400 Automatic Horizontal Stretch Wrapper | Industrial Packaging Solution",
+    "metaDescription": "High-speed E2400 automatic horizontal stretch wrapping machine for industrial pallet stabilization. Features orbital wrapping technology, adjustable tension control, and PLC automation.",
+    "fullContentHtml": "<h2>E2400 Horizontal Orbital Stretch Wrapping Machine</h2><p>The E2400 represents the latest advancement in automatic horizontal stretch wrapping technology, designed specifically for high-volume B2B packaging operations. This industrial-grade machine utilizes orbital wrapping methodology to provide superior load stability and protection during transportation and storage.</p><h3>Key Features</h3><ul><li><strong>Orbital Wrapping Technology:</strong> Rotates the film carriage around stationary pallets for consistent tension distribution</li><li><strong>PLC Control System:</strong> Programmable logic controller with touchscreen interface for precise operation settings</li><li><strong>Adjustable Tension Control:</strong> Digital tension adjustment from 10-100% capacity</li><li><strong>Automatic Film Cutting:</strong> Heat-seal cutting system with automatic film clamping</li><li><strong>Safety Features:</strong> Emergency stop, safety curtains, and overload protection</li><li><strong>Modular Design:</strong> Easy maintenance access and component replacement</li></ul><h3>Applications</h3><p>Ideal for packaging operations in manufacturing, distribution centers, and logistics facilities handling standardized pallet sizes. Suitable for wrapping products including boxes, bags, containers, and irregular-shaped loads when used with appropriate accessories.</p><h3>Operation Benefits</h3><p>The E2400 reduces labor costs by up to 70% compared to manual wrapping methods while improving consistency and reducing film waste by 15-25%. The machine's quiet operation (below 75 dB) makes it suitable for production floor environments without requiring additional soundproofing.</p>",
+    "specifications": {
+      "Wrapping Speed": "Up to 120 pallets/hour",
+      "Power Requirements": "380V/50Hz, 5.5kW",
+      "Max Load Dimensions": "1200mm × 1200mm × 2200mm (L×W×H)",
+      "Max Load Weight": "2000 kg",
+      "Film Roll Size": "500mm width, 300mm core diameter",
+      "Machine Dimensions": "2500mm × 1800mm × 3200mm (L×W×H)",
+      "Control System": "PLC with 7-inch touchscreen",
+      "Wrapping Pattern": "Programmable (spiral, cross, full web)",
+      "Tension Control": "Digital, 10-100% adjustable",
+      "Safety Features": "Emergency stop, safety curtains, overload protection",
+      "Noise Level": "<75 dB",
+      "Weight": "850 kg"
+    },
+    "mainImage": "/images/products/e2400-horizontal-orbital-stretch-wrapping-machine.webp",
+    "gallery": []
+  },
+  {
+    "id": "104",
+    "categoryName": "Customize orbital wrapper",
+    "productName": "Horizontal Orbital Pipe Wrapping Machine",
+    "slug": "horizontal-orbital-pipe-wrapping-machine",
+    "seoTitle": "Horizontal Orbital Pipe Wrapping Machine | Customized Wrapping Solutions",
+    "metaDescription": "Professional-grade horizontal orbital pipe wrapping machine for industrial applications. Customizable for various pipe diameters and wrapping materials with precise control.",
+    "fullContentHtml": "<h2>Professional Horizontal Orbital Pipe Wrapping Machine</h2><p>Our Horizontal Orbital Pipe Wrapping Machine is engineered for precision wrapping applications in industrial settings. Designed to handle various pipe diameters and materials, this machine offers customizable solutions for protective wrapping, insulation application, and surface coating processes.</p><h3>Key Features</h3><ul><li>Adjustable orbital rotation for consistent wrapping patterns</li><li>Compatible with multiple wrapping materials including tapes, films, and protective layers</li><li>Precision tension control system for uniform application</li><li>Modular design allowing for customization based on specific requirements</li><li>User-friendly interface with programmable settings for repeatable processes</li></ul><h3>Applications</h3><p>Ideal for pipeline protection, insulation installation, corrosion prevention wrapping, and surface preparation in industrial maintenance and construction projects.</p>",
+    "specifications": {
+      "Speed": "Adjustable 0-30 RPM",
+      "Power": "3-phase 5.5 kW electric motor",
+      "Pipe Diameter Range": "50-500 mm",
+      "Wrapping Width": "50-300 mm adjustable",
+      "Control System": "PLC with touchscreen interface",
+      "Tension Control": "Electronic with 0-50 N range",
+      "Machine Weight": "Approximately 850 kg",
+      "Dimensions": "2500 × 1200 × 1600 mm (L×W×H)"
+    },
+    "mainImage": "/images/products/horizontal-orbital-pipe-wrapping-machine.jpg",
+    "gallery": []
+  },
+  {
+    "id": "106",
+    "categoryName": "Customize orbital wrapper",
+    "productName": "Aluminum Horizontal Orbital Wrapping Machine",
+    "slug": "aluminum-horizontal-orbital-wrapping-machine",
+    "seoTitle": "Custom Aluminum Horizontal Orbital Wrapping Machine | Industrial Packaging Solution",
+    "metaDescription": "Professional-grade aluminum horizontal orbital wrapping machine for industrial packaging. Customizable specifications, high-speed operation, and durable construction for B2B applications.",
+    "fullContentHtml": "<h2>Professional Aluminum Horizontal Orbital Wrapping Machine</h2><p>Our industrial-grade aluminum horizontal orbital wrapping machine is engineered for precision packaging in demanding B2B environments. Designed with customizable orbital wrapper technology, this machine delivers consistent performance for various industrial applications.</p><h3>Key Features</h3><ul><li>Heavy-duty aluminum construction for durability</li><li>Horizontal orbital wrapping mechanism for uniform coverage</li><li>Customizable wrapping patterns and speeds</li><li>User-friendly control interface with programmable settings</li><li>Compatible with various film materials and thicknesses</li><li>Safety features including emergency stop and protective guards</li></ul><h3>Applications</h3><p>Ideal for packaging palletized goods, construction materials, industrial components, and large-scale products requiring secure, weather-resistant wrapping.</p>",
+    "specifications": {
+      "Speed": "15-25 rotations per minute",
+      "Power": "3-phase, 380V, 5.5kW",
+      "Max Load Capacity": "2000kg",
+      "Wrapping Height": "2000mm",
+      "Wrapping Width": "1600mm",
+      "Machine Weight": "850kg",
+      "Control System": "PLC with touchscreen interface",
+      "Film Roll Size": "500mm width, 1500m length"
+    },
+    "mainImage": "/images/products/aluminum-horizontal-orbital-wrapping-machine.webp",
+    "gallery": []
+  },
+  {
+    "id": "107",
+    "categoryName": "Customize orbital wrapper",
+    "productName": "Profile Horizontal Orbital Wrapping Machine",
+    "slug": "profile-horizontal-orbital-wrapping-machine",
+    "seoTitle": "Custom Profile Horizontal Orbital Wrapping Machine | Industrial Packaging Solutions",
+    "metaDescription": "High-performance horizontal orbital wrapping machine for custom profile packaging. Features adjustable speed, precision control, and durable construction for industrial B2B applications.",
+    "fullContentHtml": "<h2>Professional Horizontal Orbital Wrapping Machine</h2><p>Our Profile Horizontal Orbital Wrapping Machine is engineered for precision wrapping of custom profiles, extrusions, and elongated components in industrial settings. Designed with flexibility and efficiency in mind, this machine ensures consistent wrapping quality while accommodating various material types and dimensions.</p><h3>Key Features</h3><ul><li>Horizontal orbital design for wrapping elongated profiles</li><li>Fully customizable wrapping patterns and tension control</li><li>User-friendly interface with programmable settings</li><li>Robust construction for continuous operation in demanding environments</li><li>Compatible with multiple film types including stretch film, shrink film, and protective wraps</li></ul><h3>Applications</h3><p>Ideal for packaging metal profiles, plastic extrusions, construction materials, and custom fabricated components. Suitable for manufacturing, logistics, and distribution centers requiring secure and protective packaging solutions.</p>",
+    "specifications": {
+      "Speed": "Adjustable up to 30 cycles per minute",
+      "Power": "3-phase, 5.5 kW electric motor",
+      "Max Profile Length": "Up to 6 meters",
+      "Max Profile Diameter": "Up to 300 mm",
+      "Control System": "PLC with touchscreen interface",
+      "Film Compatibility": "Stretch film (17-35 micron), shrink film, protective wraps",
+      "Machine Dimensions": "L 8.2m × W 2.1m × H 2.4m",
+      "Weight Capacity": "Up to 150 kg per profile"
+    },
+    "mainImage": "/images/products/profile-horizontal-orbital-wrapping-machine.jpg",
+    "gallery": []
+  },
+  {
+    "id": "105",
+    "categoryName": "Customize orbital wrapper",
+    "productName": "Horizontal Orbital Stretch Wrapping Machine for Bar and Rod",
+    "slug": "horizontal-orbital-stretch-wrapping-machine-for-bar-and-rod",
+    "seoTitle": "Custom Horizontal Orbital Stretch Wrapping Machine | Bar & Rod Packaging Solution",
+    "metaDescription": "Professional-grade horizontal orbital stretch wrapping machine for bars and rods. Customizable wrapping solutions with precise tension control and durable construction for industrial applications.",
+    "fullContentHtml": "<div class=\"product-description\"><h2>Professional Horizontal Orbital Stretch Wrapping Machine</h2><p>Our horizontal orbital stretch wrapping machine is engineered specifically for wrapping bars, rods, and long cylindrical products with precision and efficiency. This industrial-grade solution provides consistent wrapping tension and secure load containment for transportation and storage.</p><h3>Key Features</h3><ul><li><strong>Horizontal Orbital Design:</strong> Rotates around the product horizontally for complete 360-degree coverage</li><li><strong>Adjustable Tension Control:</strong> Precise film tension settings for optimal load stability</li><li><strong>Variable Speed Operation:</strong> Adjustable rotation speed from 5-20 RPM to match production requirements</li><li><strong>Heavy-Duty Construction:</strong> Industrial-grade steel frame with powder-coated finish</li><li><strong>Customizable Fixtures:</strong> Adaptable to various bar and rod diameters and lengths</li><li><strong>Safety Features:</strong> Emergency stop, safety guards, and overload protection</li></ul><h3>Applications</h3><p>Ideal for metal bars, construction rebar, PVC pipes, timber, and other long cylindrical products requiring secure wrapping for protection during shipping and storage.</p><h3>Benefits</h3><ul><li>Reduces material costs with optimized film usage</li><li>Improves workplace safety with automated wrapping process</li><li>Enhances product protection during transit</li><li>Increases packaging efficiency and throughput</li><li>Customizable for specific product dimensions and wrapping patterns</li></ul></div>",
+    "specifications": {
+      "Wrapping Speed": "5-20 RPM (adjustable)",
+      "Power Requirements": "380V/50Hz, 3-phase, 2.2kW",
+      "Maximum Product Length": "6000mm",
+      "Product Diameter Range": "10-200mm",
+      "Film Width Compatibility": "500mm max",
+      "Machine Dimensions": "2500mm (L) × 1500mm (W) × 1800mm (H)",
+      "Machine Weight": "850kg",
+      "Control System": "PLC with touchscreen interface",
+      "Wrapping Pattern": "Programmable spiral wrapping",
+      "Safety Standards": "CE certified, IP54 protection"
+    },
+    "mainImage": "/images/products/horizontal-orbital-stretch-wrapping-machine-for-bar-and-rod.jpg",
+    "gallery": []
+  },
+  {
+    "id": "108",
+    "categoryName": "Customize orbital wrapper",
+    "productName": "Spiral Orbital Stretch Wrapper",
+    "slug": "spiral-orbital-stretch-wrapper",
+    "seoTitle": "Custom Spiral Orbital Stretch Wrapper | Industrial Packaging Solutions",
+    "metaDescription": "Professional-grade customizable spiral orbital stretch wrapper for industrial packaging. Features adjustable speed, power, and wrapping patterns for secure product protection.",
+    "fullContentHtml": "<h2>Custom Spiral Orbital Stretch Wrapper</h2><p>Our advanced spiral orbital stretch wrapper is engineered for high-performance industrial packaging applications. Designed with customization at its core, this system allows businesses to tailor wrapping parameters to their specific product dimensions and stability requirements.</p><h3>Key Features</h3><ul><li>Fully customizable orbital wrapping patterns</li><li>Adjustable tension control for optimal film stretch</li><li>Programmable wrapping cycles for consistent results</li><li>Robust construction for continuous operation</li><li>User-friendly touchscreen interface</li><li>Compatible with various film types and thicknesses</li></ul><h3>Applications</h3><p>Ideal for securing palletized loads, cylindrical products, and irregularly shaped items in manufacturing, warehousing, and distribution environments.</p>",
+    "specifications": {
+      "Speed": "Adjustable 5-25 RPM",
+      "Power": "3-phase 480V, 5 HP motor",
+      "Max Load Capacity": "3000 lbs",
+      "Wrapping Pattern": "Spiral orbital with customizable overlap",
+      "Control System": "PLC with touchscreen interface",
+      "Film Compatibility": "Standard and pre-stretched films up to 80 microns"
+    },
+    "mainImage": "/images/products/spiral-orbital-stretch-wrapper.jpg",
+    "gallery": []
+  },
+  {
+    "id": "109",
+    "categoryName": "Customize orbital wrapper",
+    "productName": "Horizontal Ring Stretch Wrapper",
+    "slug": "horizontal-ring-stretch-wrapper",
+    "seoTitle": "Custom Horizontal Ring Stretch Wrapper | Industrial Orbital Wrapping Solution",
+    "metaDescription": "Professional-grade horizontal ring stretch wrapper for industrial applications. Customizable orbital wrapping system with adjustable speed, power, and film tension control.",
+    "fullContentHtml": "<div class=\"product-description\"><h2>Industrial-Grade Horizontal Ring Stretch Wrapper</h2><p>Our customizable horizontal ring stretch wrapper provides efficient and reliable orbital wrapping solutions for industrial applications. Engineered for durability and precision, this system ensures consistent load stability and protection during transportation and storage.</p><h3>Key Features</h3><ul><li>Advanced orbital wrapping technology for uniform film distribution</li><li>Adjustable rotation speed for optimal wrapping efficiency</li><li>Customizable ring diameter to accommodate various load sizes</li><li>Intuitive control panel with programmable settings</li><li>Heavy-duty construction for continuous operation</li><li>Safety features including emergency stop and overload protection</li></ul><h3>Applications</h3><p>Ideal for palletized loads, construction materials, industrial components, and large-scale manufacturing operations requiring secure wrapping solutions.</p></div>",
+    "specifications": {
+      "Speed": "0-25 RPM adjustable",
+      "Power": "5.5 kW electric motor",
+      "Max Load Capacity": "2000 kg",
+      "Ring Diameter": "Customizable 1.5-3 meters",
+      "Film Width": "500-1000 mm",
+      "Control System": "PLC with touchscreen interface",
+      "Power Supply": "380V/50Hz 3-phase",
+      "Dimensions": "Customizable based on ring size"
+    },
+    "mainImage": "/images/products/horizontal-ring-stretch-wrapper.jpg",
+    "gallery": [
+      "/images/products/horizontal-ring-stretch-wrapper-1.jpg"
+    ]
+  },
+  {
+    "id": "110",
+    "categoryName": "Customize orbital wrapper",
+    "productName": "Industrial Horizontal Stretch Wrapping Machine",
+    "slug": "industrial-horizontal-stretch-wrapping-machine",
+    "seoTitle": "Custom Industrial Horizontal Stretch Wrapping Machine | B2B Packaging Solutions",
+    "metaDescription": "Professional-grade horizontal stretch wrapping machine for industrial applications. Customizable orbital wrapper with advanced specifications for secure pallet stabilization and efficient packaging.",
+    "fullContentHtml": "<h2>Industrial Horizontal Stretch Wrapping Machine</h2><p>Our industrial horizontal stretch wrapping machine is engineered for high-performance pallet stabilization and secure packaging in demanding B2B environments. Designed with customizable orbital wrapping capabilities, this machine ensures consistent load containment and protection during storage and transportation.</p><h3>Key Features</h3><ul><li>Advanced orbital wrapping technology for uniform film distribution</li><li>Robust construction with industrial-grade components</li><li>Customizable wrapping patterns to match specific load requirements</li><li>User-friendly control interface with programmable settings</li><li>Energy-efficient operation with minimal maintenance requirements</li><li>Compatible with various film types and thicknesses</li></ul><h3>Applications</h3><p>Ideal for manufacturing facilities, distribution centers, and logistics operations requiring reliable pallet stabilization for products of varying shapes and sizes.</p>",
+    "specifications": {
+      "Speed": "Up to 40 pallets per hour",
+      "Power": "3-phase, 380V, 5.5 kW",
+      "Max Load Capacity": "2000 kg",
+      "Film Width Range": "500-750 mm",
+      "Wrapping Height": "100-2200 mm",
+      "Control System": "PLC with touchscreen interface",
+      "Machine Dimensions": "2500 x 1800 x 3200 mm",
+      "Weight": "Approximately 1200 kg"
+    },
+    "mainImage": "/images/products/industrial-horizontal-stretch-wrapping-machine.jpg",
+    "gallery": []
+  },
+  {
+    "id": "111",
+    "categoryName": "Customize orbital wrapper",
+    "productName": "FHOPE Bale Horizontal Orbital Stretch Wrapper",
+    "slug": "fhope-bale-horizontal-orbital-stretch-wrapper",
+    "seoTitle": "Customizable FHOPE Bale Horizontal Orbital Stretch Wrapper | Industrial Packaging Solution",
+    "metaDescription": "Professional-grade customizable orbital stretch wrapper for bale packaging. Features adjustable speed, power settings, and modular design for diverse industrial applications.",
+    "fullContentHtml": "<div class=\"product-description\"><h2>Professional Customizable Orbital Stretch Wrapper</h2><p>The FHOPE Bale Horizontal Orbital Stretch Wrapper is engineered for precision bale packaging in industrial environments. This customizable solution adapts to various production requirements with modular components and adjustable operational parameters.</p><h3>Key Features</h3><ul><li>Fully customizable orbital wrapping mechanism</li><li>Horizontal bale handling system</li><li>Adjustable rotation speed and tension control</li><li>Modular design for easy integration</li><li>Industrial-grade durability and reliability</li><li>User-friendly control interface with programmable settings</li></ul><h3>Applications</h3><p>Ideal for agricultural, textile, recycling, and manufacturing industries requiring consistent bale packaging with customizable wrapping patterns and tension settings.</p></div>",
+    "specifications": {
+      "Speed": "Adjustable 5-25 RPM",
+      "Power": "3-phase 380V/50Hz or customizable",
+      "Max Load Capacity": "1500 kg",
+      "Wrapping Width": "Customizable 500-2000 mm",
+      "Control System": "Programmable PLC with touch interface",
+      "Frame Material": "Industrial-grade steel construction"
+    },
+    "mainImage": "/images/products/fhope-bale-horizontal-orbital-stretch-wrapper.webp",
+    "gallery": []
+  },
+  {
+    "id": "112",
+    "categoryName": "Semi-auto pallet wrapping machine",
+    "productName": "A100 Semi-Automatic Pallet Stretch Wrapping Machine",
+    "slug": "a100-semi-automatic-pallet-stretch-wrapping-machine",
+    "seoTitle": "A100 Semi-Automatic Pallet Wrapping Machine | Industrial Stretch Wrapper",
+    "metaDescription": "The A100 semi-automatic pallet stretch wrapping machine offers efficient, reliable load stabilization for warehouses and distribution centers. Features adjustable tension control and user-friendly operation.",
+    "fullContentHtml": "<h2>Efficient and Reliable Semi-Automatic Pallet Wrapping</h2><p>The A100 Semi-Automatic Pallet Stretch Wrapping Machine is designed for businesses seeking a balance between manual operation and full automation. This machine provides consistent, high-quality wrapping while maintaining operational simplicity.</p><h3>Key Features</h3><ul><li><strong>Adjustable Tension Control:</strong> Precise film tension settings for optimal load containment</li><li><strong>User-Friendly Interface:</strong> Simple controls with clear indicators for easy operation</li><li><strong>Versatile Turntable:</strong> Accommodates various pallet sizes and load types</li><li><strong>Durable Construction:</strong> Industrial-grade components for long-term reliability</li><li><strong>Safety Features:</strong> Emergency stop button and protective guarding</li></ul><h3>Applications</h3><p>Ideal for warehouses, distribution centers, manufacturing facilities, and logistics operations requiring consistent pallet stabilization without the complexity of fully automated systems.</p><h3>Operation</h3><p>The operator places the pallet on the turntable, attaches the film to the load, and initiates the wrapping cycle. The machine automatically completes the programmed wrap pattern while the operator prepares the next load, increasing productivity.</p>",
+    "specifications": {
+      "Speed": "Up to 40 pallets per hour",
+      "Power": "220V/380V, 1.5kW",
+      "Max Load Capacity": "1500kg",
+      "Turntable Diameter": "1600mm",
+      "Max Load Height": "2200mm",
+      "Film Roll Size": "500mm width, 300mm diameter",
+      "Control System": "PLC with touch screen interface",
+      "Wrapping Modes": "Programmable patterns (spiral, cross, top-only)",
+      "Tension Control": "Adjustable mechanical/electronic system",
+      "Machine Dimensions": "2000mm × 2000mm × 2500mm (L×W×H)",
+      "Weight": "Approximately 450kg"
+    },
+    "mainImage": "/images/products/a100-semi-automatic-pallet-stretch-wrapping-machine.jpg",
+    "gallery": []
+  },
+  {
+    "id": "113",
+    "categoryName": "Semi-auto pallet wrapping machine",
+    "productName": "A200 Automated Pallet Stretch Wrapping Machine",
+    "slug": "a200-automated-pallet-stretch-wrapping-machine",
+    "seoTitle": "A200 Semi-Automatic Pallet Wrapping Machine | Industrial Stretch Wrapper",
+    "metaDescription": "The A200 semi-automatic pallet wrapping machine offers efficient, reliable stretch wrapping for industrial applications. Features adjustable tension control, variable speed, and robust construction.",
+    "fullContentHtml": "<h2>Efficient and Reliable Semi-Automatic Pallet Wrapping</h2><p>The A200 Automated Pallet Stretch Wrapping Machine is designed for businesses seeking a balance between manual operation and full automation. This semi-automatic system streamlines your pallet wrapping process while maintaining operational flexibility.</p><h3>Key Features</h3><ul><li><strong>Adjustable Tension Control:</strong> Precisely control film tension to accommodate various load types and stability requirements</li><li><strong>Variable Speed Operation:</strong> Adjust wrapping speed from 10-30 RPM to match your production workflow</li><li><strong>Turntable Load Capacity:</strong> Supports pallets up to 2,000 kg with stable rotation</li><li><strong>User-Friendly Interface:</strong> Intuitive controls with pre-set wrapping programs for common applications</li><li><strong>Robust Construction:</strong> Heavy-duty steel frame with powder-coated finish for industrial durability</li><li><strong>Safety Features:</strong> Emergency stop button, safety curtains, and overload protection</li></ul><h3>Applications</h3><p>Ideal for warehouses, distribution centers, manufacturing facilities, and logistics operations handling 20-80 pallets per day. Suitable for food & beverage, pharmaceuticals, chemicals, and general manufacturing industries.</p><h3>Operation</h3><p>The operator places the pallet on the turntable, secures the film to the load, selects the wrapping program, and initiates the cycle. The machine automatically completes the wrap pattern while the operator prepares the next pallet, significantly increasing throughput compared to manual wrapping.</p>",
+    "specifications": {
+      "Wrapping Speed": "10-30 RPM (adjustable)",
+      "Power Requirements": "220V/380V, 1.5 kW",
+      "Max Pallet Weight": "2,000 kg",
+      "Turntable Diameter": "1,600 mm",
+      "Max Pallet Height": "2,200 mm",
+      "Film Roll Size": "500 mm width, 200-300 mm diameter",
+      "Machine Dimensions": "2,200 × 2,200 × 2,800 mm (L×W×H)",
+      "Net Weight": "450 kg",
+      "Control System": "PLC with touchscreen interface",
+      "Wrapping Programs": "5 pre-set, 3 customizable"
+    },
+    "mainImage": "/images/products/a200-automated-pallet-stretch-wrapping-machine.jpg",
+    "gallery": []
+  }
+]

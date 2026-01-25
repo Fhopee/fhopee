@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MachineryCorp - Industrial Catalog</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <!-- Google Fonts (Inter) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        body { 
+            font-family: 'Inter', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        /* Smooth scrolling */
+        html { scroll-behavior: smooth; }
+        
+        /* Custom scrollbar - industrial style */
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 6px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #f1f5f9; 
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #1e40af; 
+            border-radius: 3px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+            background: #1e3a8a; 
+        }
+
+        /* Industrial hover transitions */
+        .product-card {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .product-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 24px rgba(30, 64, 175, 0.1);
+        }
+
+        /* Accent gradient for industrial feel */
+        .accent-bar {
+            background: linear-gradient(90deg, #1e40af 0%, #3b82f6 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
+
+    <!-- Header - Professional & Industrial -->
+    <header class="sticky top-0 z-40 bg-white border-b-2 border-blue-600 shadow-sm">
+        <div class="max-w-7xl mx-auto px-6 sm:px-8 lg:px-10">
+            <div class="flex justify-between items-center h-20">
+                
+                <!-- Logo - Industrial & Professional -->
+                <div class="flex items-center gap-3 cursor-pointer group">
+                    <div class="w-10 h-10 bg-gradient-to-br from-blue-700 to-blue-900 flex items-center justify-center shadow-lg group-hover:shadow-xl transition-shadow">
+                        <i data-lucide="settings" class="text-white w-6 h-6"></i>
+                    </div>
+                    <div class="flex flex-col">
+                        <span class="font-bold text-xl tracking-tight leading-none text-gray-900">MACHINERY<span class="text-blue-700">CORP</span></span>
+                        <span class="text-[10px] text-gray-500 uppercase tracking-wider mt-0.5 font-medium">Industrial Solutions</span>
+                    </div>
+                </div>
+                
+                <!-- Desktop Search - Professional -->
+                <div class="hidden md:flex flex-1 max-w-lg mx-10 relative group">
+                    <input 
+                        type="text" 
+                        placeholder="Search machinery & equipment..." 
+                        class="w-full pl-12 pr-4 py-2.5 bg-gray-50 border-2 border-gray-200 rounded-lg text-gray-900 text-sm placeholder-gray-500 focus:bg-white focus:border-blue-600 focus:ring-2 focus:ring-blue-100 focus:outline-none transition-all"
+                    >
+                    <i data-lucide="search" class="absolute left-4 top-3 w-5 h-5 text-gray-400 group-focus-within:text-blue-600 transition-colors"></i>
+                </div>
+
+                <!-- Actions - Professional & Clear -->
+                <div class="hidden md:flex items-center gap-4">
+                    <button class="text-sm font-semibold text-gray-700 hover:text-blue-700 transition-colors">Support</button>
+                    <button class="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-6 py-2.5 rounded-lg text-sm font-bold shadow-lg shadow-blue-600/30 transition-all hover:shadow-xl">
+                        Get Quote
+                    </button>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button id="mobile-menu-btn" class="md:hidden p-2 text-gray-700 hover:text-blue-700 transition-colors">
+                    <i data-lucide="menu"></i>
+                </button>
+            </div>
+        </div>
+        
+        <!-- Mobile Menu (Hidden by default) -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-t-2 border-blue-600 pb-4">
+            <div class="px-6 pt-4 pb-2 space-y-1">
+                <a href="#" class="block px-4 py-3 text-base font-semibold text-gray-900 bg-blue-50 rounded-lg">Products</a>
+                <a href="#" class="block px-4 py-3 text-base font-medium text-gray-700 hover:text-blue-700 hover:bg-gray-50 rounded-lg transition-colors">Services</a>
+                <a href="#" class="block px-4 py-3 text-base font-medium text-gray-700 hover:text-blue-700 hover:bg-gray-50 rounded-lg transition-colors">About Us</a>
+                <a href="#" class="block px-4 py-3 text-base font-medium text-gray-700 hover:text-blue-700 hover:bg-gray-50 rounded-lg transition-colors">Contact</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content - Professional & Spacious -->
+    <div class="max-w-7xl mx-auto px-6 sm:px-8 lg:px-10 py-8 w-full flex-grow">
+        
+        <!-- Breadcrumb - Clear & Industrial -->
+        <div class="flex items-center text-sm text-gray-600 mb-8 font-medium">
+            <span class="hover:text-blue-700 cursor-pointer transition-colors">Home</span>
+            <i data-lucide="chevron-right" class="w-4 h-4 mx-2 text-gray-400"></i>
+            <span class="text-gray-900 font-semibold">Products Catalog</span>
+        </div>
+
+        <div class="flex flex-col lg:flex-row gap-8">
+            
+            <!-- Sidebar - Industrial & Structured -->
+            <aside class="lg:w-1/4 flex-shrink-0 hidden lg:block">
+                <div class="sticky top-24 space-y-6">
+                    <!-- Categories Card -->
+                    <div class="bg-white rounded-xl border-2 border-gray-200 p-6 shadow-sm">
+                        <div class="flex items-center gap-3 mb-6 pb-4 border-b-2 border-blue-600">
+                            <div class="p-2 bg-blue-600 rounded-lg">
+                                <i data-lucide="filter" class="w-5 h-5 text-white"></i>
+                            </div>
+                            <h2 class="font-bold text-gray-900 text-base uppercase tracking-wide">Categories</h2>
+                        </div>
+                        
+                        <nav id="category-list" class="space-y-2">
+                            <!-- Categories will be injected here by JS -->
+                        </nav>
+                    </div>
+
+                    <!-- Promo Card - Industrial & Engaging -->
+                    <div class="bg-gradient-to-br from-blue-700 to-blue-900 rounded-xl p-6 text-white shadow-xl relative overflow-hidden group">
+                        <div class="absolute top-0 right-0 w-32 h-32 bg-orange-500 rounded-full blur-3xl opacity-20 group-hover:opacity-30 transition-opacity"></div>
+                        <div class="relative z-10">
+                            <div class="w-12 h-1 bg-orange-500 mb-4"></div>
+                            <h3 class="font-bold text-lg mb-3">Custom Engineering</h3>
+                            <p class="text-sm text-blue-100 mb-5 leading-relaxed">
+                                Need specific configurations? We design tailored industrial solutions.
+                            </p>
+                            <button class="text-sm font-bold text-white hover:text-orange-400 transition-colors flex items-center gap-2">
+                                Contact Engineers
+                                <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Main Grid Area - Professional Layout -->
+            <main class="flex-1">
+                <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 gap-4 bg-white p-6 rounded-xl border-2 border-gray-200 shadow-sm">
+                    <div>
+                        <h1 id="page-title" class="text-3xl font-bold text-gray-900 tracking-tight mb-2">All Products</h1>
+                        <p class="text-gray-600 text-sm font-medium">Premium industrial machinery for your production line</p>
+                    </div>
+                    <div class="flex items-center gap-3 text-sm">
+                        <span class="text-gray-600 font-semibold">Sort by:</span>
+                        <select class="bg-gray-50 border-2 border-gray-200 rounded-lg px-4 py-2 text-gray-900 font-semibold focus:ring-2 focus:ring-blue-600 focus:border-blue-600 outline-none cursor-pointer hover:border-blue-400 transition-colors">
+                            <option>Relevance</option>
+                            <option>Newest First</option>
+                            <option>Price: Low to High</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Product Grid - Professional Spacing -->
+                <div id="product-grid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 mt-6">
+                    <!-- Products will be injected here by JS -->
+                </div>
+
+                <!-- Pagination - Professional -->
+                <div class="mt-12 flex justify-center">
+                    <div class="bg-white p-2 rounded-xl border-2 border-gray-200 shadow-sm flex gap-2">
+                        <button class="w-10 h-10 flex items-center justify-center rounded-lg text-gray-500 hover:bg-gray-100 hover:text-gray-900 transition-colors font-semibold">
+                            <i data-lucide="chevron-left" class="w-5 h-5"></i>
+                        </button>
+                        <button class="w-10 h-10 flex items-center justify-center rounded-lg bg-blue-600 text-white font-bold shadow-md transform hover:bg-blue-700 transition-all">1</button>
+                        <button class="w-10 h-10 flex items-center justify-center rounded-lg text-gray-700 hover:bg-gray-100 hover:text-blue-700 transition-colors font-semibold">2</button>
+                        <button class="w-10 h-10 flex items-center justify-center rounded-lg text-gray-700 hover:bg-gray-100 hover:text-blue-700 transition-colors font-semibold">3</button>
+                        <button class="w-10 h-10 flex items-center justify-center rounded-lg text-gray-500 hover:bg-gray-100 hover:text-gray-900 transition-colors font-semibold">
+                            <i data-lucide="chevron-right" class="w-5 h-5"></i>
+                        </button>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Footer - Professional & Structured -->
+    <footer class="bg-gray-900 text-gray-300 mt-auto border-t-4 border-blue-600">
+        <div class="max-w-7xl mx-auto px-6 sm:px-8 lg:px-10 py-8">
+            <div class="flex flex-col md:flex-row justify-between items-center text-sm">
+                <p class="font-medium">&copy; 2026 MachineryCorp. All rights reserved.</p>
+                <div class="flex gap-8 mt-4 md:mt-0 font-medium">
+                    <a href="#" class="hover:text-blue-400 transition-colors">Privacy Policy</a>
+                    <a href="#" class="hover:text-blue-400 transition-colors">Terms of Service</a>
+                    <a href="#" class="hover:text-blue-400 transition-colors">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript Logic -->
+    <script>
+        // --- Mock Data ---
+        const PRODUCTS = [
+            {
+                id: 'p1',
+                name: 'Pro-X500 Rotary Labeler',
+                category: 'Labeling',
+                isNew: true,
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Rotary+Labeler',
+                specifications: {
+                    'Speed': '600 ppm',
+                    'Power': '15 kW',
+                    'Voltage': '380V / 50Hz'
+                }
+            },
+            {
+                id: 'p2',
+                name: 'Servo Filling System A-20',
+                category: 'Filling',
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Filling+System',
+                specifications: {
+                    'Nozzles': '12 Heads',
+                    'Accuracy': '±0.5%',
+                    'Volume': '100-1000ml'
+                }
+            },
+            {
+                id: 'p3',
+                name: 'AutoPack Carton Erector',
+                category: 'Packaging',
+                isNew: true,
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Carton+Erector',
+                specifications: {
+                    'Speed': '40 cpm',
+                    'Tape Width': '48-72 mm',
+                    'Carton Size': 'Max 500mm'
+                }
+            },
+            {
+                id: 'p4',
+                name: 'FlexConveyor Belt Series',
+                category: 'Conveyors',
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Conveyor+Belt',
+                specifications: {
+                    'Width': '600 mm',
+                    'Load Cap': '150 kg/m',
+                    'Speed': '0-30m/min'
+                }
+            },
+            {
+                id: 'p5',
+                name: 'Thermal Shrink Tunnel T-800',
+                category: 'Packaging',
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Shrink+Tunnel',
+                specifications: {
+                    'Temp Range': '0-250°C',
+                    'Chamber': '1200x450mm',
+                    'Power': '12 kW'
+                }
+            },
+            {
+                id: 'p6',
+                name: 'Robotic Palletizer R-200',
+                category: 'Palletizing',
+                image: 'https://placehold.co/600x450/f1f5f9/0f172a?text=Robot+Palletizer',
+                specifications: {
+                    'Payload': '200 kg',
+                    'Reach': '3100 mm',
+                    'Cycles': '800/hr'
+                }
+            }
+        ];
+
+        const CATEGORIES = [
+            'All Products',
+            'Liquid Filling',
+            'Labeling Machines',
+            'Cartoning & Case Packing',
+            'Palletizing Systems',
+            'Conveyors & Logistics',
+            'Inspection Systems'
+        ];
+
+        let activeCategory = 'All Products';
+
+        // --- Render Functions ---
+
+        function renderCategories() {
+            const container = document.getElementById('category-list');
+            container.innerHTML = CATEGORIES.map(cat => {
+                const isActive = cat === activeCategory;
+                const activeClasses = 'bg-blue-600 text-white font-bold shadow-md border-blue-600';
+                const inactiveClasses = 'text-gray-700 hover:bg-gray-50 hover:text-blue-700 border-transparent font-semibold';
+                
+                return `
+                    <button 
+                        onclick="setActiveCategory('${cat}')"
+                        class="w-full text-left px-4 py-3 rounded-lg text-sm transition-all border-2 flex justify-between items-center group ${isActive ? activeClasses : inactiveClasses}"
+                    >
+                        <span>${cat}</span>
+                        ${isActive ? '<i data-lucide="chevron-right" class="w-4 h-4"></i>' : ''}
+                    </button>
+                `;
+            }).join('');
+            
+            // Re-initialize icons for newly added elements
+            lucide.createIcons();
+        }
+
+        function renderProducts() {
+            const container = document.getElementById('product-grid');
+            
+            // Filter logic (simple mock)
+            const filteredProducts = activeCategory === 'All Products' 
+                ? PRODUCTS 
+                : PRODUCTS.filter(p => p.category === activeCategory || activeCategory.includes(p.category));
+
+            if (filteredProducts.length === 0) {
+                container.innerHTML = `<div class="col-span-full text-center py-20 text-gray-600 text-base font-semibold">No products found in this category.</div>`;
+                return;
+            }
+
+            container.innerHTML = filteredProducts.map(product => {
+                // Generate specs HTML - Industrial & Clear
+                const specsHtml = Object.entries(product.specifications).map(([key, value]) => `
+                    <div class="flex items-center justify-between py-2.5 border-b border-gray-100 last:border-0">
+                        <div class="flex items-center gap-2">
+                            <div class="w-1.5 h-1.5 bg-blue-600 rounded-full"></div>
+                            <span class="text-gray-600 text-sm font-semibold">${key}</span>
+                        </div>
+                        <span class="text-gray-900 text-sm font-bold">${value}</span>
+                    </div>
+                `).join('');
+
+                return `
+                    <div class="product-card group flex flex-col bg-white rounded-xl border-2 border-gray-200 overflow-hidden relative hover:border-blue-600 hover:shadow-xl transition-all duration-300">
+                        
+                        ${product.isNew ? `
+                        <div class="absolute top-4 left-4 z-10 bg-gradient-to-r from-orange-500 to-orange-600 text-white text-xs font-bold px-3 py-1.5 rounded-full shadow-lg">
+                            NEW
+                        </div>` : ''}
+
+                        <!-- Image - Industrial & Professional -->
+                        <div class="relative w-full aspect-[4/3] bg-gradient-to-br from-gray-100 to-gray-200 overflow-hidden">
+                            <img
+                                src="${product.image}"
+                                alt="${product.name}"
+                                class="w-full h-full object-cover object-center mix-blend-multiply opacity-90 group-hover:opacity-100 group-hover:scale-105 transition-all duration-500"
+                            />
+                            <div class="absolute inset-0 bg-gradient-to-t from-black/10 to-transparent pointer-events-none"></div>
+                        </div>
+
+                        <!-- Content - Clear & Structured -->
+                        <div class="p-6 flex-grow flex flex-col">
+                            <div class="mb-5">
+                                <span class="inline-block text-xs font-bold text-blue-700 uppercase tracking-wider bg-blue-50 px-3 py-1.5 rounded-md mb-3 border border-blue-200">
+                                    ${product.category}
+                                </span>
+                                <h3 class="text-xl font-bold text-gray-900 leading-tight group-hover:text-blue-700 transition-colors">
+                                    ${product.name}
+                                </h3>
+                            </div>
+
+                            <div class="mb-6 flex-grow space-y-0 bg-gray-50 p-4 rounded-lg">
+                                ${specsHtml}
+                            </div>
+
+                            <button 
+                                onclick="alert('Viewing details: ${product.name}')"
+                                class="w-full py-3 px-4 bg-gradient-to-r from-blue-600 to-blue-700 text-white font-bold text-sm rounded-lg hover:from-blue-700 hover:to-blue-800 transition-all duration-200 flex items-center justify-center gap-2 shadow-lg shadow-blue-600/20 hover:shadow-xl"
+                            >
+                                View Specifications
+                                <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
+                            </button>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            // Re-initialize icons
+            lucide.createIcons();
+        }
+
+        function setActiveCategory(cat) {
+            activeCategory = cat;
+            document.getElementById('page-title').innerText = cat;
+            renderCategories();
+            renderProducts();
+        }
+
+        // --- Initialization ---
+        document.addEventListener('DOMContentLoaded', () => {
+            // Initial Render
+            renderCategories();
+            renderProducts();
+            
+            // Mobile Menu Toggle
+            const mobileBtn = document.getElementById('mobile-menu-btn');
+            const mobileMenu = document.getElementById('mobile-menu');
+            
+            mobileBtn.addEventListener('click', () => {
+                mobileMenu.classList.toggle('hidden');
+            });
+
+            // Initialize Icons
+            lucide.createIcons();
+        });
+
+    </script>
+</body>
+</html>

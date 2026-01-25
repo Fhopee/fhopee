@@ -1,0 +1,52 @@
+[
+  {
+    "id": "94",
+    "categoryName": "Packaging Machinery",
+    "productName": "Spiror E100 Horizontal Stretch Wrapping Machine",
+    "slug": "spiror-e100-horizontal-stretch-wrapping-machine",
+    "seoTitle": "Spiror E100 Horizontal Stretch Wrapper | 60 Loads/Hour | Pallet Stabilization",
+    "metaDescription": "Automated horizontal stretch wrapper processes up to 60 loads per hour. Reduces labor, improves load stability, and minimizes film usage for consistent palletized shipments.",
+    "fullContentHtml": "<h2 class='text-slate-800 font-bold text-xl mb-4'>The Challenge: Inefficient Manual Pallet Stabilization</h2><p class='text-slate-600 leading-relaxed mb-6'>Manual stretch wrapping is labor-intensive, inconsistent, and a bottleneck in high-volume shipping operations. Variability in film tension and pattern leads to unstable loads, increased risk of product damage in transit, and excessive material waste.</p><h2 class='text-slate-800 font-bold text-xl mb-4'>The Solution: Automated Horizontal Wrapping</h2><p class='text-slate-600 leading-relaxed mb-6'>The Spiror E100 addresses these issues with a fully automated horizontal wrapping cycle. It applies consistent, programmable film tension and overlap around palletized loads, transforming a variable manual task into a repeatable, efficient process.</p><h2 class='text-slate-800 font-bold text-xl mb-4'>Key Capabilities</h2><ul class='list-disc pl-5 text-slate-600 leading-relaxed mb-6'><li>Automated operation eliminates dedicated labor for the wrapping station.</li><li>Programmable film tension and overlap ensure consistent load containment and optimal film usage.</li><li>Integrated conveyor system allows for seamless integration into existing packaging lines.</li><li>Robust construction with industrial-grade components for continuous operation in plant environments.</li></ul>",
+    "specifications": {
+      "Throughput": "Up to 60 loads per hour",
+      "Power Requirements": "400V / 50Hz / 3-Phase",
+      "Machine Dimensions (LxWxH)": "3500 x 1800 x 2200 mm",
+      "Machine Weight": "850 kg",
+      "Max Load Dimensions (LxWxH)": "1200 x 1200 x 1800 mm",
+      "Max Load Weight": "2000 kg",
+      "Film Roll Diameter": "500 mm",
+      "Film Width Range": "500 - 750 mm",
+      "Control System": "PLC with HMI Touchscreen"
+    },
+    "mainImage": "/images/products/spiror-e100-horizontal-stretch-wrapping-machine.webp",
+    "gallery": []
+  },
+  {
+    "id": "95",
+    "categoryName": "Packaging Machinery",
+    "productName": "E200 Horizontal Spiral Stretch Wrapping Machine",
+    "slug": "e200-horizontal-spiral-stretch-wrapping-machine",
+    "seoTitle": "E200 Horizontal Spiral Stretch Wrapper | 25-30 Loads/Hour | Pallet Stabilization",
+    "metaDescription": "Automated horizontal spiral stretch wrapper processes 25-30 pallets/hour with consistent film tension. Reduces labor by 75% while improving load stability for shipping.",
+    "fullContentHtml": "<h2 class=\"text-slate-800 font-bold text-xl mb-4\">Manufacturing Challenge: Inconsistent Manual Wrapping and High Labor Costs</h2><p class=\"text-slate-600 leading-relaxed mb-6\">Manual stretch wrapping operations create variability in film tension and containment force, leading to unstable loads during transit. This inconsistency results in product damage, increased material waste, and requires continuous operator attention, tying up valuable labor resources on repetitive tasks.</p><h2 class=\"text-slate-800 font-bold text-xl mb-4\">Technical Solution: Automated Horizontal Spiral Wrapping System</h2><p class=\"text-slate-600 leading-relaxed mb-6\">The E200 employs a horizontal spiral wrapping motion with programmable film overlap and tension control. The system automates the complete wrapping cycle, from film attachment to cut-and-clamp, ensuring repeatable load containment with minimal operator intervention.</p><h2 class=\"text-slate-800 font-bold text-xl mb-4\">Key Capabilities</h2><ul class=\"list-disc pl-5 text-slate-600 leading-relaxed mb-6\"><li>Automated film threading and cut/clamp system eliminates manual film handling</li><li>Programmable wrap patterns with adjustable overlap (50-70%) for optimal material usage</li><li>Variable speed turntable with soft-start/stop prevents load shifting during acceleration</li><li>Integrated pre-stretch system maintains consistent film tension (±5%) throughout cycle</li><li>Photoelectric sensors detect load height for automatic wrap count adjustment</li><li>Modular design allows integration with existing conveyor systems</li></ul>",
+    "specifications": {
+      "Throughput": "25-30 loads/hour",
+      "Turntable Speed": "0-12 RPM",
+      "Max Load Weight": "2,500 kg",
+      "Max Load Dimensions": "1,200mm L x 1,200mm W x 2,200mm H",
+      "Film Roll Size": "500mm diameter x 250mm width",
+      "Pre-stretch Ratio": "250%",
+      "Power Requirements": "400V/3PH/50Hz",
+      "Power Consumption": "3.2 kW",
+      "Machine Weight": "850 kg",
+      "Machine Dimensions": "3,200mm L x 2,800mm W x 2,500mm H",
+      "Control System": "PLC with HMI touchscreen interface",
+      "Film Overlap Range": "50-70% programmable",
+      "Wrap Count Memory": "Up to 50 programmable patterns"
+    },
+    "mainImage": "/images/products/e200-horizontal-spiral-stretch-wrapping-machine.webp",
+    "gallery": [
+      "/images/products/e200-horizontal-spiral-stretch-wrapping-machine-1.png"
+    ]
+  }
+]

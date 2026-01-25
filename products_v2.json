@@ -1,0 +1,116 @@
+[
+  {
+    "id": "290",
+    "productName": "Horizontal Hose Coil Packaging Machine FPCA100",
+    "slug": "horizontal-hose-coil-packaging-machine-fpca100",
+    "seoTitle": "FPCA100 Horizontal Coil Wrapping Machine | High-Speed Hose Packaging",
+    "metaDescription": "The FPCA100 horizontal coil packaging machine efficiently wraps hoses and coils with LLDPE/PE/PVC film. Features PLC control, adjustable speed (18-35 sec/pc), and handles coils from 8-50 kg. Ideal for secure, high-speed packaging.",
+    "features": [
+      "PLC and HMI control with automatic material calculation (optional)",
+      "Special design for easy manual loading and unloading",
+      "Soft stop, start, and reset for the ring mechanism",
+      "Manual and automatic operating modes for flexible operation",
+      "Timer relay for automatic stop",
+      "Inverter for adjusting ring and roller speed",
+      "Adjustable overlap rate for packaging material",
+      "Foot pedal switch for jogging",
+      "Motor drive with overcurrent protection",
+      "Adjustable support rollers to prevent coil wobble during packaging",
+      "Horizontal coil packaging orientation",
+      "Easy loading/unloading of packaging material rolls",
+      "Optimized wrapping adjustment for different coil Outer Diameters (OD)",
+      "Special mechanical device for adjustable packaging tension",
+      "Safety guard, soft start, and stop for safe operation",
+      "Wide compatibility with packaging materials",
+      "Consistent tension device for packaging coils of all sizes",
+      "Marking ring knock-off device (optional)",
+      "Customizable design based on specifications"
+    ],
+    "specifications": {
+      "Packaging Materials": "LLDPE / PE / PVC",
+      "Coil Outer Diameter (OD)": "80-100 mm",
+      "Coil Inner Diameter (ID)": "50 mm",
+      "Coil Width": "70 mm",
+      "Coil Diameter (Alternative)": "200×17mm, 300mm",
+      "Turntable Diameter": "300 - 400 mm (±)",
+      "Turntable Width": "100 - 200 mm",
+      "Coil Weight Capacity": "8 - 50 kg",
+      "Main Packaging Speed (High/Low)": "18 - 35 seconds per piece",
+      "Maximum Ring Speed": "100 revolutions per minute",
+      "Power Supply": "380V, 60Hz, 3-Phase"
+    },
+    "fullContentHtml": "<div class=\"space-y-6 text-gray-700\">\n  <section>\n    <h2 class=\"text-xl font-semibold text-gray-900 mb-3 border-b pb-2\">Overview</h2>\n    <p class=\"mb-4\">The <strong>Horizontal Hose Coil Packaging Machine FPCA100</strong> is engineered for high-efficiency, secure wrapping of hoses, cables, and similar coiled products. Utilizing stretch films like LLDPE, PE, or PVC, it ensures tight, protective packaging suitable for storage and transportation.</p>\n  </section>\n\n  <section>\n    <h2 class=\"text-xl font-semibold text-gray-900 mb-3 border-b pb-2\">Key Specifications</h2>\n    <div class=\"grid grid-cols-1 md:grid-cols-2 gap-4\">\n      <div class=\"space-y-2\">\n        <p><span class=\"font-medium\">Packaging Materials:</span> LLDPE, PE, PVC</p>\n        <p><span class=\"font-medium\">Coil Dimensions (OD/ID/Width):</span> 80-100mm / 50mm / 70mm</p>\n        <p><span class=\"font-medium\">Coil Weight Range:</span> 8 - 50 kg</p>\n        <p><span class=\"font-medium\">Packaging Speed:</span> 18 - 35 seconds per piece</p>\n      </div>\n      <div class=\"space-y-2\">\n        <p><span class=\"font-medium\">Turntable:</span> Ø300-400mm, Width 100-200mm</p>\n        <p><span class=\"font-medium\">Max Ring Speed:</span> 100 rpm</p>\n        <p><span class=\"font-medium\">Power Supply:</span> 380V, 60Hz, 3-Phase</p>\n      </div>\n    </div>\n  </section>\n\n  <section>\n    <h2 class=\"text-xl font-semibold text-gray-900 mb-3 border-b pb-2\">Control & Operation Features</h2>\n    <ul class=\"list-disc pl-5 space-y-1\">\n      <li><strong>Advanced Control:</strong> Equipped with PLC and HMI for precise operation; optional automatic material calculation.</li>\n      <li><strong>Dual Mode Operation:</strong> Switch seamlessly between manual and automatic modes for maximum flexibility.</li>\n      <li><strong>Speed & Tension Control:</strong> Inverter for adjustable ring/roller speed and a mechanical device for precise packaging tension.</li>\n      <li><strong>Safety & Convenience:</strong> Features soft start/stop, safety guards, foot pedal jogging, and overcurrent protection.</li>\n      <li><strong>Easy Adjustment:</strong> Support rollers and wrapping parameters are easily adjustable for different coil sizes (OD).</li>\n    </ul>\n  </section>\n\n  <section>\n    <h2 class=\"text-xl font-semibold text-gray-900 mb-3 border-b pb-2\">Packaging Performance</h2>\n    <ul class=\"list-disc pl-5 space-y-1\">\n      <li><strong>Horizontal Wrapping:</strong> Specifically designed for stable horizontal coil packaging.</li>\n      <li><strong>Material Compatibility:</strong> Handles a wide range of stretch films for versatile application.</li>\n      <li><strong>Consistent Quality:</strong> Integrated tensioning device ensures uniform, tight wraps from small to large coils.</li>\n      <li><strong>Efficient Handling:</strong> Streamlined design facilitates easy loading/unloading of both coils and packaging material rolls.</li>\n      <li><strong>Optional Accessories:</strong> Marking ring knock-off device available for specialized needs.</li>\n    </ul>\n  </section>\n\n  <div class=\"bg-blue-50 border border-blue-200 rounded-lg p-4 mt-6\">\n    <p class=\"text-sm text-blue-800 font-medium\">\n      <span class=\"font-bold\">Note:</span> This machine can be customized and designed according to specific customer requirements and specifications.\n    </p>\n  </div>\n</div>",
+    "mainImage": "/images/products/horizontal-hose-coil-packaging-machine-fpca100.jpg",
+    "gallery": [
+      "/images/products/horizontal-hose-coil-packaging-machine-fpca100-1.jpg"
+    ]
+  },
+  {
+    "id": "96",
+    "productName": "E300 Horizontal Stretch Wrapping Machine",
+    "slug": "e300-horizontal-stretch-wrapping-machine",
+    "seoTitle": "E300 Automatic Horizontal Orbital Stretch Wrapper for Pipes, Sheets & Profiles",
+    "metaDescription": "Automatic horizontal orbital stretch wrapping machine for pipes, sheets, doors, floor boards & aluminum profiles. Features PLC control, adjustable wrapping, conveyor system & safe operation.",
+    "features": [
+      "Automatic horizontal orbital wrapping for long/ flat items",
+      "Specialized for pipes, sheets, doors, floor boards, aluminum profiles",
+      "PLC control system for automated operation",
+      "Adjustable wrapping overlap (10%-90%) and film tension",
+      "Integrated conveyor system with automatic entry/exit",
+      "Safe operation with protective guardrail and stable ring drive",
+      "Variable speed control via inverter for ring and conveyors",
+      "Compatible with various packing materials"
+    ],
+    "specifications": {
+      "Model": "E300",
+      "Wrapping Type": "Horizontal Orbital",
+      "Suitable Products": "Pipes, Sheets, Doors, Floor Boards, Aluminum Profiles",
+      "Control System": "PLC with Programmable Logic",
+      "Overlap Adjustment": "10% - 90%",
+      "Drive System": "Motor with Gearbox",
+      "Speed Control": "Inverter Adjustable",
+      "Safety Features": "Protective Guardrail, Stable Ring Drive",
+      "Installation Requirement": "Flat, Hard Ground (>1 ton/m² load capacity)"
+    },
+    "fullContentHtml": "<div class=\"space-y-6 text-gray-700\">\n  <section>\n    <h2 class=\"text-xl font-semibold text-gray-900 mb-3\">Overview</h2>\n    <p class=\"mb-4\">The E300 is an automatic horizontal orbital stretch wrapping machine designed for securing long, flat, or horizontal-shaped items such as pipes, metal sheets, doors, floor boards, and aluminum profiles. It provides a tightly sealed, protective wrap that keeps items tidy and secure during storage or transit. The machine can be seamlessly integrated into existing packaging lines for fully automated operation.</p>\n  </section>\n\n  <section>\n    <h2 class=\"text-xl font-semibold text-gray-900 mb-3\">Installation</h2>\n    <p>The machine must be installed on a flat, hard surface with a ground load capacity exceeding 1 ton/m² to ensure stable and vibration-free operation.</p>\n  </section>\n\n  <section>\n    <h2 class=\"text-xl font-semibold text-gray-900 mb-3\">Wrapping Station Features</h2>\n    <ul class=\"list-disc pl-5 space-y-2\">\n      <li><strong>Stable & Safe Operation:</strong> Ring and double-rub wheel design ensures smooth, stable, and energy-efficient wrapping.</li>\n      <li><strong>Adjustable Friction:</strong> The friction between the driving wheels and the ring can be adjusted for optimal film grip.</li>\n      <li><strong>Variable Speed:</strong> Ring rotation speed is adjustable via an inverter for different wrapping requirements.</li>\n      <li><strong>Soft Start & Stop:</strong> Prevents film breakage and product disturbance.</li>\n      <li><strong>Position Reset:</strong> Wrapping position can be easily reset for consistent cycles.</li>\n      <li><strong>Tension Control:</strong> Packing material (film) tension is adjustable to suit different product types.</li>\n      <li><strong>Material Compatibility:</strong> The material frame accommodates a wide range of wrapping films.</li>\n      <li><strong>Safety Guardrail:</strong> Integrated protective guardrail ensures operator safety during operation.</li>\n      <li><strong>Overlap Adjustment:</strong> Film overlap can be precisely set from 10% to 90%.</li>\n    </ul>\n  </section>\n\n  <section>\n    <h2 class=\"text-xl font-semibold text-gray-900 mb-3\">Conveyor System</h2>\n    <ul class=\"list-disc pl-5 space-y-2\">\n      <li><strong>Surface Protection:</strong> Conveyor design protects product surfaces from scratches or damage.</li>\n      <li><strong>Automatic Handling:</strong> Includes automatic entry and exit conveyor systems for streamlined workflow.</li>\n      <li><strong>Adjustable Conveyors:</strong> Conveyor positions and settings can be adjusted to fit different product dimensions.</li>\n      <li><strong>Robust Drive:</strong> Conveyors are driven by motors with gearboxes for reliable performance.</li>\n      <li><strong>Speed Control:</strong> Conveyor speed is adjustable via inverter to match wrapping cycle timing.</li>\n    </ul>\n  </section>\n\n  <section>\n    <h2 class=\"text-xl font-semibold text-gray-900 mb-3\">PLC Control System</h2>\n    <ul class=\"list-disc pl-5 space-y-2\">\n      <li><strong>Automated Operation:</strong> PLC and customizable programming allow the machine to perform automatic wrapping cycles based on specific packaging goals.</li>\n      <li><strong>Precise Positioning:</strong> Photocell sensors are used to accurately set and detect the wrapping start/end positions.</li>\n      <li><strong>Visual Indicators:</strong> Equipped with indicator lights and alarms for automatic status monitoring and fault alerts.</li>\n    </ul>\n  </section>\n</div>",
+    "mainImage": "/images/products/e300-horizontal-stretch-wrapping-machine.webp",
+    "gallery": []
+  },
+  {
+    "id": "95",
+    "productName": "E200 Horizontal Stretch Wrapping Machine",
+    "slug": "e200-horizontal-stretch-wrapping-machine",
+    "seoTitle": "E200 Horizontal Stretch Wrapper | Spiral Wrapping for Elongated Products",
+    "metaDescription": "The E200 horizontal stretch wrapping machine is a rotating ring system for spiral wrapping elongated products. Features PLC control, adjustable speed, safety guards, and conveyor systems for efficient, automated packaging.",
+    "features": [
+      "Rotating ring design for spiral wrapping of elongated products",
+      "Electro-welded mesh safety guards for operator protection",
+      "PLC control system for automated operation",
+      "Adjustable wrapping ring speed (10-120 RPM)",
+      "Automatic conveyor system with entrance and exit",
+      "Adjustable film overlap (10%-90%)",
+      "Soft start and stop for smooth operation",
+      "Separate control panel for easy operation and maintenance",
+      "Photocell sensor for precise packing position",
+      "Automatic cutter and feeder (mechanical hand)"
+    ],
+    "specifications": {
+      "Model": "E200",
+      "Type": "Horizontal Stretch Wrapper",
+      "Wrapping Method": "Rotating Ring Spiral Wrapping",
+      "Ring Speed Range": "10-120 RPM (adjustable)",
+      "Overlap Adjustment": "10% - 90%",
+      "Control System": "PLC with Interface Operation",
+      "Conveyor Drive": "Motor with Gear Box",
+      "Conveyor Speed Control": "Adjustable by Inverter",
+      "Safety Features": "Electro-welded Mesh Guards, Guardrail Protection",
+      "Positioning System": "Photocell Sensor",
+      "Additional Features": "Automatic Cutter & Feeder, Trouble Indicator Alarm"
+    },
+    "fullContentHtml": "<div class=\"space-y-6 text-gray-700\">\n  <p class=\"text-lg leading-relaxed\">The <strong>E200 Horizontal Stretch Wrapping Machine</strong> is a robust rotating ring system designed for efficient spiral wrapping of elongated products. Engineered with operator safety and production efficiency in mind, it features comprehensive safety guards and advanced automation controls.</p>\n  \n  <div class=\"bg-gray-50 p-5 rounded-lg border-l-4 border-blue-500\">\n    <h3 class=\"text-xl font-semibold mb-3 text-gray-800\">Wrapping Station</h3>\n    <ul class=\"list-disc pl-5 space-y-2\">\n      <li>Durable ring construction with a strong structure for long service life.</li>\n      <li>Special driving wheels ensure smooth and stable ring rotation.</li>\n      <li>Wrapping ring speed is fully adjustable from 10 to 120 RPM.</li>\n      <li>Soft start and stop functionality protects both product and film.</li>\n      <li>Automatic reset of the wrapping position for consistent cycles.</li>\n      <li>Advanced tension control suitable for both large and small objects.</li>\n      <li>Compatible with a wide range of flexible packaging materials.</li>\n      <li>All moving parts are covered by guardrails for safe operation.</li>\n      <li>Film overlap is precisely adjustable from 10% to 90%.</li>\n    </ul>\n  </div>\n\n  <div class=\"bg-gray-50 p-5 rounded-lg border-l-4 border-green-500\">\n    <h3 class=\"text-xl font-semibold mb-3 text-gray-800\">Conveyor System</h3>\n    <ul class=\"list-disc pl-5 space-y-2\">\n      <li>Gentle conveyor design protects product surfaces during handling.</li>\n      <li>Integrated automatic entrance and outlet conveyor systems.</li>\n      <li>Conveyor adjustment function for different product sizes.</li>\n      <li>Conveyors are driven by a reliable motor with a gearbox.</li>\n      <li>Conveyor speed is easily adjustable via an inverter.</li>\n    </ul>\n  </div>\n\n  <div class=\"bg-gray-50 p-5 rounded-lg border-l-4 border-purple-500\">\n    <h3 class=\"text-xl font-semibold mb-3 text-gray-800\">PLC Control System</h3>\n    <ul class=\"list-disc pl-5 space-y-2\">\n      <li>Programmable Logic Controller (PLC) enables fully automatic wrapping cycles tailored to specific packing goals.</li>\n      <li>Photocell sensor ensures accurate and repeatable packing position setting.</li>\n      <li>Automatic indicator alarm activates immediately when a fault is detected, with clear trouble display.</li>\n      <li>Separate, user-friendly control panel simplifies both operation and maintenance.</li>\n      <li>Intuitive interface operation for easy setup and monitoring.</li>\n    </ul>\n  </div>\n\n  <div class=\"bg-gray-50 p-5 rounded-lg border-l-4 border-amber-500\">\n    <h3 class=\"text-xl font-semibold mb-3 text-gray-800\">Automatic Cutter & Feeder (Mechanical Hand)</h3>\n    <p class=\"pl-5\">The integrated automatic cutter and feeder system (mechanical hand) completes the automated cycle, ensuring efficient film cutting and clamping for a seamless, hands-free operation.</p>\n  </div>\n\n  <p class=\"pt-4 text-gray-600\">The E200 combines durability, precision, and safety, making it an ideal solution for high-volume, automated packaging lines requiring reliable spiral wrapping of long or bulky items.</p>\n</div>",
+    "mainImage": "/images/products/e200-horizontal-stretch-wrapping-machine.webp",
+    "gallery": [
+      "/images/products/e200-horizontal-stretch-wrapping-machine-1.png"
+    ]
+  }
+]

@@ -1,0 +1,635 @@
+
+
+  <!DOCTYPE html><!--[if lt IE 7 ]><html class="ie ie6"> <![endif]--><!--[if IE 7 ]><html class="ie ie7"> <![endif]--><!--[if IE 8 ]>
+  <html class="ie ie8"> <![endif]--><!--[if IE 9 ]><html class="ie ie9"> <![endif]-->
+<html lang="en">
+      <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+      
+
+  
+  
+      <title>Stretch Wrapper - Automatic Wrapping Machine | FhopePack</title>
+      <meta name="description" content="Fhope develop the stretch wrapper & automatic wrapping machine per coil, long shape products and pallets package with pallet inverter for handling..." />
+      <meta name="viewport" content="width=device-width, initial-scale=1"><meta name="keywords" content="pallet wrapping machine,pallet stretch wrapper,pallet packaging machine,coil pakaging line,horizontal stretch wrapper,stretch wrapping machine" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" ><!-- Head Tag Start --><script src="source/js/angular.min.js"></script>
+      <meta name="uri-translation" content="on" />
+      
+      <!-- Apple Touch Icon Without System Shine Effect --><meta name="msapplication-TileColor" content="#FFFFFF">
+      <!-- Application Icons for Windows 8 --><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="msapplication-TileColor"><!-- Style Sheets -->
+      <link href="source/css/bootstrap.css" rel="stylesheet">
+      <link href="source/css/bootstrap-responsive.css" rel="stylesheet">
+      <link href="source/css/flexisel.css" rel="stylesheet">
+      <link href="source/css/jquery-ui.css" rel="stylesheet">
+      <link href="https://www.fhopepack.com/source/css/itp-custom4.css" rel="stylesheet">
+      <link rel="shortcut icon" href="https://www.fhopepack.com/source/fhope.ico">
+      <!-- Custom CSS from CMS --><link href="source/css/style.css" rel="stylesheet" type="text/css" />
+      <!-- Head Tag End --><div>  <div id="graphicModal" class="graphic-modal modal in">    
+      <div class="modal-dialog">      
+      <div class="modal-content">        
+      <div class="modal-header">          <button type="button" class="close" data-dismiss="modal">Close</button>        </div>        <div class="modal-body"><img src="" /></div>      </div>      
+      <!-- /.modal-content -->    </div>    
+      <!-- /.modal-dialog -->  </div></div><script type="text/javascript" src="source/js/vm3.js"></script>
+      
+      
+      
+      <link rel="stylesheet" href="source/css/slick.css"><style>/* News Tabs */.news-tab-content {	background-color: #CECECE;	margin-right: 5px;}.news-tab-content.news-tab-content-visited {	background-color: #004070;}h3.panelTitle {	font-size: 14px;}.news-section {	clear: both;} </style><script>var my_image = new Image();my_image.src = 'source/images/itape-bkgd.jpg';
+      </script>
+      
+      
+ <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MFJT5B6');</script>
+<!-- End Google Tag Manager -->
+      
+      
+     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "FHOPEPACK",
+  "image": "https://www.fhopepack.com/source/images/fhopepack-logo.png",
+  "@id": "",
+  "url": "https://www.fhopepack.com/",
+  "telephone": "+86 13951501635",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "No.1428 North road shipu fengshou, qiandeng town,",
+    "addressLocality": "Kunshan",
+    "postalCode": "215221",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.268048,
+    "longitude": 121.004053
+  } ,
+  "sameAs": [
+    "https://www.facebook.com/yan.randal",
+    "https://twitter.com/fhopepack",
+    "https://www.youtube.com/channel/UC4VWX0gorymh0z5GVw16z-g",
+    "https://www.linkedin.com/company/fhope-pack/",
+    "https://www.pinterest.com/fhopepack/"
+  ] 
+}
+</script>
+
+      <script type="application/ld+json">
+  { "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "legalName" : "Fhope Group",
+    "url" : "https://www.fhopepack.com/",
+    "email" : "info@fhopepack.com",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Shanghai, China",
+      "postalCode": "25706",
+      "streetAddress": "No. 288, Rongxing Road, Songjiang Dist"
+    },
+    "contactPoint" : [{
+      "@type" : "ContactPoint",
+        "telephone" : "+86-21-57871865",
+      "contactType" : "customer service"
+    }],
+    "logo" :"https://www.fhopepack.com/source/images/fhopepack-logo.png"
+  }
+  </script>
+
+      
+      
+      </head>
+      <body class="home"><form method="post" action="/" onsubmit="javascript:return WebForm_OnSubmit();" id="mainform">  
+      
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFJT5B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+      <div class="aspNetHidden">  </div>  
+	  
+      <link href="source/css/Default.17072012.css?v=17072012" rel="stylesheet" type="text/css" />  
+      <link href="source/css/jquery-ui.custom.Default.css" rel="stylesheet" type="text/css" />  
+      <link href="source/css/Default.css" rel="stylesheet" type="text/css" />  
+      <link href="source/css/Custom.css" rel="stylesheet" type="text/css" />  
+	  <script src="source/js/jquery.js" type="text/javascript"></script>   
+	  <script src="source/js/jquery-ui.min.js" type="text/javascript"></script>   
+	  <script src="source/js/jquery-ui-i18n.js" type="text/javascript"></script>   
+	  <script src="source/js/json2.min.js" type="text/javascript"></script>   
+	  <script src="source/js/head.load.min.js" type="text/javascript"></script>   
+	  
+      <div class="aspNetHidden">  </div>  
+      <div id="mobileSearchPanel" class="mobileNavPanel closed">    
+      <div id="mobileSearchInput">      <input name="searchText" type="text" maxlength="50" id="header_mobile_0_searchText" tabindex="1" value="Enter your search term" onblur="if (this.value == '') {this.value = 'Enter your search term';}" onfocus="if (this.value == 'Enter your search term') {this.value = '';}" autocomplete="off" style="z-index: 10000;">      <a id="header_mobile_0_searchSubmit" class="icon search" href="javascript:__doPostBack('header_mobile_0$searchSubmit','')"></a> </div>  </div>  
+      <div id="navSecondary" class="mobileNavPanel closed">    
+      <div id="navSecondaryInner" class="clearfix">      
+      <ul class="nav navbar-nav clearfix">        
+      <li> <a href="https://www.fhopepack.com/About_Us.html">About Us</a> </li>        
+      <li> <a title="Fhope Blog" target="_blank" href="https://www.fhopepack.com/blog/">Blog</a> </li>        
+      <li><a href="https://www.fhopepack.com/industry-machine/fhope.html" title="wrapping machine" target="_blank"> Industry Machine</a></li>
+      <li> <a title="Show Room" target="_blank" href="https://www.fhopepack.com/Show-Room/">Show Room</a> </li>        <li>  <a href="https://www.fhopepack.com/markets/">Market</a> </li>        
+      <li> <a href="https://www.fhopepack.com/Contact-Us.html">Contact Us</a> </li>        
+        </ul>      
+     
+    
+      
+     
+     <!-- GTranslate: moblie-->     
+<script type="text/javascript">
+/* <![CDATA[ */
+function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.pathname.split('/')[1];if(plang.length !=2 && plang.toLowerCase() != 'zh-cn' && plang.toLowerCase() != 'zh-tw')plang='en';if(lang == 'en')location.href=location.protocol+'//'+location.host+location.pathname.replace('/'+plang+'/', '/')+location.search;else location.href=location.protocol+'//'+location.host+'/'+lang+location.pathname.replace('/'+plang+'/', '/')+location.search;}
+/* ]]> */
+</script>
+
+      <div id="navRightCol">
+        <div id="navLanguage">
+          <select onchange="doGTranslate(this);"><option value="">Language</option>
+      <option value="en|en">English</option><option value="en|ar">Arabic</option><option value="en|zh-CN">Chinese </option><option value="en|nl">Dutch</option>
+      <option value="en|fr">French</option><option value="en|de">German</option><option value="en|hi">Hindi</option><option value="en|it">Italian</option>
+      <option value="en|ja">Japanese</option><option value="en|ko">Korean</option><option value="en|pt">Portuguese</option>
+      <option value="en|ru">Russian</option><option value="en|es">Spanish</option><option value="en|iw">Hebrew</option>
+      <option value="en|vi">Vietnamese</option><option value="en|th">Thai</option><option value="en|ml">Malayalam</option></select>
+
+        </div>
+        <ul>
+          <li id="navPhone"><a href="tel:{dede:global.cfg_telephone/}"><span class="icon"></span>Service</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+   <!-- GTranslate: Pics -->
+  <nav id="navSecondaryIcons">
+    <div id="mobileSearchIcon" class="icon closed"></div>
+    <div id="mobileNavIcon" class="icon closed"></div>
+  </nav>
+  <div id="headerOverlay"></div>
+  <header class="container-fluid">
+    <div id="contactInfo">
+     <p> 
+      <a href="#" onclick="doGTranslate('en|zh-CN');return false;" title="Chinese (Simplified)" class="gflag nturl" style="background-position:-300px -0px;">
+<img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Chinese (Simplified)" /></a>
+<a href="#" onclick="doGTranslate('en|en');return false;" title="English" class="gflag nturl" style="background-position:-0px -0px;">
+    <img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="English" /></a>
+    <a href="#" onclick="doGTranslate('en|fr');return false;" title="French" class="gflag nturl" style="background-position:-200px -100px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="French" /></a><a href="#" onclick="doGTranslate('en|de');return false;" title="German" class="gflag nturl" style="background-position:-300px -100px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="German" /></a><a href="#" onclick="doGTranslate('en|it');return false;" title="Italian" class="gflag nturl" style="background-position:-600px -100px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Italian" /></a><a href="#" onclick="doGTranslate('en|ja');return false;" title="Japanese" class="gflag nturl" style="background-position:-700px -100px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Japanese" /></a><a href="#" onclick="doGTranslate('en|ko');return false;" title="Korean" class="gflag nturl" style="background-position:-0px -200px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Korean" /></a><a href="#" onclick="doGTranslate('en|pt');return false;" title="Portuguese" class="gflag nturl" style="background-position:-300px -200px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Portuguese" /></a><a href="#" onclick="doGTranslate('en|ru');return false;" title="Russian" class="gflag nturl" style="background-position:-500px -200px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Russian" /></a><a href="#" onclick="doGTranslate('en|es');return false;" title="Spanish" class="gflag nturl" style="background-position:-600px -200px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Spanish" /></a><a href="#" onclick="doGTranslate('en|id');return false;" title="Indonesian" class="gflag nturl" style="background-position:-300px -300px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Indonesian" /></a><a href="#" onclick="doGTranslate('en|th');return false;" title="Thai" class="gflag nturl" style="background-position:-0px -500px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="Thai" /></a>
+
+<style type="text/css">
+<!--
+a.gflag {vertical-align:middle;font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url(//gtranslate.net/flags/24.png);}
+a.gflag img {border:0;}
+a.gflag:hover {background-image:url(//gtranslate.net/flags/24a.png);}
+-->
+</style>
+      </p>
+      
+    </div>
+    
+    
+    
+     <!-- GTranslate: srip-->
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.pathname.split('/')[1];if(plang.length !=2 && plang.toLowerCase() != 'zh-cn' && plang.toLowerCase() != 'zh-tw')plang='en';if(lang == 'en')location.href=location.protocol+'//'+location.host+location.pathname.replace('/'+plang+'/', '/')+location.search;else location.href=location.protocol+'//'+location.host+'/'+lang+location.pathname.replace('/'+plang+'/', '/')+location.search;}
+/* ]]> */
+</script>
+  
+
+    
+    <div id="headerLanguage">
+      <select onchange="doGTranslate(this);"><option value="">Select Language</option>
+      <option value="en|en">English</option><option value="en|ar">Arabic</option><option value="en|zh-CN">Chinese (Simplified)</option><option value="en|nl">Dutch</option>
+      <option value="en|fr">French</option><option value="en|de">German</option><option value="en|hi">Hindi</option><option value="en|it">Italian</option>
+      <option value="en|ja">Japanese</option><option value="en|ko">Korean</option><option value="en|pt">Portuguese</option>
+      <option value="en|ru">Russian</option><option value="en|es">Spanish</option><option value="en|iw">Hebrew</option>
+      <option value="en|vi">Vietnamese</option><option value="en|th">Thai</option><option value="en|ml">Malayalam</option></select>
+
+
+    </div>
+     
+      
+        
+    
+    <div id="headerSearch">
+<form name="form3" action="/search.php" method="post" class="seform" onSubmit="if (!window.__cfRLUnblockHandlers) return false; return CheckSearch();" data-cf-modified-05be33502f7f93f8faf88ee5-="">
+<input name="q" type="text" maxlength="50" tabindex="1" value="" placeholder='Enter your search term' autocomplete="off" style="z-index: 10000;" />
+<input name="pagesize" type="hidden" value="10" />
+<input name="channeltype" type="hidden" value="6" />
+<input name="typeid" type="hidden" value="1" />
+<input name="lang" type="hidden" value="en" />
+<button type='submit' class='icon search'>search</button>
+</form>
+</div>
+    
+      
+      <div id="logo"> <a href="/"> <img src="source/images/fhopepack-logo.png?h=88&la=en&w=228&hash=346F157ABEFCD70767525DA93FA64A46908A107B" alt="Logo Image" /></a><a href="/"> </a> </div>  
+      </header>  
+      <div id="navStripe" class="panelTapeBG ipg"></div>  
+      <div id="navContent">    
+      <nav id="navPrimary">     	
+      <a href="https://www.fhopepack.com" id="home" class="closed"><b class=""></b>Home</a>     	
+      <a href="#" id="products" class="closed"><b class="caret"></b>Products</a>     	
+      <a href="#" id="markets" class="closed"><b class="caret"></b>Markets</a>     	
+      <a href="https://www.fhopepack.com/About_Us.html" id="about" class="closed"><b class=""></b>About us</a>     	
+      <a href="https://www.fhopepack.com/Contact-Us.html" id="contact" class="closed"><b class=""></b>Contact us</a>     	
+      <a href="https://www.fhopepack.com/Support/" id="support" class="closed"><b class=""></b>Support</a> </nav>		
+      <div id="navProductsDropdown" class="dropdown closed clearfix" style="display: none;">      
+      <div class="wrapper clearfix">        
+      <div class="navLinks navColOne">        
+     
+      <ul class="clearfix">
+<li><i><b><a href="https://www.fhopepack.com/Coil_packing_machine.html"><u>COIL PACKING MACHINE</u></a></b></i></li>
+<li><a href="https://www.fhopepack.com/Steel-coil-wrapping-machine/">Steel coil wrapping machine</a></li>
+<li><a href="https://www.fhopepack.com/Wire-coil-wrapping-machine/">Wire coil wrapping machine</a></li>
+<li><a href="https://www.fhopepack.com/Hose-packaging-machine/">Hose packing machine</a></li>
+<li><a href="https://www.fhopepack.com/Copper-coil-packing-machine/">Copper packing machine</a></li>
+<li><a href="https://www.fhopepack.com/Tyre-packing-machine/">Tyre packing machine</a></li>
+<li><a href="https://www.fhopepack.com/Cable-packing-machine/">Cable packing machine</a></li>
+<li><a href="https://www.fhopepack.com/Bearing-packing-machine/">Bearing packing machine</a></li>
+<li><a href="https://www.fhopepack.com/Pipe-packing-machine/">Pipe packing machine</a></li>
+      <li><i><b><a href="https://www.fhopepack.com/Coil_upender.html"><u>TILTER&UPENDER</u></a></b></i></li>            
+      <li><a href="https://www.fhopepack.com/Mechanical/">Mechanical tilter</a></li>            
+      <li><a href="https://www.fhopepack.com/Hydraulic/">Hydraulic tilter</a></li>  
+      <li><a href="https://www.fhopepack.com/hydraulic-dumper/">Hydraulic box dumper</a></li> 
+      <li><a href="https://www.fhopepack.com/mold-upender/">Mold upender</a></li> 
+      <li><a href="https://www.fhopepack.com/mold-flipper/">Mold flipper</a></li> 
+      
+<li><i><b><a href="https://www.fhopepack.com/pallet-inverter/"><u>PALLET INVERTER</u></a></b></i></li>	
+<li><i><b><a href="https://www.fhopepack.com/autobag.html"><u>AUTO BAGGER</u></a></b></i></li>	
+      </ul>            
+      
+      </div>                 
+       <div class="navLinks navColTwo">          
+       <ul class="clearfix">           
+        <li><i><b>			<a href="https://www.fhopepack.com/Stretch_wrapping_machine.html"><u>STRETCH WRAPPING MACHINE</u></a></b></i></li>            
+         <li><a href="https://www.fhopepack.com/Semi-auto-pallet-wrapping-machine/">Semiauto pallet wrapping machine</a></li>            <li>			
+         <a href="https://www.fhopepack.com/Automatic-pallet-wrapping-machine/">Automatic Pallet stretch wrapper</a></li>            
+         <li>			<a href="https://www.fhopepack.com/Rotary-arm-wrapping-machine/">Rotary arm stretch wrapper</a></li>            
+         <li>			<a href="https://www.fhopepack.com/Rotary-ring-stretch-wrapper/">Rotary ring stretch wrapper</a></li>              
+         <li><b><u><i>				<a href="https://www.fhopepack.com/orbital-stretch-wrapper.html">ORBITAL STRETCH WRAPPER</a></i></u></b></li>           
+          <li>			<a href="https://www.fhopepack.com/Semiauto-horizontal-wrapper/">Semiauto orbital stretch wrapper</a></li>           
+          <li>			<a href="https://www.fhopepack.com/Automatic-horizontal-stretch-wrapper/">Automatic orbital stretch wrapper</a></li>            
+          <li>			<a href="https://www.fhopepack.com/Customize-orbital-wrapper/">Customize orbital wrapper</a></li>            
+          <li><b><u><i>			<a href="https://www.fhopepack.com/Shrinking_machine.html">SHRINKING MACHINE</a></i></u></b></li>            
+          <li><a href="https://www.fhopepack.com/Door_packing_machine.html">Door Shrinking machine</a></li>            
+          <li><a href="https://www.fhopepack.com/Panel_shrinking_machine.html">Panel Shrinking machine</a></li>          
+          </ul>        
+          </div>                
+          <div class="navLinks navColThree">          <ul class="clearfix">            
+          <li><i><b>			<a href="https://www.fhopepack.com/Automatic-Strapping-Machine/"><u>AUTOMATIC STRAPPING MACHINE</u></a></b></i></li>            
+          <li>			<a href="https://www.fhopepack.com/steel-coil-strapping-machinery/">Steel coil strapping machine</a></li>            
+          <li>			<a href="https://www.fhopepack.com/Steel-tube-strapping-machine/">Steel tube strapping machine</a></li>  
+         <li>	 <a href="https://www.fhopepack.com/Steel-wire-strapping-machine/">Steel wire strapping machine</a></li>
+          
+          <li><i><b>			<a href="https://www.fhopepack.com/Automatic_Packing_Line.html"><u>AUTOMATIC PACKING LINE</u></a></b></i></li>            
+      <li>
+			<a href="https://www.fhopepack.com/Automatic-Coil-Packing-Line/">Automaitc coil packing line</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Automatic-Steel-Tube-Packing-Line/">Automatic steel tube packing line</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Plastic-Pipe-Packing-Line/">Plastic Pipe Packing Line</a></li>
+            <li>
+			<a href="https://www.fhopepack.com/Aluminum/">Aluminum profile packing line</a></li>
+			<li>
+			<a href="https://www.fhopepack.com/wire-line/">Automatic wire packing line</a></li>
+			<li>
+			<a href="https://www.fhopepack.com/Copper-Coil-Packing-Line/">Automatic copper coil packing line</a></li>
+			<li>
+			<a href="https://www.fhopepack.com/Master-coil-wrapper/">Master coil stretch wrapper</a></li>           
+          
+          <li><b><u><i>			<a href="https://www.fhopepack.com/Automatic-Coiling-Machine/index.html">AUTOMATIC COILER</a></i></u></b></li>            
+          <li>			<a href="https://www.fhopepack.com/Horizontal-Coiling-Machine/">Horizontal automatic coiler</a></li>            
+          <li>			<a href="https://www.fhopepack.com/Vertical-Coiling-Machine/">Vertical automatic coiler</a></li>
+  <li>			<a href="https://www.fhopepack.com/cable-winder/">Automatic cable coiler</a></li>          
+  </ul>        
+  </div>      
+  </div>    
+  </div>            
+  <div id="navMarketsDropdown" class="dropdown closed clearfix">      
+  <div class="wrapper clearfix">        
+  <div class="navLinks navColOne">          
+  <ul>            
+  <li> <img src="source/images/icon-coil.png" /><a href="https://www.fhopepack.com/Industry%20Solution/Coil_packing_solution.html">COIL</a></li>            
+  <li> <img src="source/images/icon-steel-industry.png" /><a href="https://www.fhopepack.com/Industry%20Solution/Metal_packing_solution.html">STEEL INDUSTRY</a></li>            
+  <li> <img src="source/images/icon-wire.png" /><a href="https://www.fhopepack.com/Wire_coil_packing_machine.html">WIRE INDUSTRY</a></li>            <li> <img src="source/images/icon_remediation.png" /> 			<a href="https://www.fhopepack.com/Industry%20Solution/Plastic_packing_solution.html">PLASTIC & RUBBER INDUSTRY</a></li>            
+  <li> <img src="source/images/icon-aluminum.png" />			<a href="https://www.fhopepack.com/Aluminum_wrapping_machine.html">ALUMINUM INDUSTRY</a></li>          
+  </ul>        
+  </div>        
+  <div class="navLinks navColTwo">          
+  <ul>            
+  <li> <img src="source/images/icon_hvac.png" />  			<a href="https://www.fhopepack.com/Industry%20Solution/Palletizing_packing_solution.html">PALLET 			</a></li>            
+  <li> <img src="source/images/icon_consumer.png" /> 			<a href="https://www.fhopepack.com/Pipe_bag_packaging_machine.html">BAGGING</a></li>            
+  <li> <img src="source/images/icon_marine.png" /> 			LOGISTICSS</li>            
+  <li> <img src="source/images/icon_manufacturing.png" /> CONSTRUCTION</li>            
+  <li> <img src="source/images/icon_structure.png" /> GENERAL MANUFACTURING</li>          
+  </ul>        
+  </div>        
+  <div class="navLinks navColThree">          
+  <ul>            <li> <img src="source/images/icon-long-shape-product.png" />  			
+  <a href="https://www.fhopepack.com/Industry%20Solution/Horizontal_packing_solution.html">LONG SHAPE PRODUCTS</a></li>            
+  <li> <img src="source/images/icon-wooden-timber.png" />  			
+  <a href="https://www.fhopepack.com/Industry%20Solution/Lumber%20and%20panel_packing_solution.html">WOODEN&amp;TIMBER</a></li>            
+  <li> <img src="source/images/icon-door.png" />  			<a href="https://www.fhopepack.com/Door_packing_machine.html">DOOR &amp; PANEL</a></li>            
+  <li> <img src="source/images/icon-paper-cardboard.png" />  			
+ <a href="https://www.fhopepack.com/Industry%20Solution/Paper_packing_solution.html">PAPER & CARDBOARD</a></li>            
+ <li> <img src="source/images/icon_electrical.png" /> ELECTRICAL APPLIANCES</li>          
+ </ul>        
+ </div>      
+ </div>    
+ </div>   
+ </div>  
+ <div id="navBrandSmall" class="container-fluid">    
+ <div class="panel-group" id="accordion">      
+ <div id="panelTape" class="panel panel-default">        
+ <div class="panel-heading"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">          
+ <div class="iconBrand"> </div>          
+ <div class="footerWrapper"> <img src="source/images/icon-fhopegroup.png" width="35" height="35" />            
+ <h4 class="panel-title">i strapping with</h4>          
+ </div>          </a> </div>        
+ <div id="collapseOne" class="panel-collapse collapse">          
+ <div class="panel-body">            
+ <ul>              <li>PALLET STRAPPING MACHINE</li>              <li>METAL STRAPPING MACHINE</li>              <li>TUBE STRAPPING MACHINE</li>              <li>COIL STRAPPING MACHINE</li>				<li>WIRE STRAPPING MACHINE</li>				<li>				ROD STRAPPING MACHINE</li>				<li>				ALUMINUM STRAPPING MACHINE</li>				<li>				PAPER STRAPPING MACHINE</li>				<li>COTTON STRAPPING MACHINE</li>				<li>FABRIC STRAPPING MACHINE</li>				<li>BRICK STRAPPING MACHINE</li>				<li>TIMBER STRAPPING MACHINE</li>				<li>APPLIANCE STRAPPING MACHINE</li>				<li>PANEL STRAPPING MACHINE</li>            </ul>          </div>        </div>      </div>      
+ <div id="panelBuild" class="panel panel-default">        
+ <div class="panel-heading"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">          <div class="iconBrand"> </div>         
+ <div class="footerWrapper"> <img src="source/images/icon-fhopegroup.png" width="35" height="35" />            <h4 class="panel-title">i packing with</h4>          </div>          </a> </div>        
+ <div id="collapseTwo" class="panel-collapse collapse">          <div class="panel-body">            <ul>              
+ <li>COIL PACKING MACHINE</li>              <li>PIPE PACKING MACHINE</li>              <li>DOOR PACKING MACHINE</li>              <li>PANEL PACKING MACHINE</li>            
+ <li>				<a href="https://www.fhopepack.com/Board_shrinking_machine.html">BOARD PACKING MACHINE</a></li>              <li>ALUMINUM PACKING MACHINE</li>              
+ <li>PALLET PACKING MACHINE</li>            </ul>          </div>        </div>      </div>      <div id="panelProtect" class="panel panel-default">        
+ <div class="panel-heading"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">          <div class="iconBrand"> </div>        
+ <div class="footerWrapper"> <img src="source/images/icon-fhopegroup.png" width="35" height="35" />            <h4 class="panel-title">i wrapping with</h4>          </div>          </a> </div>      
+ <div id="collapseThree" class="panel-collapse collapse">          <div class="panel-body">            <ul>              <li>				<a href="https://www.fhopepack.com/Horizontal_wrapping_machine.html">ORBITAL WRAPPING MACHINE</a></li>         
+ <li>				<a href="https://www.fhopepack.com/Stretch_wrapping_machine.html">PALLET WRAPPING MACHINE</a></li>              <li><a href="https://www.fhopepack.com/Coil_packing_machine.html">COIL WRAPPING MACHINE</a></li>            </ul>          </div>        </div>      </div>     
+ <div id="panelContain" class="panel panel-default">        <div class="panel-heading"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">          <div class="iconBrand"> </div>      
+ <div class="footerWrapper"> <img src="source/images/icon-fhopegroup.png" width="35" height="35" />            <h4 class="panel-title">i customizing with</h4>          </div>          </a> </div>       
+ <div id="collapseFour" class="panel-collapse collapse">          <div class="panel-body">            <ul>              <li>STEEL TUBE BUNDLE PACKING LINE</li>              <li> <span style="background-position: 0% 0%">HOSE COILING AND STRAPPING LINE</span></li>            
+ <li>COIL PACKING LINE</li>              <li>				<a href="https://www.fhopepack.com/Automatic-board-packaging-line.html">PANEL PACKING LINE</a></li>				
+ <li>ALUMINUM PACKING LINE</li>				<li>				<a href="https://www.fhopepack.com/PPR%20PVC-pipe-packing-line.html">PIPE BUNDLING AND BAGGING LINE</a></li>            </ul>          </div>        </div>      </div>    </div>  </div>  
+ <div id="feature" class="ipg clearfix">    <div id="featureSlider">      <div id="ftrIPG" class="feature clearfix" data-brand="ipg">         <!-- Video Modal -->        <div class="media-modal modal">          <div class="modal-dialog">            <div class="modal-content">              
+ <div class="modal-header">                <button type="button" class="close" data-dismiss="modal">Close</button>              </div>             
+ <div class="modal-body"> <span class="media">                <iframe src="" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>                </span> </div>            </div>            <!-- /.modal-content -->           </div>          <!-- /.modal-dialog -->         </div>      
+ <!-- END - Video Modal -->        
+ <!-- Background video -->       
+
+<div class="video-container" style="position: relative; width: 100%; height: 600px; overflow: hidden; background-color: #000;">
+
+  <video autoplay loop muted playsinline poster="vie/fhope.webp" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: 1; object-fit: cover;">
+    
+    <source src="vie/fhope.webm" type="video/webm">
+    
+    <source src="vie/fhope.mp4" type="video/mp4">
+    
+    <img src="vie/fhope.webp" alt="Steel coil wrapping machine demo">
+  </video>
+
+  <div class="overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.4); z-index: 2;"></div>
+
+</div>
+
+    <!-- END - Background video -->         
+ 
+ 
+ 
+ 
+ <!-- Text over video -->        <div id="textOverVideo">          
+ <h2 style=text-align="center">CUSTOMIZED WRAPPING SOLUTIONS SINCE 2002</h2>          
+ <p> Fhope is one of the leading wrapping machines producer in South China and a recognized manufacturer of coil packing machines,orbital stretch wrapper,pallet inverter, upender.The company's ongoing commitment is to provide innovative long-term solutions by world-class packing solutions in high-quality,performance and reliability..<a href="https://www.fhopepack.com/videos/" target="_blank" class="btn-video btn-video-blue"></a> </p>        </div>        <!-- END - Text over video -->       </div>    </div>  </div>  <div id="navBrandLarge" class="container-fluid tape">     <!-- Pre-render background images-->     <!-- END - Pre-render background images-->    <div class="wrapper">       <!-- Nav  tabs -->      <ul class="js-hero-tabs-nav nav nav-tabs">        <li id="tape" data-brand="tape" class="js-hero-tab-nav-tape"> <a href="javascript:;" onclick="window.location.href='https://www.fhopepack.com/Coil_packing_machine.html'" class="brandPanel">          <div class="img-off"> 			<img border="0" src="Stretch%20wrapping%20machines/homepage/coil-packaging.jpg" width="210" height="150"> </div>          <div class="img-on"> 			<img border="0" src="Stretch%20wrapping%20machines/homepage/coil-packing-machine.jpg" width="210" height="150"> </div>          <div id="panelTape" class="clearfix">            <div class="panelSelector"></div>          </div>          </a> </li>        <li id="build" data-brand="build" class="js-hero-tab-nav-build"> <a href="javascript:;" onclick="window.location.href='https://www.fhopepack.com/Stretch_wrapping_machine.html'" class="brandPanel">          <div class="img-off"> <img src="Stretch%20wrapping%20machines/homepage/Pallet-Wrapping.jpg" alt="Stretch wrapping machine" width="210" height="150" /> </div>          <div class="img-on"> <img src="Stretch%20wrapping%20machines/homepage/pallet-wrapping-2.jpg" alt="Pallet wrapping machine" width="210" height="150" /> </div>          <div id="panelBuild">            <div class="panelSelector"></div>          </div>          </a> </li>        <li id="protect" data-brand="protect" class="js-hero-tab-nav-protect"> <a href="javascript:;" onclick="window.location.href='https://www.fhopepack.com/Horizontal_wrapping_machine.html'" class="brandPanel">          <div class="img-off"> <img src="Stretch%20wrapping%20machines/homepage/orbital-stretch-wrapper.jpg" alt="Orbital stretch wrapper solution" width="210" height="150" /> </div>          <div class="img-on"> <img src="Stretch%20wrapping%20machines/homepage/orbital-wrapping.jpg" alt="horizontal stretch wrapper" width="210" height="150" /> </div>          <div id="panelProtect">            <div class="panelSelector"></div>          </div>          </a> </li>        <li id="contain" data-brand="contain" class="js-hero-tab-nav-contain"> <a href="javascript:;" onclick="window.location.href='https://www.fhopepack.com/Automatic-strapping-machine.html'" class="brandPanel">          <div class="img-off"> <img src="Stretch%20wrapping%20machines/homepage/strapping-Solutions.jpg" alt="Automatic PET strapping machine" width="210" height="150" /> </div>          <div class="img-on"> <img src="Stretch%20wrapping%20machines/homepage/Strapping-machines.jpg" alt="Automatic strapping machine" width="210" height="150" /> </div>          <div id="panelcontain">            <div class="panelSelector"></div>          </div>          </a> </li>      </ul>    </div>  </div>  <div class="shadow-image"><img src="source/images/shadow1.jpg" /></div>  <div class="pageContent home clearfix">    <div class="row-fluid">      <div id="home-industry-container" class="wrapper">        <div id="home-industry-header">          <h2 class="home-industry-header">WHAT'S YOUR INDUSTRY?</h2>        </div>                  <div class="home-industry-item">  			<a class="img-slider-link" href="https://www.fhopepack.com/Horizontal_wrapping_machine.html"><img src="Stretch%20wrapping%20machines/homepage/horizontal-orbital-stretch-wrapper-2.jpg" class="img-slider-hover hide" alt="Orbital stretch wrapper" width="320" height="320" />          <div class="home-industry-item-title-wrapper"> <span class="home-industry-item-title"> Orbital stretch wrapper </span> </div>          	</a> <a class="img-slider-link" href="https://www.fhopepack.com/Horizontal_wrapping_machine.html"><img src="Stretch%20wrapping%20machines/homepage/horizontal-orbital-stretch-wrapper.jpg" class="img-slider" alt="Orbital stretch wrapper" width="320" height="320" /></a></div>        
+  <div class="home-industry-item">  			
+  <a class="img-slider-link" href="https://www.fhopepack.com/Automatic_Coil_packing_machinery.html"> <img src="Stretch%20wrapping%20machines/homepage/Automatic-coil-packing-line.JPG" class="img-slider" alt="Coil packing line" width="320" height="320" /> 
+  <img src="Stretch%20wrapping%20machines/homepage/Automatic-coil-packing-line-2.JPG" class="img-slider-hover hide" alt="coil packaging line" width="320" height="320" />          
+  <div class="home-industry-item-title-wrapper"> <span class="home-industry-item-title"> Coil packaging line </span> </div>          	</a> 
+  </div>        
+  <div class="home-industry-item"> <a class="img-slider-link" href="https://www.fhopepack.com/Master-coil-wrapper/"> <img src="Stretch%20wrapping%20machines/homepage/Master-coil-stretch-wrapper.jpg" class="img-slider" alt="master coil stretch wrapper" width="320" height="320" /> 
+  <img src="Stretch%20wrapping%20machines/homepage/Master-coil-stretch-wrapper-2.jpg" class="img-slider-hover hide" alt="coil stretch wrapper" width="320" height="320" />          
+  
+  <div class="home-industry-item-title-wrapper"> <span class="home-industry-item-title"> Master coil stretch wrapper </span> </div>          
+  </a> </div>        
+  <div class="home-industry-item"> <a class="img-slider-link" href="https://www.fhopepack.com/Hose-coiling-and-strapping-machine.html"> <img src="Stretch%20wrapping%20machines/homepage/Automatic-coiling-machine-for-hose-and-pipe.jpg" class="img-slider" alt="Automatic coiling machine for hose and pipe" width="320" height="320" /> 
+  <img src="Stretch%20wrapping%20machines/homepage/Automatic-coiling-machine-for-hose-and-pipe 2.jpg" class="img-slider-hover hide" alt="automatic hose coiling machine" width="320" height="320" />          
+  <div class="home-industry-item-title-wrapper"> <span class="home-industry-item-title"> Automatic pipe coiling machine </span> </div>          </a> </div>        
+  <div class="home-industry-item">  			
+  <a class="img-slider-link" href="https://www.fhopepack.com/Automatic-pipe-bundle-packing-line.html"> <img src="Stretch%20wrapping%20machines/homepage/Steel-tube-bundling-machine.jpg" class="img-slider" alt="steel tube packing line" width="320" height="320" /><img src="Stretch%20wrapping%20machines/homepage/Steel-tube-bundling-machine-2.jpg" class="img-slider-hover hide" alt="steel Tube packing machine" width="320" height="320" />          
+  <div class="home-industry-item-title-wrapper"> <span class="home-industry-item-title"> Steel tube packing line </span> </div>          </a> </div>        
+  <div class="home-industry-item"> <a class="img-slider-link" href="https://www.fhopepack.com/Automatic-strapping-machine.html"> <img src="Stretch%20wrapping%20machines/homepage/Automatic-strapping-machine-(2).jpg" class="img-slider" alt="PET Strapping machine" width="320" height="320" /> <img src="Stretch%20wrapping%20machines/homepage/Automatic-strapping-machine-2.jpg" class="img-slider-hover hide" alt="Automatic strapping machine" width="320" height="320" />          
+  <div class="home-industry-item-title-wrapper"> <span class="home-industry-item-title"> Automatic strapping machine </span> </div>          </a> </div>        
+  <div class="home-industry-item"> <a class="img-slider-link" href="https://www.fhopepack.com/Automatic_wrapping_machine.html"> <img src="Stretch%20wrapping%20machines/homepage/Automatic-stretch-wrapping-machine.jpg" class="img-slider" alt="stretch wrapping machine" width="320" height="320" /> <img src="Stretch%20wrapping%20machines/homepage/Automatic-stretch-wrapping-machine-2.jpg" class="img-slider-hover hide" alt="Pallet stretch wrapper" width="320" height="320" />          
+  <div class="home-industry-item-title-wrapper"> <span class="home-industry-item-title"> Automatic pallet wrapper </span> </div>          </a> </div>        
+  <div class="home-industry-item">  			
+  <a class="img-slider-link" href="https://www.fhopepack.com/PPR%20PVC-pipe-packing-line.html"> <img src="Stretch%20wrapping%20machines/homepage/automatic-pipe-bundle-banding-machine.JPG" class="img-slider" alt="automatic pipe bundling machine" width="320" height="320" />
+  <img src="Stretch%20wrapping%20machines/homepage/automatic-pipe-bundle-banding-machine-2.JPG" class="img-slider-hover hide" alt="pipe bundling machine and banding machine" width="320" height="320" />         
+  <div class="home-industry-item-title-wrapper"> <span class="home-industry-item-title"> Pipe bundling machine </span> </div>          </a> </div>      </div>      
+  <div class="feature-cta" style="background-image:url('source/images/sustainability-stationary-bkgd.jpg');">        
+  <div class="feature-cta-content">          <div class="col-sm-8 col-md-9 feature-cta-left-container">            
+  <h2 class="feature-cta-title" style="color:#5F8F22">HUMANISM</h2>            
+  <p class="feature-cta-description">At FHOPE, our development commitment has and continues to be focused on providing safe environment for our staffs, and manufacturing high performance solution per client's packing goal.</p>           
+  <a class="feature-cta-btn" style="background-image:url('source/images/BTN-green_1.png');"                 href="">Learn More</a> </div>          
+  <div class="col-sm-4 col-md-3 text-center feature-cta-right-container"> <img class="feature-cta-logo" src="source/images/sustainability-logos.png"> </div>        </div>      </div>      
+  <div id="news-container-section">        
+  <div id="news-content"></div>      </div>      
+  <div class="shadow-image-news"><img src="source/images/shadow2.jpg" /></div>      
+  <div id="highlights-container">        
+  <div id="releases" class="content home highlights news-section">          
+  <div id="highlights-header">            
+  <div class="news-tab-content news-tab-content-visited" id="highlights">             
+  <div class="panelIcon highlights-icon"> <img id="SectionImage" class="news-tab-hidden" src="source/images/Fhope-news-highlight-off.png" /> 
+  <img id="SectionImageHover" src="source/images/Fhope-news-highlight-on.png" /> </div>              
+  <h3 class="panelTitle highlights-title"> <span id="infopanel_2_TitleLabel">New Equipments</span> </h3>           
+  </div>          
+  </div>    
+  
+  
+  
+   <div class="newsEntry">              <div id="infopanel_2_NewsRepeater_ImagePanel_2" class="highlights-news">               
+   <div class="news-panel-new-left-column"> <img src="https://www.fhopepack.com/blog/wp-content/uploads/2020/04/Mask-machine.jpg" alt="Automatic pipe coiler" width="200" height="130" /> </div>                
+   <div class="news-panel-new-right-column"> <span class="date"> 				
+   <a href="https://www.fhopepack.com/pallet-inverter/">Pallet inverter and handling equipments</a> </span> </br>                  
+         <p> The pallet inverter and automatic inline pallet changer solution provides for changing the pallet with 180 degree turning or replace the pallet without rotating per different handling goal. There are pallet changing solution for sea food products, for forzen industry, for the pallet in bottles package, for load in box pallet.<br />                   
+         Learn More </p>             
+         </div>            
+         </div>            
+         </div>           
+  
+  
+  
+  
+  
+        <div>            <div class="newsEntry">             
+        <div id="infopanel_2_NewsRepeater_ImagePanel_0" class="highlights-news">               
+        <div class="news-panel-new-left-column"> <img src="Stretch%20wrapping%20machines/homepage/Wire-strapping-machine.jpg" alt="wire coil compacting&strapping machine" width="200" height="130" /> </div>                
+  <div class="news-panel-new-right-column"> <span class="date"> 					
+  <a href="https://www.fhopepack.com/Wire-coil-compactor-strapping_machine.html">Automatic wire coil compacting and strapping machine</a> </span> </br>                  
+  <p> This Strapping & Compacting Line has frames, electric cabinet, pneumatic and hydraulic installation. This line will be fully automatic with manual operations possible.The Automatic Strapping Machine performs all the straps in different strapping positions. The wire coil along with the basket should be positioning on table and the compactor system at the strapping position.<br />                    View Archive </p>                </div>              </div>            </div>          
+    <div class="newsEntry">              
+    <div id="infopanel_2_NewsRepeater_YouTubePanel_1" class="highlights-news">               
+    <div class="news-panel-new-left-column"> <img src="Stretch%20wrapping%20machines/homepage/PVC-pipe-bundling-system.jpg" alt="automatic pipe bundle making machine" width="200" height="130" /> </div>               
+    <div class="news-panel-new-right-column"> <span class="date">				
+    <a href="https://www.fhopepack.com/PPR%20PVC-pipe-packing-line.html">Automatic pipe bundling and bagging line</a></span></br>                 
+    <p> The pipe group bundling machine is an automatic packing line 					which designed for save the packaging process labor 				
+    operation in PPV,PPR pipe production. The packing solution including pipe counting, feeding, storage, aligning, bundling, strapping, conveying, 				
+    bagging, binding etc. It is a set of efficient, convenient and safe wrapping machinery for pipe bundle packaging.</p>               
+    </div>             
+    </div>           
+    </div>   
+    
+    <div class="newsEntry">             
+    <div id="infopanel_2_NewsRepeater_ImagePanel_2" class="highlights-news">              
+    <div class="news-panel-new-left-column"> <img src="Stretch%20wrapping%20machines/homepage/automatic-hose-coiler.jpg" alt="Automatic pipe coiler" width="200" height="130" /> </div>               
+    <div class="news-panel-new-right-column"> <span class="date"> 				
+    <a href="https://www.fhopepack.com/Hose-coiling-and-strapping-machine.html">Automatic hose&amp;pipe coiler and strapping machine</a> </span> </br>                
+    <p> This is automatic pipe coiling and strapping machine specialized for vertical coiling and strapping, such as pipe coil, hose coil, etc. 					
+    It includes automatic coiler and strapping machine. After coiling and strapping, pipe coils are well-shaped. 
+    The coiling machine connect to extruder for saving labor force and improves work efficiency that plays a key role in the end of production procedure.<br />                    Learn More </p>                </div>  
+    </div>            </div>           
+    
+    <div class="newsEntry">              
+    <div id="infopanel_2_NewsRepeater_YouTubePanel_3" class="highlights-news">                
+    <div class="news-panel-new-left-column"> <img src="Stretch%20wrapping%20machines/homepage/aluminum-packing-line-1.jpg" alt="Aluminum packing line" width="200" height="130" /> </div>                
+    <div class="news-panel-new-right-column"> <span class="date">					
+    <a href="https://www.fhopepack.com/Aluminum_profile_packing_line.html">Automatic aluminum profile packaging line</a></span></br>                  
+    <p> This is an automatic aluminum profile packing line specialized for aluminum profiles, section. It include 	aluminum binding, wrapping, bundle making machine and bundle stretch wrapper.&nbsp; 
+    The wrapped package is well protected and sealed, and looks tidier. Timber insert on top&amp;bottom of bundle is available.The machine can be connected to your existed production line.</p>                </div>              </div>            </div>          </div>        </div>      </div>     
+    
+    <div id="products-container">        
+    <div id="releases" class="content home product-releases news-section" style="display: none;">          
+    <div id="product-releases-header">            
+    <div class="news-tab-content" id="products">              
+    <div class="panelIcon product-releases-icon"> <img src="source/images/Fhope-news-pr-off.png?h=45&la=en&w=45&hash=6DDB05616932DCF52CBA7A9CF8A358757553E394" alt="News Icon" width="45" height="45" /> <img src="source/images/IPG-news-pr-on.png?h=45&la=en&w=45&hash=52F10F8DDD80E062F1743ED6519EDC9D1DA95CF6" class="news-tab-hidden" alt="News Icon" width="45" height="45" /> </div>              <h3 class="panelTitle product-releases-title"> Highlights </h3>            </div>          </div>           
+    <div class="newsEntry">              
+    <div id="infopanel_2_NewsRepeater_ImagePanel_2" class="highlights-news">               
+    <div class="news-panel-new-left-column"> <img src="Stretch%20wrapping%20machines/homepage/Strapping-machine-visiting.jpg" alt="Strapping machine visiting" width="200" height="130" /> </div>               
+    <div class="news-panel-new-right-column"> <span class="date">					<a href="https://www.fhopepack.com/cable-winder/">Cable coiling and strapping packing line</a> </span> </br>                  
+    <p> Increasing 					market and product segmentation, as well as just how modern 					packaging work, implies that the wide variety of secondary 					packaging is actually growing. Because of this, flexibility 					along with the overall efficiency with the packaging process 					have grown to be more vital. Fhopepack is accommodating to 					this trend for pallet horizontal wrapping machine together 					with the pre-stretch system.</span></font><br />                    Learn More </p>                </div>              </div>            </div>            <div class="newsEntry">              <div id="infopanel_2_NewsRepeater_YouTubePanel_3" class="highlights-news">                <div class="news-panel-new-left-column"> <img src="Stretch%20wrapping%20machines/homepage/Strapping-machine-visiting.jpg" alt="Seal With Safety" width="200" height="130" /> </div>               
+    
+    <div class="news-panel-new-right-column"> <span class="date">					
+    <a href="https://www.fhopepack.com/Automatic-cotton-strapping-machine.html">					Cotton&amp;Fiber strapping machine</a></span></br>                 
+    <p>We are providing automatic strapping machine with 2-4 strap 					heads for cotton and fiber packaging.&nbsp; The Automatic cotton Strapping Machine performs all the straps in different strapping positions.					The package along with the basket should be positioning on table and the compactor system at the strapping position. </p>                </div>              </div>            </div>            <div class="newsEntry">              <div id="infopanel_2_NewsRepeater_ImagePanel_0" class="highlights-news">                
+    <div class="news-panel-new-left-column"> <img src="Stretch%20wrapping%20machines/homepage/Strapping-machine-visiting.jpg" alt="strap machine" width="200" height="130" /> </div>
+    
+    <div class="news-panel-new-right-column"> <span class="date"> 					pallet packing machine </span> </br>                  <p> &nbsp;<br />                    
+    There are many types pallet packing machine avaialble for different pallet load from semiauto to automatic. The pallet packing machine is able equipt with different option device via packaging goal in pallet height, weight, Length&Width. Our team is able help your find the right solution per your products specification. </p>                
+    </div>              </div>           
+    </div>  
+    
+        <div class="newsEntry">             
+    <div id="infopanel_2_NewsRepeater_YouTubePanel_1" class="highlights-news">               
+    <div class="news-panel-new-left-column"> <img src="https://www.fhopepack.com/blog/wp-content/uploads/2023/07/aluminum-master-coil-packing-machine.webp" alt="aluminum coil packing machine" width="200" height="130" /> </div>                
+    <div class="news-panel-new-right-column"> <span class="date"><a href="https://www.fhopepack.com/Aluminum-Coil-Packaging-Machine/">Aluminum coil packing machine</a></a></span></br>                  
+    <p>There are versatile aluminum coil packaging machines offer a wide array of solutions for businesses with various packing goals. </p>                
+    </div>              </div>            </div>
+    
+    
+    
+    
+    <div class="newsEntry">             
+    <div id="infopanel_2_NewsRepeater_YouTubePanel_1" class="highlights-news">               
+    <div class="news-panel-new-left-column"> <img src="Stretch%20wrapping%20machines/homepage/Strapping-machine-visiting.jpg" alt="strapping machine" width="200" height="130" /> </div>                
+    <div class="news-panel-new-right-column"> <span class="date">					Stretch Hood Machine</span></br>                  
+    <p>Comparing to the stretch wrapping, it is a new types pallet packing machine to pack the load by stretch hood film. </p>                
+    </div>              </div>            </div>        </div>
+    
+    
+    
+    
+    
+    
+    
+    </div>  
+    
+    
+    
+    <div id="investors-container">        
+    <div id="releases" class="content home investor-relations news-section" style="display: none;">          
+    <div id="investor-relations-header">            
+    <div class="news-tab-content" id="investors">              <div class="panelIcon investor-relations-icon"> <img src="source/images/icon-news-fhope.png?h=45&la=en&w=45&hash=FA66C07DA582CA99D509EEEC3273022857B33A0B" alt="" width="45" height="45" /> <img src="source/images/icon-news-fhope.png?h=45&la=en&w=45&hash=FE4AFB13EC991F3C2D7662473259FEAF9BD748DB" class="news-tab-hidden" alt="" width="45" height="45" /> </div>              <h3 class="panelTitle investor-relations-title"> Investor Relations </h3>            </div>          </div>          
+    <h4 class="section"> <span id="infopanel_4_ConferenceCallLabel">Conference 2016 Notice</span></h4>         
+<ul>            <li>              
+    <div class="date"> 11/12/2016 </div>              Conference 2016 Notice </li>          </ul>         
+    <input type="hidden" name="infopanel_4$MaxItemsHiddenField" id="infopanel_4_MaxItemsHiddenField" value="9999" />        </div>      </div>
+    <ul>        <h4 class="section"></h4>      </ul>      <ul>        <h4 class="section"></h4>      </ul>      <ul>      
+    <h4 class="section"></h4>      </ul>      <ul>        <h4 class="section"></h4>      </ul>     
+    
+    <div class="feature-cta" style="background-image:url('source/images/packaging-bkgd.jpg');">        
+    <div class="feature-cta-content">         
+    <div class="col-sm-8 col-md-9 feature-cta-left-container">            
+    <h2 class="feature-cta-title" style="color:#1674B8">Pallet Wrapping Machine</h2>        
+    <p class="feature-cta-description">At FHOPE, we got 20 years experience in packing solution for three kind of objects: coil, pallet, long shape object. We are providing packing project service for metalugical industry, platic industry. Our professional team is specialist in designing solution vary from package to package and it is the hallmark of success for Fhope 			packing machinery</p>          
+    <a class="feature-cta-btn" style="background-image:url('source/images/btn-blue.png');"                
+    href="https://www.fhopepack.com/Stretch_wrapping_machine.html">Learn More</a> </div>         
+    <div class="col-sm-4 col-md-3 text-center feature-cta-right-container"> <img class="feature-cta-logo" src="source/images/packaging-logos.png"> 
+    </div>        
+    </div>    
+    </div>  
+    
+  
+
+    
+    <div class="cta-container">        <div class="cta-links">          
+    <div class="cta-link-left-column"> <a href="https://www.fhopepack.com/Contact-Us.html"> <img src="source/images/request-more-info.jpg"/> </a> </div>        
+    <div class="cta-link-right-column"> <a href="https://www.fhopepack.com"> <img src="source/images/register-warranty.png"/></a> 
+    </div>       
+    </div>     
+    </div>   
+    </div>  
+    </div>  
+
+
+         
+     
+
+
+
+
+    <footer>    <div class="wrapper clearfix">      <div id="emailSignup" class="footerCol">       
+    <h4> Frind Links</h4>        <ul>         
+    <li> <a href="https://www.fhopepack.com/Hose-coiling-and-strapping-machine.html">Automatic coiling machine</a> </li>          
+    <li> <a href="http://www.calloytool.com" rel="nofollow">calloytool</a> </li>  
+     <li> <a href="https://www.fhopepack.com/Auto-Bagger/" >Autobagger</a> </li>  
+    <li> <a href="https://www.fhopepack.com/Industry_solution.html">Packaging solution</a> </li>          
+    <li> <a href="https://www.fhopepack.com/Stretch-film-and-packing-material.html">Packing material </a> </li>         
+    <li> <a href="https://www.fhopepack.com/Horizontal_wrapping_machine.html">Orbital stretch wrapper </a></li>          
+  
+  <li><a href="https://www.fhopepack.com/zh/">Fhopepack</a>  </li>
+  <li><a href="http://www.shjlpack.com" rel="nofollow">wrapper</a>  </li>
+  <li><a href="https://www.fhopepack.com/videos/">Videos</a>  </li>
+          </ul>      </div>      
+          <div id="" class="footerCol equalHeights">       
+          <h4> Company</h4>        <ul>          <li> <a href="https://www.fhopepack.com/About_Us.html">About Us</a> </li>          
+          <li> Factory </li>          <li> Team </li>          <li> Delivery </li>        </ul>      </div>      <div id="" class="footerCol equalHeights">        <h4> Support</h4>        <ul>          <li> B2B Support </li>          <li> <a href="https://www.fhopepack.com/Contact-Us.html">Contact Us</a> </li>         
+          <li><a href="https://www.fhopepack.com/Privacy.html">Privacy Policy</a></li>        
+          <li> Terms of Use </li>        </ul>      </div>      <div id="socialMedia" class="footerCol">                 <!-- Socail Media Start -->        <div class="section socialPanel">          <div class="socialPanel-header">            <h4 class="socialPanel-title"> Connect With Us </h4>          </div>          
+          <ul class="content">            
+          <li> <a href="https://www.facebook.com/yan.randal" rel="nofollow"> <img src="source/images/Fhope-icon-social-facebook.png?h=20&la=en&w=21&hash=F003AA5D98DD0D4A8251124FA0EA02F1C0E888FB" alt="" width="21" height="20" /> Facebook</a> </li>
+          <li> <a href="https://twitter.com/fhopepack" rel="nofollow"> <img src="source/images/Fhope-icon-social-twitter.png?h=20&la=en&w=21&hash=AB1FD0CEAF1FCF8AEEEB186BF0695FB16FDC3ADB" alt="" width="21" height="20" /> Twitter </a> </li>            
+          <li> <a href="https://www.youtube.com/channel/UC4VWX0gorymh0z5GVw16z-g" rel="nofollow"> <img src="source/images/Fhope-icon-social-youtube.png" alt="" width="21" height="20" /> Youtube </a> </li>            
+          <li> <a href="https://www.pinterest.com/fhopepack/" rel="nofollow"> <img src="source/images/Fhope-icon-social-pinterest.png" alt="" width="21" height="20" /> Pinterest </a> </li>            
+          <li> <a href="https://www.linkedin.com/in/randal-yan-01968041/" rel="nofollow"> <img src="source/images/Fhope-icon-social-linkedin.png" alt="" width="21" height="20" /> LinkedIn </a> </li>            
+                  </ul>                    
+                  <!-- Social Media End -->                   
+                  </div>      
+                  </div>  
+                  
+                  <div id="footerCopyright" class="clearfix"> <img src="source/images/icon-fhopegroup.png" width="35" height="35" />       
+                  <p><span class="corpName">&copy; <span style="font-size:18px;">
+                     2022 Shanghai Fhope Machinery Co.,Ltd. All Rights Reserved</span><span class="pipe"> | </span><span class="allRights"></span></p>      
+                      </div>    </div>  </footer> 
+                      <script src="source/js/jquery.min.js"></script>   
+                      <script src="source/js/bootstrap.min.js"></script>   
+                      <script src="source/js/bootstrap-select.js"></script>   
+                      <script src="source/js/jquery.flexisel.js"></script>   
+                      <script src="source/js/jquery.equalheights.js"></script>   
+                      <script src="source/js/underscore-min.js"></script>   
+                      <script src="source/js/itp-hero.js"></script>   
+                      <script src="source/js/itp-custom4.js"></script>   
+                      <script src="source/js/slick.min.js"></script>   
+                      <script type="text/javascript"> checkCookie();</script>   
+                      <script>$(document).ready( function() {    var headerMargin = $('header.container-fluid');    $("#textOverVideo").css('left', headerMargin.css('margin-left'));        $(window).resize(function () {        headerMargin = $('header.container-fluid');        $("#textOverVideo").css('left', headerMargin.css('margin-left'));    });});</script>   
+                      <script type="text/javascript">//<![CDATA[var Page_ValidationActive = false;if (typeof(ValidatorOnLoad) == "function") {    ValidatorOnLoad();}function ValidatorOnSubmit() {    if (Page_ValidationActive) {        return ValidatorCommonOnSubmit();    }    else {        return true;    }}        theForm.oldSubmit = theForm.submit;theForm.submit = WebForm_SaveScrollPositionSubmit;theForm.oldOnSubmit = theForm.onsubmit;theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;//]]></script>
+                      
+                      </form></body></html>
+          
+          
+          
+          
+          
+         

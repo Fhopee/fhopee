@@ -1,0 +1,1986 @@
+[
+  {
+    "id": "1",
+    "name": "Products",
+    "parentId": "0",
+    "slug": "/Products",
+    "description": "Strtch wrapping machines, coil wrapping machine, orbital wrapping macnine, coil packing line... made by Fhopepack",
+    "image": null
+  },
+  {
+    "id": "2",
+    "name": "Markets",
+    "parentId": "0",
+    "slug": "/markets",
+    "description": "The information about the customized wrapping machine for different industry. The turnkey packing solution manufacturer.",
+    "image": null
+  },
+  {
+    "id": "3",
+    "name": "About us",
+    "parentId": "0",
+    "slug": "/about",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "4",
+    "name": "Contact us",
+    "parentId": "0",
+    "slug": "/contact",
+    "description": "Contact with Fhopepack for more coil packing machine, automatic coiler, pallet inverters. one of top manufacturer for the automation solution",
+    "image": null
+  },
+  {
+    "id": "5",
+    "name": "Support",
+    "parentId": "0",
+    "slug": "/Support",
+    "description": "The supportive videos and document of the automatic coiler, orbital stretch wrapper, coil wrapping machine, steel coil packing line...from FHOPEPACK",
+    "image": null
+  },
+  {
+    "id": "6",
+    "name": "中文",
+    "parentId": "0",
+    "slug": "/CN",
+    "description": "风鼎机械提供全自动收卷捆扎机，钢带自动包装线，深筒包装机等包装解决方案。作为专业的设备制造商，我们可为客户提供定制化生产服务...",
+    "image": null
+  },
+  {
+    "id": "7",
+    "name": "产品展示",
+    "parentId": "0",
+    "slug": "/cn/products",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "8",
+    "name": "市场营销",
+    "parentId": "0",
+    "slug": "/yingxiao",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "9",
+    "name": "关于我们",
+    "parentId": "0",
+    "slug": "/women",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "10",
+    "name": "联系我们",
+    "parentId": "0",
+    "slug": "/lianxi",
+    "description": "全自动在线钢带包装线，铜带包装方案，自动收卷机捆扎方案，设备制造商联系我们---上海风鼎机械有限公司",
+    "image": null
+  },
+  {
+    "id": "11",
+    "name": "技术支持",
+    "parentId": "0",
+    "slug": "/zhichi",
+    "description": "售后团队和技术团队随时在线为你提供技术支持",
+    "image": null
+  },
+  {
+    "id": "12",
+    "name": "Español",
+    "parentId": "0",
+    "slug": "/es",
+    "description": "El fabricante de la Envolvedora orbital, Envolvedoras horizontales en China para una gran variedad de productos de distintos tamaños y formas.",
+    "image": null
+  },
+  {
+    "id": "13",
+    "name": "Productos",
+    "parentId": "0",
+    "slug": "/spanish/products",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "14",
+    "name": "Mercados",
+    "parentId": "0",
+    "slug": "/es/markets",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "15",
+    "name": "Sobre nosotros",
+    "parentId": "0",
+    "slug": "/es/about",
+    "description": "Póngase en contacto con nosotros si necesita una máquina de envasado",
+    "image": null
+  },
+  {
+    "id": "16",
+    "name": "Contacto",
+    "parentId": "0",
+    "slug": "/es/contact",
+    "description": "Línea de empaquetado de cinta de acero totalmente automática en línea, esquema de empaquetado de cinta de cobre, esquema de flejado automático de rebobinadora, el fabricante del equipo se pone en contacto con nosotros",
+    "image": null
+  },
+  {
+    "id": "17",
+    "name": "Soporte",
+    "parentId": "0",
+    "slug": "/es/support",
+    "description": "No dude en ponerse en contacto con nosotros",
+    "image": null
+  },
+  {
+    "id": "126",
+    "name": "Automatic pallet wrapping machine",
+    "parentId": "123",
+    "slug": "/Automatic-pallet-wrapping-machine",
+    "description": "The dependable manufacturer in turntable pallet wrapping machine,bag pallet wrapping machinery,bottle pallet stretch wrapping...The well received pallet wrapping machines by market is in FHOPE",
+    "image": null
+  },
+  {
+    "id": "127",
+    "name": "Rotary arm wrapping machine",
+    "parentId": "123",
+    "slug": "/Rotary-arm-wrapping-machine",
+    "description": "Rotary arm wrapping machinery is for pallet on-line packaging,such as block on pallet,box on pallet...Top covering packaging solution.",
+    "image": null
+  },
+  {
+    "id": "100",
+    "name": "new",
+    "parentId": "36",
+    "slug": "/new",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "35",
+    "name": "News",
+    "parentId": "0",
+    "slug": "/news",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "36",
+    "name": "New Equipments",
+    "parentId": "35",
+    "slug": "/news/New_Equipments",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "37",
+    "name": "Highlights",
+    "parentId": "35",
+    "slug": "/news/Highlights",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "38",
+    "name": "Investor Relations",
+    "parentId": "35",
+    "slug": "/news/Investor_Relations",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "39",
+    "name": "新闻资讯",
+    "parentId": "0",
+    "slug": "/news",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "40",
+    "name": "最新设备",
+    "parentId": "39",
+    "slug": "/cn/news/zuixinshebei",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "41",
+    "name": "重点信息",
+    "parentId": "39",
+    "slug": "/cn/news/zhongdianxinxi",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "42",
+    "name": "投资者关系",
+    "parentId": "39",
+    "slug": "/cn/news/touzizheguanxi",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "43",
+    "name": "Noticias",
+    "parentId": "0",
+    "slug": "/es/Noticias",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "44",
+    "name": "Nuevos equipos",
+    "parentId": "43",
+    "slug": "/Nuevos_equipos",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "45",
+    "name": "Highlights",
+    "parentId": "43",
+    "slug": "/Highlights",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "46",
+    "name": "Investor Relations",
+    "parentId": "43",
+    "slug": "/Investor_Relations",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "123",
+    "name": "Stretch Wrapping Machine",
+    "parentId": "1",
+    "slug": "/Stretch-Wrapping-Machine",
+    "description": "Stretch wrapping machine from FhopePack. The main manufacturer and supplier of packaging machines in China. Find out quality and flexibility service. More information on our website.",
+    "image": null
+  },
+  {
+    "id": "120",
+    "name": "Semiauto horizontal wrapper",
+    "parentId": "119",
+    "slug": "/Semiauto-horizontal-wrapper",
+    "description": "Semiauto horizontal orbital wrapping machine can be widely used for all kind of long shape package. It is mainly created for any heavy and long shape objects. Such as aluminum section, plastic pipe, aluminum section, profile and so on. ",
+    "image": null
+  },
+  {
+    "id": "121",
+    "name": "Automatic horizontal stretch wrapper",
+    "parentId": "119",
+    "slug": "/Automatic-horizontal-stretch-wrapper",
+    "description": "Automatic horizontal stretch wrapper can be designed with different function via packaging requirement, such as timber feeder, strapping machine connect to wrapper, film convering. Ring OD size per load size...",
+    "image": null
+  },
+  {
+    "id": "122",
+    "name": "Customize orbital wrapper",
+    "parentId": "119",
+    "slug": "/Customize-orbital-wrapper",
+    "description": "The customized orbital stretch wrap machine designed with bubble film, timber feeder, strapping machine, yellow wrapper jacket, film covering device...for different packaging goal. ",
+    "image": null
+  },
+  {
+    "id": "171",
+    "name": "Aluminum packing solution",
+    "parentId": "2",
+    "slug": "/Aluminum-packing",
+    "description": "Here shows the aluminum packing machine solution total range in the packaging possibility to help better understanding the packing way and choice in auluminum automation.",
+    "image": null
+  },
+  {
+    "id": "80",
+    "name": "Flash",
+    "parentId": "0",
+    "slug": "/flash",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "81",
+    "name": "New WAT Case Sealer!",
+    "parentId": "80",
+    "slug": "/flash/en",
+    "description": "Random Auto H2O Case Sealer works with IPG water-activated tape (gummed tape, paper tape) for the best possible seal. Features include: high throughput speeds, low maintece and low cost!",
+    "image": null
+  },
+  {
+    "id": "82",
+    "name": "WAT封口机",
+    "parentId": "80",
+    "slug": "/flash/cn",
+    "description": "随机自动H2O封口机可与IPG水驱胶带（胶带，纸带）配合使用，以获得最佳的密封。 特点包括：高吞吐速度，低维护和低成本！",
+    "image": null
+  },
+  {
+    "id": "83",
+    "name": "Nuevo vendedor del caso de WAT!",
+    "parentId": "80",
+    "slug": "/flash/es",
+    "description": "Random Auto H2O Case Sealer trabaja con cinta activada por agua IPG (cinta adhesiva, cinta de papel) para el mejor sello posible. Las características incluyen: velocidades de alto rendimiento, bajo mantenimiento y bajo costo!",
+    "image": null
+  },
+  {
+    "id": "124",
+    "name": "Semi-auto pallet wrapping machine",
+    "parentId": "123",
+    "slug": "/Semi-auto-pallet-wrapping-machine",
+    "description": "Semiauto pallet stretch wrapping machine manufacturer provides good price wrapping machines such as lifter assess wrapper, robot wrapper...option with top press, pre-stretch functions, 5 years warranty.",
+    "image": null
+  },
+  {
+    "id": "110",
+    "name": "环体缠绕包装机",
+    "parentId": "7",
+    "slug": "/products/coil-wrapper",
+    "description": "各种钢带包装机，钢丝卷缠绕机，管材缠绕包装机整体的解决方案供应商，如钢卷包装机，铝卷包装机，软管包装机，风鼎机械为您定制你所需求的高品质包装设备。",
+    "image": null
+  },
+  {
+    "id": "111",
+    "name": "水平缠绕包装机",
+    "parentId": "7",
+    "slug": "/products/horizontal-wrapper",
+    "description": "水平缠绕包装机制造商帮助您找到最合适的水平包装机解决方案，如木质轨道包装机，钢管缠绕机，铝拉伸包装机，面板螺旋轨道包装机，型材，门包装机价格合理以及定制解决方案。",
+    "image": null
+  },
+  {
+    "id": "112",
+    "name": "翻转机",
+    "parentId": "7",
+    "slug": "/products/upender",
+    "description": "风鼎机械提供线圈翻转器处理设备，提高您的物品使用包装效率。如：模具翻转机、线圈翻转机，这是一种利用翻转设备和倾卸设备来进行重载装卸的机型。",
+    "image": null
+  },
+  {
+    "id": "119",
+    "name": "Horizontal Orbital Stretch Wrapper",
+    "parentId": "1",
+    "slug": "",
+    "description": "Horizontal stretch wrpaper is an orbital wrapping machine for long shape package that include the ring wrapping station, conveyor, film carriage for spiral overlap with stretch film, fabric, paper...",
+    "image": null
+  },
+  {
+    "id": "129",
+    "name": "Rotary ring stretch wrapping machine",
+    "parentId": "123",
+    "slug": "/Rotary-ring-stretch-wrapper",
+    "description": "The dependable chinese manufacturer in pallet wrapping machine,bag pallet wrapping machinery,bottle pallet stretch wrapping...The well received pallet wrapping machines by market is in FHOPE",
+    "image": null
+  },
+  {
+    "id": "131",
+    "name": "Upender",
+    "parentId": "1",
+    "slug": "",
+    "description": "Upender & Tilter machine from FhopePack has many versions. The main manufacturer and supplier of upender handling equipment in China. Find out quality and flexibility service. More tilter and upender information on our website.",
+    "image": null
+  },
+  {
+    "id": "132",
+    "name": "Mechanical upender",
+    "parentId": "131",
+    "slug": "/Mechanical",
+    "description": "Mechanical type coil upender factory, there are coil tilter, wire upender, mold upending machinery, roll upender,paper tilter...It is for turning the heavy load and changing the position in safety.",
+    "image": null
+  },
+  {
+    "id": "134",
+    "name": "Hydraulic upender",
+    "parentId": "131",
+    "slug": "/Hydraulic",
+    "description": "The hydraulic upender and hydraulic tilter provided by top manufacturer in china that offers different upendeing & tipper solution for different load and products with good customized price. ",
+    "image": null
+  },
+  {
+    "id": "135",
+    "name": "Automatic Packing Line",
+    "parentId": "1",
+    "slug": "/Automatic-Packing-Line",
+    "description": "Automatic packaging line from FhopePack. The main manufacturer and supplier of packaging machines in China. Find out quality and flexibility service. More information on our website.",
+    "image": null
+  },
+  {
+    "id": "136",
+    "name": "Automatic Coil Packing Line",
+    "parentId": "1",
+    "slug": "/Automatic-Coil-Packing-Line",
+    "description": "Top manufacturer of automatic coil packing line provides the solution used for metal coils online packing, such as steel wire coil compressing and steel coil strapping, coil wrapping, alloy steel handlingand packing. ",
+    "image": null
+  },
+  {
+    "id": "254",
+    "name": "Envolvedora de manguera",
+    "parentId": "181",
+    "slug": "/spanish/products/Envolvedora-de-manguera",
+    "description": "La máquina de embalaje de la bobina de la manguera, máquina de embalaje de la manguera, máquina de embalaje de la manguera es woks para el embalaje de alta velocidad. Hay la mejor máquina de embalaje para bajar el coste de trabajo para la pipa de PVC, tubo de ppr, tubo upvc.",
+    "image": null
+  },
+  {
+    "id": "252",
+    "name": "Envolvedora de neumaticos",
+    "parentId": "181",
+    "slug": "/es/products/Envolvedora-de-neumaticos",
+    "description": "Proveedor chino que neumático entero envasado solución inculding, neumático de embalaje, máquina de embalaje neumático, Envolvedoras de neumático con la película, papel, PE... para neumático eficiente packaing",
+    "image": null
+  },
+  {
+    "id": "253",
+    "name": "Envolvedora de cojinete",
+    "parentId": "181",
+    "slug": "/spanish/products/Envolvedora-de-cojinete",
+    "description": "Teniendo embalaje pertenece a embalaje de la bobina, y FHOPEPACK ofrece la mejor maquinaria y el mejor servicio a todos los clientes. Lo que usted puede tener éxito en la industria con nuestra ayuda de cojinete.",
+    "image": null
+  },
+  {
+    "id": "138",
+    "name": "Automatic Steel Tube Packing Line",
+    "parentId": "1",
+    "slug": "/Automatic-Steel-Tube-Packing-Line",
+    "description": "Automatic pipe tube packing line can be used to pack stel tube in steel tube bundling machine, steel tube bundle strapping machine to help tube mill automation the packing process.",
+    "image": null
+  },
+  {
+    "id": "139",
+    "name": "Coil Packing Machine",
+    "parentId": "1",
+    "slug": "",
+    "description": "Coil packing machine also maned coil wrapping machine that is an ring type packing equipment by packing material eye through wrapping. It is specializes packing solution for coil shape package such as steel coil, wire coil, hose coil, bearing,trye...",
+    "image": null
+  },
+  {
+    "id": "247",
+    "name": "Master Steel Coil Stretch Wrapper",
+    "parentId": "135",
+    "slug": "/Master-coil-wrapper",
+    "description": "Fhope Provides master coil stretch wrapper for steel coil, aluminum coil, wire rod packing, the coil size can be OD:3000mm for Max.Loading 30T,which is special designed for mother coil packing by vci film and paper..",
+    "image": null
+  },
+  {
+    "id": "258",
+    "name": "Panel Packing Solution",
+    "parentId": "2",
+    "slug": "/panel-packaging",
+    "description": "The panel packing solutions includes the orbital wrapping solution,shrinking solution, automatic stacking and packing line per different packaging requirement and specifiaction in package.",
+    "image": null
+  },
+  {
+    "id": "141",
+    "name": "Steel coil wrapping machine",
+    "parentId": "139",
+    "slug": "/Steel-coil-wrapping-machine",
+    "description": "Steel coil packaing machine and wrapping machine are mainly used to steel coil, steel strip packaging, which is with highly efficiency and nice packaging for saving labor and material cost. The packaging is with eye crossing wrapping, which allow steel coil a nice, firm for dustproof, waterproof.The package concept is an integral part of the coil packing machine design. ",
+    "image": null
+  },
+  {
+    "id": "142",
+    "name": "Wire coil wrapping machine",
+    "parentId": "139",
+    "slug": "/Wire-coil-wrapping-machine",
+    "description": "The manufacturer of the Wire coil packing machine designed for steel wire coils wrap machine,PC wire packing machine,GI wire stretch wrapper...for differently wire packing requirement for steel wire industry...",
+    "image": null
+  },
+  {
+    "id": "143",
+    "name": "Copper coil packing machine",
+    "parentId": "139",
+    "slug": "/Copper-coil-packing-machine",
+    "description": "Copper coil packing machine providing tilter, conveyor,wrapping for coopper industry which providing idea packing for coils...to improve speed.",
+    "image": null
+  },
+  {
+    "id": "144",
+    "name": "Pipe packing machine",
+    "parentId": "139",
+    "slug": "/Pipe-packing-machine",
+    "description": "Leading professional manufacturer in plastic pipe coil packaging machine.The HDPE Pipe packing machine was designed for pipe coil,hose coil.Packing speed up to 25sec/pes,packing material PE/lldpe/paper...",
+    "image": null
+  },
+  {
+    "id": "145",
+    "name": "Cable packing machine",
+    "parentId": "139",
+    "slug": "/Cable-packing-machine",
+    "description": "Cable wire coil packing machine,cable wrapping machine,cable coiling and wrapping machine from Fhope. One of supplier can do cable winding machine to coiling to wrapping modified per specification...",
+    "image": null
+  },
+  {
+    "id": "153",
+    "name": "Tyre packing machines",
+    "parentId": "139",
+    "slug": "/Tyre-packing-machine",
+    "description": "Tyre packing solution manufacturer providing whole tyre packing machine inculding,Tyre wrapping machine by film,Tyre packing machine by paper,tyre stretch wrapping by PP... for efficient tyre packaing",
+    "image": null
+  },
+  {
+    "id": "152",
+    "name": "Hose packaging machine",
+    "parentId": "139",
+    "slug": "/Hose-packaging-machine",
+    "description": "Hose coil wrapping machine,hose packaging machine,hose packing machine is woks for highly speed packing.There are the best wrapping machine to lower the labor cost for pvc hose,ppr pipe,upvc pipe.",
+    "image": null
+  },
+  {
+    "id": "172",
+    "name": "Automatic Coiler",
+    "parentId": "1",
+    "slug": "/Automatic-Coiling-Machine",
+    "description": "Automaitc coiler for pipe and hose manufacturer provides solution of pipe coiling machine,hose coiler machine and coil winding machinery and strapping machinery which help people automation the production",
+    "image": null
+  },
+  {
+    "id": "173",
+    "name": "Horizontal Automatic Coiler",
+    "parentId": "172",
+    "slug": "/Horizontal-Coiling-Machine",
+    "description": "Automatiac pipe winding & strapping machine for coiling, Winding and stretch wrap the pipe coil and hose coil automatically. There are different packaging goal can be achieved by adding different components.",
+    "image": null
+  },
+  {
+    "id": "174",
+    "name": "Vertical Automatic Coiler",
+    "parentId": "172",
+    "slug": "/Vertical-Coiling-Machine",
+    "description": "Automatiac hose coiling machine and hose strapping machine machine designed by Fhope professional engineering team.It's suitable for all kinds of plastic hose coil.",
+    "image": null
+  },
+  {
+    "id": "186",
+    "name": "线缆收卷包装机",
+    "parentId": "110",
+    "slug": "/products/cable-wrapper",
+    "description": "电缆线卷包装机、电缆包装机、电缆卷取机和包装机。可以做电缆绕线机，将其卷成规格的包装。",
+    "image": null
+  },
+  {
+    "id": "187",
+    "name": "托盘缠绕包装机",
+    "parentId": "7",
+    "slug": "/products/pallet-wrapper",
+    "description": "风鼎机械拉伸包装机、托盘包装机深受市场欢迎，为托盘包装设计，最新的拉伸包装机，包括旋转环伸缩包装等新机型，更多包装机械尽在风鼎机械。",
+    "image": null
+  },
+  {
+    "id": "198",
+    "name": "液压翻转机",
+    "parentId": "112",
+    "slug": "/products/hydraulic-tilter",
+    "description": "工厂厂家直供液压翻转机，钢带液压翻料机，可用于线材、卷材等等物品，机器可根据客户具体要求定制。",
+    "image": null
+  },
+  {
+    "id": "190",
+    "name": "软管缠绕包装机",
+    "parentId": "110",
+    "slug": "/products/hose-wrapper",
+    "description": "软管包装机，软管包装机，软管缠绕包装机适用于高速包装。有最好的包装机，以降低PVC管，PPR管，UPVC管的人工成本。",
+    "image": null
+  },
+  {
+    "id": "191",
+    "name": "钢卷缠绕包装机",
+    "parentId": "110",
+    "slug": "/products/steel-wrapper",
+    "description": "FPS系列主要用于钢卷，钢带包装，效率高，包装精美，节省人工和材料成本。包装采用内穿式交叉包装，可使钢卷具有良好的防尘，防水性能。包装概念是卷材包装机设计的一个组成部分。",
+    "image": null
+  },
+  {
+    "id": "192",
+    "name": "钢丝缠绕包装机",
+    "parentId": "110",
+    "slug": "/products/wire-wrapper",
+    "description": "钢丝缠绕包装机，PC钢丝包装机，GI钢丝缠绕包装机，适用于钢丝线绳行业的各个品种包装...",
+    "image": null
+  },
+  {
+    "id": "193",
+    "name": "铜盘卷缠绕包装机",
+    "parentId": "110",
+    "slug": "/products/copper-wrapper",
+    "description": "风鼎机械铜盘卷包装机是专为包装铜材料而设计的机器类型，它适用于包装铜线、铜线圈、铜卷、铜带、铜盘等铜卷材线材。",
+    "image": null
+  },
+  {
+    "id": "194",
+    "name": "半自动托盘包装机",
+    "parentId": "187",
+    "slug": "/products/s-pallet-wrapper",
+    "description": "半自动托盘拉伸包装机制造商提供性价比高的托盘包装机，如方便叉车工作的M型包装机，机器人自走式包装机等等，详情可联系我们。",
+    "image": null
+  },
+  {
+    "id": "195",
+    "name": "全自动托盘包装机",
+    "parentId": "187",
+    "slug": "/products/a-pallet-wrapper",
+    "description": "风鼎机械是托盘拉伸包装机可靠的专业制造商……我们生产的托盘包装机质量过硬，效果出众，且极具性价比。",
+    "image": null
+  },
+  {
+    "id": "196",
+    "name": "悬臂式包装机",
+    "parentId": "187",
+    "slug": "/products/R-pallet-wrapper",
+    "description": "旋转臂包装机械是用于托盘在线包装，如托盘上的块，托盘上的箱子…顶盖包装解决方案。",
+    "image": null
+  },
+  {
+    "id": "197",
+    "name": "转环式缠绕包装机",
+    "parentId": "187",
+    "slug": "/products/ring-wrapper",
+    "description": "风鼎机械是在托盘包装机领域可靠的中国制造商……生产的机器远销国内外，深受好评的风鼎机械托盘包装机正在世界各地高品质的工作运行着。",
+    "image": null
+  },
+  {
+    "id": "169",
+    "name": "Bearing packing machine",
+    "parentId": "139",
+    "slug": "/Bearing-packing-machine",
+    "description": "Bearing packing machine and bearing wrapping machine is for packing the big bearing with film, paper, nylon...packing material to have the moisture protection and anti-rusting. Fhope provide big packing machine for wind power bearing... ",
+    "image": null
+  },
+  {
+    "id": "201",
+    "name": "Envolvedora de bobinas de tubo",
+    "parentId": "181",
+    "slug": "/spanish/products/envolvedora-de-bobinas-de-tubo",
+    "description": "Embaladora de Tubo Corrugado:A Embaladora para Tubo Corrugado fabricado pela Fhopepack.envolvedora de bobinas de tubo,tubo bobina de embaladora,máquina embaladora de bobina para tubos",
+    "image": null
+  },
+  {
+    "id": "175",
+    "name": "自动包装线",
+    "parentId": "7",
+    "slug": "/products/packing-line",
+    "description": "我们提供冶金行业自动包装线及自动化系统。分条钢带自动化包装系统，铝卷自动穿心防锈包装打包系统，铜卷承重打印贴标包装及堆垛系统，钢丝压缩捆扎包装系统。。。我们据客户的实际需求进行设计，生产以实现非常快的包装速度并降低人工成本。 它非常高效和方便。",
+    "image": null
+  },
+  {
+    "id": "176",
+    "name": "机械翻转机",
+    "parentId": "112",
+    "slug": "/products/mechanical-tiler",
+    "description": "机械式上端装置有螺旋翻转机、钢丝翻转机、翻边机、翻滚机、纸翻转机等，主要用于翻转重载和更换安全位置。",
+    "image": null
+  },
+  {
+    "id": "177",
+    "name": "半自动水平机",
+    "parentId": "111",
+    "slug": "/products/s-orital",
+    "description": "半自动水平缠绕包装机可用于长条型物体包装，包装范围广。该机型主要针对重长型物体设计，例如：铝合金型材，塑料管等。",
+    "image": null
+  },
+  {
+    "id": "178",
+    "name": "全自动钢卷包装线",
+    "parentId": "175",
+    "slug": "/products/coil-packaging-line",
+    "description": "自动卧式包装线可使用于铝卷，铜带钢带的自动化输送，捆扎，包装，堆垛。该流水包装系统可以根据客户的实际需求定制化设计与生产。目前我们已经为国内外各大品牌提供该系统，广泛运用于冶金行业。",
+    "image": null
+  },
+  {
+    "id": "391",
+    "name": "pallet inverter cost",
+    "parentId": "279",
+    "slug": "/pallet-exchanger",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "179",
+    "name": "自动管材收卷机",
+    "parentId": "7",
+    "slug": "/products/coiler",
+    "description": "自动管材收卷捆扎机，软管收卷机和捆扎包装机的定制解决方案供应商。风鼎机械为你打造自动化，无人化管材包装方案。改方案可以适应各种管材及尺寸要求。",
+    "image": null
+  },
+  {
+    "id": "180",
+    "name": "Envolvedora orbital",
+    "parentId": "13",
+    "slug": "/spanish/products/Envolvedora-orbital",
+    "description": "El fabricante chino de envoltura orbital estirada horizontal te ayuda a encontrar la solución de envoltura orbital para objetos rectos, como envoltura orbital de madera, envoltura de tubos de acero, envoltura estirable de aluminio, envoltura orbital espiral en panel, perfil, máquina de embalaje a buen precio y solución personalizada .",
+    "image": null
+  },
+  {
+    "id": "181",
+    "name": "Envolvedora para bobinas",
+    "parentId": "13",
+    "slug": "/spanish/products/Envolvedora-para-bobinas",
+    "description": "Las máquinas de envasado de bobines, los fabricantes de máquinas de envasado de bobines, los diseñadores, los proveedores globales de soluciones, como las máquinas de envasado de rollos de acero, los envoltorios de aluminio, las máquinas de envasado, la Fhope pueden ser personalizadas para usted.",
+    "image": null
+  },
+  {
+    "id": "182",
+    "name": "Envolvedoras de palets",
+    "parentId": "13",
+    "slug": "/spanish/products/palets",
+    "description": "Envolvedoras de palets, Como un profesional proveedor chino de tramo envoltura maquina, Maquina para envolver, el proveedor chino",
+    "image": null
+  },
+  {
+    "id": "183",
+    "name": "全自动水平缠绕包装机",
+    "parentId": "111",
+    "slug": "/products/auto-orbital",
+    "description": "全自动水平包装机专门为了为了适合不同种类物体包装，包括木材，各种型材，管材等而设计。",
+    "image": null
+  },
+  {
+    "id": "184",
+    "name": "非标水平缠绕包装机",
+    "parentId": "111",
+    "slug": "/products/c-orbital",
+    "description": "水平缠绕包装机客户定制型，可以设计以实现不同的包装效果，包括加木块，覆膜缠绕，捆扎等。可根据客户要求具体定制一台/条专属于您的，最适合您的独一无二的包装机/包装线。",
+    "image": null
+  },
+  {
+    "id": "185",
+    "name": "塑料管缠绕包装机",
+    "parentId": "110",
+    "slug": "/products/pipe-wrapper",
+    "description": "风鼎机械提供各种材质的管材缠绕包装机器，包装材质种类繁多，可根据管卷的尺寸定制你所需要的款式和型号。",
+    "image": null
+  },
+  {
+    "id": "199",
+    "name": "轮胎缠绕包装机",
+    "parentId": "110",
+    "slug": "/products/tyre-wrapper",
+    "description": "为各种类型的轮胎及钢圈等产品提供包装解决方案，包装效果完美，提高产品竞争力，风鼎机械一直致力于包装机械的设计和研发，提供客户满意的机器！",
+    "image": null
+  },
+  {
+    "id": "200",
+    "name": "轴承缠绕包装机",
+    "parentId": "110",
+    "slug": "/products/bearing-wrapper",
+    "description": "轴承包装属于卷材包装，风鼎机械为所有客户提供最好的机器和最好的服务。我们相信在我们的帮助下，你能成功地在轴承行业中取得更好更高的效益。",
+    "image": null
+  },
+  {
+    "id": "202",
+    "name": "Envolvedora de cable",
+    "parentId": "181",
+    "slug": "/spanish/products/Maquina-embalaje-cable",
+    "description": "Envolvedora de cable, máquina de envoltura de cable, cable enrrollado y Envolvedora de refugio. Uno de los proveedores puede hacer cable enrrollado para embalaje modificado por la especificación de la máquina de bobina",
+    "image": null
+  },
+  {
+    "id": "255",
+    "name": "Envolvedora de bobina de acero",
+    "parentId": "181",
+    "slug": "/spanish/products/Envolvedora-de-bobina-de-acero",
+    "description": "Las series FPS se utilizan principalmente para bobinas de acero, empaques de flejes de acero, que es con una alta eficiencia y un buen empaque para ahorrar mano de obra y costos de materiales. El embalaje es con envoltura de cruce de ojos, que permite que la bobina de acero sea agradable, firme a prueba de polvo, resistente al agua. El concepto de paquete es una parte integral del diseño de la máq",
+    "image": null
+  },
+  {
+    "id": "256",
+    "name": "Envolvedora de alambre de acero",
+    "parentId": "181",
+    "slug": "/spanish/products/Envolvedora-de-alambre-de-acero",
+    "description": "El fabricante de la máquina de empaquetado de bobinas de alambre está diseñada para la máquina de envoltura de bobinas de alambre de acero, la máquina de embalaje de cables de PC, la envoltura de estiramiento de alambre GI ... para requisitos de empaquetado de alambre diferente para la industria del alambre de acero ...",
+    "image": null
+  },
+  {
+    "id": "257",
+    "name": "Envolvedora de Bobina de cobre",
+    "parentId": "181",
+    "slug": "/spanish/products/Envolvedora-de-Bobina-de-cobre",
+    "description": "Empaquetadora de la bobina de cobre que proporciona el tilter, transportador, envolviendo para la industria de cobre que proporciona el embalaje de la idea para las bobinas ... para mejorar velocidad.",
+    "image": null
+  },
+  {
+    "id": "209",
+    "name": "水平式收卷机",
+    "parentId": "179",
+    "slug": "/products/horizontal-coiler",
+    "description": "水平塑料管材收卷捆扎机，用于软管，电缆和管道线圈。 自动记米收卷并自动包装。 通过设置不同的尺寸要求可以实现不同的包装目标。",
+    "image": null
+  },
+  {
+    "id": "210",
+    "name": "立式收卷机",
+    "parentId": "179",
+    "slug": "/products/vertical-coiler",
+    "description": "塑料管自动收卷扎带包装线是由Fhope专业工程团队设计的机器，适用于各种塑料软管卷材，它可以帮工厂实现全自动无人化包装。",
+    "image": null
+  },
+  {
+    "id": "211",
+    "name": "Envasadoras horizontales semiauto",
+    "parentId": "180",
+    "slug": "/es/products/Envasadoras-horizontales-semiauto",
+    "description": "Máquina de envoltura orbital horizontal semiauto puede ser ampliamente utilizada para todo tipo de paquete de la forma larga. Principalmente se crea para cualquier pesado y largo forma objetos. Como aluminio sección, tubo de plástico, aluminio, perfil y así sucesivamente.",
+    "image": null
+  },
+  {
+    "id": "212",
+    "name": "Envoltura del estiramiento horizontal automatica",
+    "parentId": "180",
+    "slug": "/spanish/products/Envoltura-del-estiramiento-horizontal_automatica",
+    "description": "La envolvedora orbital horizontal automática puede ser diseñada con diferentes función requisito de empaquetado, como alimentador de madera, atar con correa la máquina Conecte a envoltura, película convering. Tamaño OD por tamaño de la carga del anillo...",
+    "image": null
+  },
+  {
+    "id": "213",
+    "name": "自动管材包装线",
+    "parentId": "175",
+    "slug": "/products/hose-packing-line",
+    "description": "自动管材计数成型套袋包装线，可实现在线、离线PVC管,PPR管自动计数，六边成型，捆扎，套袋包装高效且性能稳定良好。可实现无人化操作。一个工人可操作10台该设备。",
+    "image": null
+  },
+  {
+    "id": "214",
+    "name": "Personalizar envoltura orbital",
+    "parentId": "180",
+    "slug": "/spanish/products/Personalizar-envoltura-orbital",
+    "description": "El modificado para requisitos particulares horizontal envolvedora con película de la burbuja, alimentador de madera, Flejadora, contenedor amarillo chaqueta, dispositivo de cubierta de la película... gol de diferentes envases.",
+    "image": null
+  },
+  {
+    "id": "216",
+    "name": "Lnea automtica de embalaje",
+    "parentId": "13",
+    "slug": "/spanish/products/lnea-automtica-de-embalaje",
+    "description": "La línea de empaque automático es una línea compuesta por diferentes máquinas para lograr una velocidad de empaquetado muy rápida y reducir los costos de mano de obra. Es muy eficiente y conveniente. Pero la línea debe diseñarse de acuerdo con las necesidades reales del cliente.",
+    "image": null
+  },
+  {
+    "id": "217",
+    "name": "linea automatica de embalaje de la bobina",
+    "parentId": "216",
+    "slug": "/spanish/products/linea-autom-tica-de-embalaje-de-la-bobina",
+    "description": "La linea de empaquetado de bobina automatica se utiliza principalmente para bobina de cable, bobina de alambre y bobina de manguera. Es una linea de empaque rapida y confiable.",
+    "image": null
+  },
+  {
+    "id": "218",
+    "name": "linea de empaquetado automatica del tubo de tubo",
+    "parentId": "216",
+    "slug": "/spanish/products/linea-de-empaquetado-autom-tica-del-tubo-de-tubo",
+    "description": "La linea de empaquetado automatica de tubos se puede usar para empacar mangueras plasticas, tubos, tubos y bobinas de mangueras corrugadas. Es muy eficiente y tiene buen rendimiento.",
+    "image": null
+  },
+  {
+    "id": "219",
+    "name": "maquina automatica de enrollamiento de manguera / tubo y flejadora",
+    "parentId": "216",
+    "slug": "/spanish/products/linea-de-empaquetado-autom-tica-del-tubo-de-tubo",
+    "description": "Linea automatica de tuberia, bobinado de manguera y flejado capaz de enrollar y flejar tuberia y bobina de manguera, todas las operaciones termi en una sola plataforma.",
+    "image": null
+  },
+  {
+    "id": "221",
+    "name": "Upender & Volteadores",
+    "parentId": "13",
+    "slug": "/spanish/products/upender-tilter",
+    "description": "Fhopepack Upender ofrece equipos de manipulación de bobinas para ayudarle a hacer una facil operacion, tales como: Molde Upender, bobina de mando, que es una especie de vuelta a la maquina y volquete a hacer movimiento de cargas pesadas.",
+    "image": null
+  },
+  {
+    "id": "228",
+    "name": "Volcador mecnico",
+    "parentId": "221",
+    "slug": "/spanish/products/basculador-mecnico",
+    "description": "Tipo de dispositivo mecanico para el final, hay bobina de mando, cable Upender, molde volcar camiones de maquinaria, roll Upender, papel mando... Es para girar la carga pesada y el cambio de posición en la seguridad.",
+    "image": null
+  },
+  {
+    "id": "229",
+    "name": "Inclinador Hidraulico",
+    "parentId": "221",
+    "slug": "/spanish/products/Hydraulic-upender",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "230",
+    "name": "Bobinadora Automática",
+    "parentId": "13",
+    "slug": "/spanish/products/Maquina-de-bobinado-automatico",
+    "description": "Bobinadora Automática de tubos La solucion personalizada para la maquina de bobinado automatico de tubos, bobinadora de mangueras y maquinaria de bobinado de bobinas.",
+    "image": null
+  },
+  {
+    "id": "231",
+    "name": "maquina de bobinado horizontal",
+    "parentId": "230",
+    "slug": "/spanish/products/maquina-de-bobinado-horizontal",
+    "description": "Maquina de bobinado horizontal para manguera, cable y bobina de tubo. Enrolle y empaque las bobinas automaticamente. Hay diferentes objetivos de empaquetado se puede lograr mediante la adicion de diferentes componentes.",
+    "image": null
+  },
+  {
+    "id": "232",
+    "name": "maquina de bobinado vertical",
+    "parentId": "230",
+    "slug": "/spanish/products/maquina-de-bobinado-vertical",
+    "description": "La maquina de bobinado vertical es una maquina disenada por el equipo de ingenieria profesional de Fhope. Es adecuada para todo tipo de bobinas de mangueras plasticas.",
+    "image": null
+  },
+  {
+    "id": "237",
+    "name": "Anillo giratorio tramo envoltura maquina",
+    "parentId": "182",
+    "slug": "/spanish/products/Anillo-giratorio-tramo-envoltura-maquina",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "234",
+    "name": "SemiAuto Pallet tramo envoltura maquina",
+    "parentId": "182",
+    "slug": "/spanish/products/SemiAuto-Pallet-tramo-envoltura-maquina",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "235",
+    "name": "Maquina envolvedora de palets automtico",
+    "parentId": "182",
+    "slug": "/spanish/products/Maquina envolvedora de palets automtico",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "236",
+    "name": "Mquina de envolver estirada del brazo rotatorio",
+    "parentId": "182",
+    "slug": "/spanish/products/Mquina de envolver estirada del brazo rotatorio",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "245",
+    "name": "Show Room",
+    "parentId": "1",
+    "slug": "/Show-Room",
+    "description": "The different stretch wrapping machien and packing machine information and videos including the customized solution for wooden, panel...",
+    "image": null
+  },
+  {
+    "id": "246",
+    "name": "Plastic Pipe Packing Line",
+    "parentId": "135",
+    "slug": "/Plastic-Pipe-Packing-Line",
+    "description": "The automatic pipe packing line for bundle making, bag filling and bundle strapping. The bundling solution is able connect to extruder line for automatiac counting and stocking...",
+    "image": null
+  },
+  {
+    "id": "248",
+    "name": "Upenders",
+    "parentId": "245",
+    "slug": "/Show-Room/Upender",
+    "description": "Fhope provides the load handling solution for heavy upender that is easy and efficient way to handling, tiltering, upend metal coils, molds, dies and heavy loads.",
+    "image": null
+  },
+  {
+    "id": "249",
+    "name": "Orbital Stretch Wrapper Cases",
+    "parentId": "245",
+    "slug": "/Show-Room/orbital-stretch-wrapper",
+    "description": " Orbital wrapping machine manufacturer in China providing the different showcase version with conveyor, press down device with automation program in good price...",
+    "image": null
+  },
+  {
+    "id": "382",
+    "name": "Pallet Exchanger",
+    "parentId": "245",
+    "slug": "/Show-Room/Pallet-Exchanger",
+    "description": "A pallet exchanger is a versatile industrial solution designed to replace or transfer pallets efficiently, improving workflow and minimizing manual labor. Ideal for warehouses and manufacturing facilities, it ensures safe handling of goods during pallet changes. A reliable pallet exchanger manufacturer provides durable, customizable machines to meet diverse operational needs.",
+    "image": null
+  },
+  {
+    "id": "250",
+    "name": "Pallet Inverter",
+    "parentId": "1",
+    "slug": "/pallet-inverter",
+    "description": "Pallet inverter,pallet changing machine manufacturer in China provide the most cost-performace good quolity pallet exchanging inverter for handling the load easily and safety",
+    "image": null
+  },
+  {
+    "id": "259",
+    "name": "Automatic Cable Coiler",
+    "parentId": "172",
+    "slug": "/cable-winder",
+    "description": "The automatic cable coiling machine cable strapping machine packing line includes automatic re-winding machine and cable coil strapping , cable shrinking machine, cable wrapping machine,cable reel winding machine...which is changable per cable packing requirement.",
+    "image": null
+  },
+  {
+    "id": "260",
+    "name": "大型收缩机",
+    "parentId": "7",
+    "slug": "/products/ssj",
+    "description": "提供各板材的收缩包装机，包括自动化和超大型物体的套袋，收缩和堆垛解决方案，可定制化生产包装。",
+    "image": null
+  },
+  {
+    "id": "262",
+    "name": "板材收缩包装机",
+    "parentId": "260",
+    "slug": "/products/ssj/panel",
+    "description": "提供各种自动板材收缩包装机，泡沫板材收缩机为您自动化包装各种发泡板，木板，EPS 板，XPS板，保温板等各种板材。可包大尺寸，大件包装物。",
+    "image": null
+  },
+  {
+    "id": "263",
+    "name": "铝型材包装线",
+    "parentId": "175",
+    "slug": "/products/aluminum-line",
+    "description": "成熟的自动铝型材包装线，铝型材堆垛线制造商：风鼎机械为您提供各种形状的铝型材自动贴膜，自动堆垛，自动捆扎机和包装线，可以为您提供铝型材的自动化智能化仓储及管理。",
+    "image": null
+  },
+  {
+    "id": "264",
+    "name": "门板包装收缩机",
+    "parentId": "260",
+    "slug": "/products/ssj/door",
+    "description": "风鼎机械提供自动门板收缩机，门板包装机为您实现自动门板收缩包装。这种方式外观美观，整体干净整齐，可自动门板套膜包装，门板封切包装，门板热封包装。",
+    "image": null
+  },
+  {
+    "id": "271",
+    "name": "Enrolladoras automáticas para cables",
+    "parentId": "216",
+    "slug": "/spanish/products/enrolladoras",
+    "description": "Enrolladoras automáticas para cables,bobinadoras automáticas para cable se utiliza principalmente para enrollar / enrollar y empacar cables. Es capaz de contar las longitudes de cable, fabricación automática de bobinas, ",
+    "image": null
+  },
+  {
+    "id": "267",
+    "name": "包装案例",
+    "parentId": "7",
+    "slug": "/baozhuangxian",
+    "description": "这里展示自动化缠绕包装案例，定制化在线包装方案：自动收卷，自动捆扎缠绕，自动钢卷包装线等...",
+    "image": null
+  },
+  {
+    "id": "266",
+    "name": "Aluminum profile packing line",
+    "parentId": "135",
+    "slug": "/Aluminum",
+    "description": "Aluminum profile packing line was designed for aluminum profile wrapping, automatic packaging,aluminum section bundle making and strapping process.It includes profile wrapping machine,bundling equipment,strapping for handling,stacking and storage.Fhopepack's team with 10 years experience provides free consultion.",
+    "image": null
+  },
+  {
+    "id": "268",
+    "name": "Wooden & board packing solution",
+    "parentId": "245",
+    "slug": "/Show-Room/wooden",
+    "description": "We manufacture wooden packing machines, offering efficient, secure, and automated solutions for packaging, protecting, and handling wooden products across various industries.",
+    "image": null
+  },
+  {
+    "id": "269",
+    "name": "Casos",
+    "parentId": "13",
+    "slug": "/Casos",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "270",
+    "name": "Enrolladoras automáticas para cables",
+    "parentId": "230",
+    "slug": "/spanish/products/enrolladoras",
+    "description": "Enrolladoras automáticas para cables,bobinadoras automáticas para cable se utiliza principalmente para enrollar / enrollar y empacar cables. Es capaz de contar las longitudes de cable, fabricación automática de bobinas, ",
+    "image": null
+  },
+  {
+    "id": "272",
+    "name": "Shrink Wrap Machine",
+    "parentId": "1",
+    "slug": "/shrinking-machine/",
+    "description": "Shrinking machine from FhopePack. The main manufacturer and supplier of packaging machines in China. Find out quality and flexibility service. More information on our website.",
+    "image": null
+  },
+  {
+    "id": "273",
+    "name": "L-Bar Shrink Wrap Machine",
+    "parentId": "272",
+    "slug": "/L-Bar",
+    "description": "automatic L-BAR shrink wrap machine includes the L bar sealer & film shrink machine for food indusry, daliy chemicl..comprehensive shrinking line with special option from the trusted source manufacturer",
+    "image": null
+  },
+  {
+    "id": "274",
+    "name": "Side Seal Shrink Wrap Machine",
+    "parentId": "272",
+    "slug": "/Motion-sealer",
+    "description": "Information of the automatic side seal shrink wrap machine,motion shrinking wrapping machine manufacturer in CHINA provides the solutoin for glass bottles / for trays / for cardboard boxes, for door, for panel, for board with high speed upto 80pcs",
+    "image": null
+  },
+  {
+    "id": "275",
+    "name": "Door Packing Machine",
+    "parentId": "245",
+    "slug": "/door-packing-machine",
+    "description": "Chiness professional supplier for door packing machine,door packaging machine,spiral orbital wrapper,door pacaging macine,door shrinking wrapper for automation your door production in packing",
+    "image": null
+  },
+  {
+    "id": "349",
+    "name": "Línea de Empaque de Bobinas",
+    "parentId": "13",
+    "slug": "/spanish/products/Linea-de-Empaque-de-Bobinas",
+    "description": "FHOPE suministra LÍNEAS DE EMPAQUE PARA CORTADORAS LONGITUDINALES para bobinas de acero, las bobinas de corte se conectan dentro de la línea de corte. La línea de empaque de bobinas puede ser la sección final del corte o un sistema de empaque independiente.",
+    "image": null
+  },
+  {
+    "id": "276",
+    "name": "Coil Packing Line Showcase",
+    "parentId": "245",
+    "slug": "/coil-packing-line",
+    "description": "Explore our coil packing line showcase with detailed technical information, packaging solutions, and machine demonstrations. Ideal for steel, copper, and aluminum coil industries seeking automated packing efficiency",
+    "image": null
+  },
+  {
+    "id": "278",
+    "name": "Automatic coiling and strapping machine",
+    "parentId": "2",
+    "slug": "/coiler",
+    "description": "Fhope providing automatic hose/Pipe coiling and strapping machine and automataic pipe coiler for winding the HDPE PIPE, Corrugated coil packaging from automatic winding machine to stacking machine..",
+    "image": null
+  },
+  {
+    "id": "290",
+    "name": "Tube & Pipe packing line",
+    "parentId": "245",
+    "slug": "/Show-Room/tube-line",
+    "description": "Chinese automatic steel pipe/tube bundle/strapping line is an automatic pipe handling equipment for pipe or tube packaging.It includs pipe bundling equipment,strapping,stacking...",
+    "image": null
+  },
+  {
+    "id": "279",
+    "name": "Pallet Inverter",
+    "parentId": "2",
+    "slug": "/pallet-exchanger",
+    "description": "Fhope Group Is The Leading Pallet Inverter Manufacturer In China.We Have Provided Services And Customized Machinery For Many Companies For More Than 10 Years.",
+    "image": null
+  },
+  {
+    "id": "280",
+    "name": "Shrink Bundling Machine",
+    "parentId": "272",
+    "slug": "/Bundle",
+    "description": "It is an automatic shrink bundling machine, shrinking wrapping machine or sleeve shrinking machine for bottles,beverage,for heat-shrink films,cans... the equipent equipped with a mechanical bundling system that can be connected with an in-line solution",
+    "image": null
+  },
+  {
+    "id": "281",
+    "name": "Automatic Shrink Wrapping Machine",
+    "parentId": "272",
+    "slug": "/solution",
+    "description": "Special requirement panel shrink wrap machine, door shrink wrapper, board shrining machine, furniture shrinking machienry...These are big load product Automatic shrink wrapping machine and customized solutions.",
+    "image": null
+  },
+  {
+    "id": "282",
+    "name": "Horizontal Flow Shrinking Machine",
+    "parentId": "272",
+    "slug": "/Flow",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "283",
+    "name": "News",
+    "parentId": "0",
+    "slug": "/News",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "284",
+    "name": "Industry Machines",
+    "parentId": "0",
+    "slug": "/industry-machine",
+    "description": "The shrinking machines and wrapping machinery from Fhope for stretch film wrapping, film shrink wrapping, and also including the handling equipment of the packing line to release the man power.",
+    "image": null
+  },
+  {
+    "id": "285",
+    "name": "Shrinking solution",
+    "parentId": "284",
+    "slug": "/industry-machine/shrinking",
+    "description": "The shrink wrap machine manufacturer in China provides the solution vary from the application and package.",
+    "image": null
+  },
+  {
+    "id": "286",
+    "name": "Automatic coiler solution",
+    "parentId": "284",
+    "slug": "/industry-machine/automtic-coiler-machine",
+    "description": "Fhope mixs the soltuion in Automatic winding and coiling equipments with strapping machine, wrapping machine for cable, hose, pipe, steel wire",
+    "image": null
+  },
+  {
+    "id": "287",
+    "name": "Pallet Handling",
+    "parentId": "284",
+    "slug": "/industry-machine/pallet-handling",
+    "description": "pallet rotator is a popular style of 180º pallet changing machine tha offering a faster, easier mathod to rotate and heavy loading for switching or transfering and replacing pallets for different industry.",
+    "image": null
+  },
+  {
+    "id": "288",
+    "name": "Volteador de palets",
+    "parentId": "221",
+    "slug": "/spanish/products/upender-tilter/Volteador-de-palets",
+    "description": "volteador de palets | Inversor de palets: la forma de reducir sus costos de almacenamiento, manipulación y distribución. Este sistema de intercambio palets permite cambiar o quitar los palets del fondo de la carga del palet.",
+    "image": null
+  },
+  {
+    "id": "289",
+    "name": "Tissue packing machine",
+    "parentId": "284",
+    "slug": "/industry-machine/Tissue",
+    "description": "The solution for tisseue packing machine and tissue roll bag packaging ",
+    "image": null
+  },
+  {
+    "id": "291",
+    "name": "Thermic Boxes Packing Machine",
+    "parentId": "284",
+    "slug": "/industry-machine/Box-packing",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "292",
+    "name": "Plate & Cup packing machine",
+    "parentId": "284",
+    "slug": "/industry-machine/plates-packing",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "300",
+    "name": "Stationary Pallet Inverter",
+    "parentId": "250",
+    "slug": "/pallet-inverter/stationary",
+    "description": "There are several types stationary pallet inverters and pallet changing system to help to quickly rotate, swap, and transfer the heavy objects with minimal effort in safety way.",
+    "image": null
+  },
+  {
+    "id": "294",
+    "name": "CS",
+    "parentId": "4",
+    "slug": "",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "295",
+    "name": "Other",
+    "parentId": "284",
+    "slug": "/other",
+    "description": "If you are looking for more solution for the wapping machine this page many help you to learn some solutions.",
+    "image": null
+  },
+  {
+    "id": "296",
+    "name": "Wire Packing Solutions",
+    "parentId": "2",
+    "slug": "/wire-packing",
+    "description": "It is al solution adjustable to accommodate materials by inverters. It is the most efficiency equipment for improving your wire coil packaging which meets the handling and stacking requirement for higher packaging efficiency with minimal space and saving labor cost in wire handling.",
+    "image": null
+  },
+  {
+    "id": "297",
+    "name": "Automatic Wire Packing Line",
+    "parentId": "135",
+    "slug": "/wire-line",
+    "description": "Fhope provides automatic wire packaging lines includes wire rad coil packing line, aluminum wire coil strapping line, gal wire coil packing line,coil compactor...There are strapping, wrapping, handling and storage system per different goal.",
+    "image": null
+  },
+  {
+    "id": "298",
+    "name": "U&T",
+    "parentId": "295",
+    "slug": "/U_T",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "299",
+    "name": "Mobile Pallet Changer",
+    "parentId": "250",
+    "slug": "/pallet-inverter/mobile",
+    "description": "Mobile Pallet Changers include the the mobile car and fork lifting and turning system to helps to moving,turning and change the pallets that is flexiable for different area pallet handling.",
+    "image": null
+  },
+  {
+    "id": "301",
+    "name": "Pallet Changer",
+    "parentId": "250",
+    "slug": "/pallet-inverter/changer",
+    "description": "The pallet changer can be used to accomplish the pallet changing requirements by Manually on floor level that is easy to handling by simple handlifter. The collection page gathering the changer solution for different pallet load with different handling way.",
+    "image": null
+  },
+  {
+    "id": "303",
+    "name": "Продукция",
+    "parentId": "0",
+    "slug": "/RU",
+    "description": "Упаковочная линия для упаковки стальных труб - Упаковочная машина для стали в рулонах",
+    "image": null
+  },
+  {
+    "id": "306",
+    "name": "Автоматическая упаковочная линия для упаковки рулонных матриалов",
+    "parentId": "305",
+    "slug": "/RU",
+    "description": "Автоматический сортирующий механизм для материала берет стальной рулон один за другим. Стальной рулон доставляется до места упаковки с перевёртом 90 градусов",
+    "image": null
+  },
+  {
+    "id": "305",
+    "name": "Автоматическая упаковочная линия",
+    "parentId": "303",
+    "slug": "/RU",
+    "description": "Пневматическая система резки и зажима , чтобы держать упаковочный материал в начале цикла и резать в конце цикла",
+    "image": null
+  },
+  {
+    "id": "307",
+    "name": "Упаковочная линия для упаковки стальных труб",
+    "parentId": "305",
+    "slug": "/RU",
+    "description": "Полностью автоматизирована и управляется сенсорным экраном с рабочей станции, система строит запрограммированную конфигурацию и полностью содержает стороны для поддержания формы до завершения упаковки. Эта механическая система состоит из подающего лифта, Слойного лифта, шестиугольной формовочной машины, конвейера и т.д.",
+    "image": null
+  },
+  {
+    "id": "308",
+    "name": "Упаковочная линия для упаковки алюминиевых профилей",
+    "parentId": "305",
+    "slug": "/RU",
+    "description": "Полностью автоматизирована и управляется сенсорным экраном с рабочей станции, система строит запрограммированную конфигурацию и полностью содержает стороны для поддержания формы до завершения упаковки. Эта механическая система состоит из подающего лифта, Слойного лифта, шестиугольной формовочной машины, конвейера и т.д.",
+    "image": null
+  },
+  {
+    "id": "309",
+    "name": "Упаковочная линия для упаковки PPR/PVC труб",
+    "parentId": "305",
+    "slug": "/RU",
+    "description": "Эта машина для пакетирования пучка труб является автоматической линией для упаковки труб , в том числе подсчет труб , выравнивание , пакетирование , машина обвязки , подающий конвейер и так далее . Он является набором эффективной , удобной и безопасной упаковочной машины для упаковки труб и пучка труб .",
+    "image": null
+  },
+  {
+    "id": "310",
+    "name": "Упаковочная машина для упаковки двери",
+    "parentId": "305",
+    "slug": "/RU",
+    "description": "Двойное кольцевое устройство и устройство фрикционного колеса делают работу более безопасной , стабильной и энергичной . ",
+    "image": null
+  },
+  {
+    "id": "311",
+    "name": "Упаковочная машина для рулонных матриалов",
+    "parentId": "305",
+    "slug": "/RU",
+    "description": "Эта упаковочная машина для рулонных материалов с двумя станциями ролика блокатора , специализируется для упаковки стали в рулонах для того , чтобы сделать упаковку является пылепротивоцаемой , хорошей защитной и декоративной . ",
+    "image": null
+  },
+  {
+    "id": "312",
+    "name": "Упаковочная машина для рулонных материалов",
+    "parentId": "303",
+    "slug": "/RU",
+    "description": "Полностью автоматизирована и управляется сенсорным экраном с рабочей станции, система строит запрограммированную конфигурацию и полностью содержает стороны для поддержания формы до завершения упаковки. Эта механическая система состоит из подающего лифта, Слойного лифта, шестиугольной формовочной машины, конвейера и т.д.",
+    "image": null
+  },
+  {
+    "id": "313",
+    "name": "Упаковочная машина для стали в рулонах",
+    "parentId": "312",
+    "slug": "/RU",
+    "description": "Обмоточная упаковка является хорошей защитой , запечатанной , красивой и выглядит опрятнее . Более того , данный продукт имеет водонепроницаемый , пыленепроницаемый , противокоррозийный , антифрикционный , противостарительный эффекты .",
+    "image": null
+  },
+  {
+    "id": "314",
+    "name": "Горизонтальные орбитальные обмотчики",
+    "parentId": "303",
+    "slug": "/RU",
+    "description": "Как только подготовка пучка завершена, подъемник будет поднимать пучок и перевозить в силовой роликовый конвейер и двигаться вниз чтобы положить пучок на конвейере и потом вернутся в оригинальное положение для подъема другого пучка. Горизонтальные орбитальные обмотчики ",
+    "image": null
+  },
+  {
+    "id": "315",
+    "name": "Оборудование для обмотки паллет",
+    "parentId": "303",
+    "slug": "/RU",
+    "description": "Оборудование для обмотки паллет Стандартная конфигурация , перечисленна ниже . Пожалуйста , свяжитесь с нашим представителем для других доступных конфигураций .",
+    "image": null
+  },
+  {
+    "id": "316",
+    "name": "кантователь",
+    "parentId": "303",
+    "slug": "/RU",
+    "description": "Электрический кантователь рулонов,Кантователи рулонов, цилиндрических грузов Они широко используются в металлургической промышленности и сталелитейной промышленности",
+    "image": null
+  },
+  {
+    "id": "317",
+    "name": "Упаковочная машина для проволок",
+    "parentId": "313",
+    "slug": "/RU/_______________________________",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "318",
+    "name": "Упаковочная машина для проволок",
+    "parentId": "312",
+    "slug": "/RU",
+    "description": "Два режима упаковочной ленточной структуры : Ленты хранятся на кольце ; вот это ленточная упаковка напрямую .",
+    "image": null
+  },
+  {
+    "id": "319",
+    "name": "Упаковочная машина для шлангов в рулонах",
+    "parentId": "312",
+    "slug": "/RU",
+    "description": "Данная упаковочная машина для шлангов в рулонах оснащена устройствами двойных -фрикционных колес , это гарантирует более безопасность , стабильность и энергичность когда Вы работаете .",
+    "image": null
+  },
+  {
+    "id": "320",
+    "name": "Упаковочная машина для медных материалов в рулонах",
+    "parentId": "312",
+    "slug": "/RU",
+    "description": "Уровень высоты поворотного кольца может быть рекулирован для того , чтобы подходить для различных размеров изделий . ",
+    "image": null
+  },
+  {
+    "id": "321",
+    "name": "Оберточная машина для трубы в рулонах",
+    "parentId": "312",
+    "slug": "/RU",
+    "description": "Обмоточная упаковка является хорошей защитой , запечатанной , красивой и выглядит опрятнее . Более того , он имеет водонепроницаемый , пыленепроницаемый , антикоррозийный , износостойкий и противостарительный эффекты . Можно высоки уменьшить рабочую силу , повысить эффективность работы .",
+    "image": null
+  },
+  {
+    "id": "322",
+    "name": "Упаковочная машина для шины",
+    "parentId": "312",
+    "slug": "/RU",
+    "description": "Высота поворотого кольца может быть регулирована ,чтобы подходить для различных размеров изделия",
+    "image": null
+  },
+  {
+    "id": "323",
+    "name": "Упаковочная машина для кабеля",
+    "parentId": "312",
+    "slug": "/RU",
+    "description": "Данный кабель быть упакован горизонтальным режимом . Это упращает процендуру упаковки ; уменьшит плотность труда , особенно подходит для больших и тяжелых катушек кабеля .",
+    "image": null
+  },
+  {
+    "id": "324",
+    "name": "Упаковочная машина для подшипника",
+    "parentId": "312",
+    "slug": "/RU",
+    "description": "Выполнить простую операцию путём ввода внешнего диаметра , внутреннего диаметра , ширины и исправленных параметров рулонного металла .",
+    "image": null
+  },
+  {
+    "id": "325",
+    "name": "Упаковочная машина для заказынных строительных рулонных материалов",
+    "parentId": "312",
+    "slug": "/RU",
+    "description": "Все наши упаковочные машины для рулонных материалов могут быть разработаны и изготовлены в соответстви с конкретными размерами продукта клиента или специальными требованиями .",
+    "image": null
+  },
+  {
+    "id": "326",
+    "name": "Упаковочная машина для трубы",
+    "parentId": "314",
+    "slug": "/RU",
+    "description": "Вот это одна из машин , который может сделать стальные трубы красивным и опрядным насколько возможно . Более того , он может сильно уменьшить труда . Можно выбрать вертикальную или горизонтальную структуру для различных объектов или в соответстви с особыми потребностями .",
+    "image": null
+  },
+  {
+    "id": "327",
+    "name": "Горизонтальная оберточная машина с использованием стрейч-пленки",
+    "parentId": "314",
+    "slug": "/RU",
+    "description": "Ролики , пояса и полки могут быть выбраны для конвейерных линий .Использовать датчик фотоэлемента для установки положения упаковки ;Использовать специальное устройство натяжения .",
+    "image": null
+  },
+  {
+    "id": "328",
+    "name": "Оберточная машина для алюмия",
+    "parentId": "314",
+    "slug": "/RU",
+    "description": "Оберточная машина для алюминевого профиля может широко использоваться во внешней упаковке профилей и других горизонтальных объектов , таких как стальные трубы , трубы из нержавеющей стали , пластиковые трубы , стержки , доски и так далее . Обмоточная упаковка является хорошей защитой , запечатаной и выглядит опрятнее , проста для траспортировки и хранения .",
+    "image": null
+  },
+  {
+    "id": "329",
+    "name": "Упаковочная машина для доски",
+    "parentId": "314",
+    "slug": "/RU",
+    "description": "Оберточная машина для алюминевого профиля может широко использоваться во внешней упаковке профилей и других горизонтальных объектов , таких как стальные трубы , трубы из нержавеющей стали , пластиковые трубы , стержки , доски и так далее . Обмоточная упаковка является хорошей защитой , запечатаной и выглядит опрятнее , проста для траспортировки и хранения .",
+    "image": null
+  },
+  {
+    "id": "330",
+    "name": "Упаковочная машина для двери",
+    "parentId": "314",
+    "slug": "/RU",
+    "description": "Устойства с двойным кольцом и двойным фрикционным колесом и делают работу более безопасной , стабильной и энергичной . Трение между приводными колесами и кольцами могут быть регулированы .",
+    "image": null
+  },
+  {
+    "id": "331",
+    "name": "Оберточная машина с поддоном и с использованием стреч-пленки",
+    "parentId": "315",
+    "slug": "/RU",
+    "description": "\"И это может уменьшить плотность труда ; повысить эффективность работы , так что он является идеальным упаковочным оборудованием для современного предприятия .",
+    "image": null
+  },
+  {
+    "id": "332",
+    "name": "Автоматическая оберточная машина с поддоном",
+    "parentId": "315",
+    "slug": "/RU",
+    "description": "Беспилотный рабочий режим . Все шаги , в том числе расширение нагрузки , подача пленки , упаковка , резка , сглаживание , перевозка упаковки , эти могут быть завершены автоматически .",
+    "image": null
+  },
+  {
+    "id": "333",
+    "name": "Оберточная машина с ротационной рукой",
+    "parentId": "315",
+    "slug": "/RU",
+    "description": "Машина используется для упаковки товаров в штабеля с ПЕ стрейч - упаковочной плёнкой , которая сделает товары стабильны и опрятнее ; Кроме того она имеет водонепроницаемый и пыленепроницаемый эффекты .",
+    "image": null
+  },
+  {
+    "id": "334",
+    "name": "Поворотная оберточная машина с кольцом и с использованием стрей-пленки",
+    "parentId": "315",
+    "slug": "/RU",
+    "description": "Поворотная оберточная машина с кольцом и с использованием стрейч-пленки является полностью автоматической оберточной машиной с поддоном и с использованием стрейч-пленки , вот это новейшая технология и надежный метод . Упаковочная пленка закреплена на кольце и он быстро превращается .",
+    "image": null
+  },
+  {
+    "id": "336",
+    "name": "Механическая кантователь для рулонных материалов",
+    "parentId": "316",
+    "slug": "/RU",
+    "description": "Она широко используется в отраслях металлургии , штамповки , металлической пластины , пресс-формы , бумажного производства , стальной ленты , рулонного материала , ствола и так далее .",
+    "image": null
+  },
+  {
+    "id": "335",
+    "name": "Машина с использованием стрейч худа",
+    "parentId": "315",
+    "slug": "/RU",
+    "description": "Система стрейч худа работает без нагревания , представляет собой последовательное развитие на основе технологии упаковки погрузочных единиц на поддонах . Для достижения этой цели и мы соответственно собираем различные функциональные модули , который работает в непрерывном применении и получит компактный единиц для большой емкости .",
+    "image": null
+  },
+  {
+    "id": "337",
+    "name": "Гидравлический кантователь для рулонных материалов",
+    "parentId": "316",
+    "slug": "/RU",
+    "description": "Данные серии Jinglin автоматических оборотных машин могут быть использованы для дислокации различных вертикальных и горизонтальных товаров . Они широко используются в металлургической промышленности и сталелитейной промышленности .",
+    "image": null
+  },
+  {
+    "id": "338",
+    "name": "Кантователь для пресс-формы",
+    "parentId": "316",
+    "slug": "/RU",
+    "description": "Использовать специальный двойной цепной привод , косую шестерню , турборедуктор . Автоматический стиль операции и техническое обслужвание . Четырехвалковое устройство упаковки с полиамидным клеем .",
+    "image": null
+  },
+  {
+    "id": "339",
+    "name": "Откидной механизм",
+    "parentId": "316",
+    "slug": "/RU",
+    "description": "Данная машина хорошо используется для поворачивания объектов до 180 градусов , который путём точной техникой и хорошим дизайном . Она используется для различных товаров в соответстви с практической ситуацией . Данная машина является хорошей для того , чтобы уменьшить физическую силу .",
+    "image": null
+  },
+  {
+    "id": "340",
+    "name": "Industry Solution",
+    "parentId": "295",
+    "slug": "/Industry Solution",
+    "description": "Wrapping machine manufacturer and packing solution chinese supplier in coil packaging,straight object wrapping and shrinking,pallet packaging...",
+    "image": null
+  },
+  {
+    "id": "341",
+    "name": "solution",
+    "parentId": "295",
+    "slug": "",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "344",
+    "name": "Inline Pallet Changer",
+    "parentId": "250",
+    "slug": "/pallet-inverter/inline",
+    "description": "Automatic pallet changer is a kind of inline pallet changer system that helps the pallet loading exchanging, gathering and load transfering in an automation system with pallet stacker,pallet conveyor...",
+    "image": null
+  },
+  {
+    "id": "343",
+    "name": "Steel Coil Packaging Projects",
+    "parentId": "342",
+    "slug": "/Show-Room/steel",
+    "description": "The catagory for showing the steel coil packaging solutin vary from the packaging goal and packaging requirement in different customer's factory with pictures and videos.",
+    "image": null
+  },
+  {
+    "id": "342",
+    "name": "Steel Industry Packaging",
+    "parentId": "245",
+    "slug": "/Show-Room/Steel",
+    "description": "The video and case of the steel industry packing solution, includes sthe steel coil, slitting coil, wire coil, aluminum coil...The main solution is automation projects.",
+    "image": null
+  },
+  {
+    "id": "357",
+    "name": "Autobag",
+    "parentId": "245",
+    "slug": "/Show-Room/Autobag",
+    "description": "The latest pinnacle in bag packaging equipment boasts improved reliability, versatility, and user comfort. The Autobag bagger is a cutting-edge, fully automatic filling and sealing machine that prioritizes reliability, versatility, and optimized packaging efficiency. ",
+    "image": null
+  },
+  {
+    "id": "345",
+    "name": "Automatic Strapping Machine",
+    "parentId": "1",
+    "slug": "/Automatic-Strapping-Machine",
+    "description": "The automatic strapping solution for steel coil, steel tube, steel wire... The solution includes the steel belt, PET, PP from semiauto to autoation system with steel belt or PET",
+    "image": null
+  },
+  {
+    "id": "346",
+    "name": "Steel coil strapping machines",
+    "parentId": "345",
+    "slug": "/steel-coil-strapping-machinery",
+    "description": "This is the automatic coil strapping machiery collection pages shows the autoamtic steel coil straping, copper coil strapping...The strapping head includes PP, PET and steel belt.",
+    "image": null
+  },
+  {
+    "id": "347",
+    "name": "Steel tube strapping machine",
+    "parentId": "345",
+    "slug": "/Steel-tube-strapping-machine",
+    "description": "The strapping machine solutions for steel pipe bundle binding and strapping. It is an online strapping solution with steel belts to increase the efficiency.",
+    "image": null
+  },
+  {
+    "id": "348",
+    "name": "Steel wire strapping machine",
+    "parentId": "345",
+    "slug": "/Steel-wire-strapping-machine",
+    "description": "FHOPE provides the wire coil strapping machine, wire rod strapping machine that developed for replace the manual strapping by steel belt, steel wire, PET belt. Our team provides the consulation free.",
+    "image": null
+  },
+  {
+    "id": "351",
+    "name": "Landing page",
+    "parentId": "0",
+    "slug": "/landing-page",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "352",
+    "name": "Cable Coiling aand Packing line",
+    "parentId": "351",
+    "slug": "/Cable-Coiling-and-Packing-line",
+    "description": "It is an automatic cable packign line including Automatic cable winding machine and cable coiling machine, cable stretch wrapper for online coiling...",
+    "image": null
+  },
+  {
+    "id": "361",
+    "name": "Coil wrapping machine",
+    "parentId": "351",
+    "slug": "/landing-page/",
+    "description": "The Coil Wrapping Machine is a sophisticated, ring-type wrapping equipment specifically designed for efficient and secure packaging of coiled products. Utilizing a unique ID through method, this machine ensures consistent wrapping of packing material around the coils, providing unparalleled protection during transportation and storage.",
+    "image": null
+  },
+  {
+    "id": "360",
+    "name": "Coil Packing Machine",
+    "parentId": "351",
+    "slug": "/landing-page",
+    "description": "Coil packing machine also maned coil wrapping machine that is an ring type packing equipment by packing material eye through wrapping. It is specializes packing solution for coil shape package such as steel coil, wire coil, hose coil, bearing,trye...",
+    "image": null
+  },
+  {
+    "id": "364",
+    "name": "Board Packing Solutions",
+    "parentId": "2",
+    "slug": "/Board-Packing-Solutions",
+    "description": "The top 3 Board packing solutions that worked for the baord packaging. It includes the wrapping soltuion, shrinking machine,automatic board packaging line for board protecsting package.",
+    "image": null
+  },
+  {
+    "id": "362",
+    "name": "Landing",
+    "parentId": "351",
+    "slug": "/Landing",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "353",
+    "name": "Auto Bagger",
+    "parentId": "1",
+    "slug": "/Auto-Bagger",
+    "description": "The Chinese manufacturer providing the autobag roll bagger packing machine with top level quality in the bagging sucessful rate. The solution for admatic printing and bag packing with wide application.",
+    "image": null
+  },
+  {
+    "id": "354",
+    "name": "Table Roll Auto Bagger",
+    "parentId": "353",
+    "slug": "/Table-Roll-Auto-Bagger",
+    "description": "The table roll bag autobagger with printer for bag packing. It is efficiency autobagging way for filling into bag and printing.",
+    "image": null
+  },
+  {
+    "id": "355",
+    "name": "Horizontal auto bagger",
+    "parentId": "353",
+    "slug": "/horizontal-auto-bagger",
+    "description": "The horizontal version autobag machine for big size bag filling & packaging.Horizontal wide baggging amchine with printer",
+    "image": null
+  },
+  {
+    "id": "356",
+    "name": "Automatic Wire Winding and Packing Machine",
+    "parentId": "245",
+    "slug": "/Automatic-Wire-Winder",
+    "description": "The automatic steel wire winding and packing machine efficiently winds and packages steel wire into compact coils. Designed for precision and speed, it reduces manual labor, enhances productivity, and ensures consistent, secure packaging. Ideal for industrial applications, it streamlines operations while maintaining the quality and safety of the finished product.",
+    "image": null
+  },
+  {
+    "id": "363",
+    "name": "Aluminum Coil Packaging Machine",
+    "parentId": "139",
+    "slug": "/Aluminum-Coil-Packaging-Machine",
+    "description": "The top manufacturer providing the aluinum coil packaging machines for different packing goal, the solution from eye throught wrapping, stretch wrapping,stacking and packing line.",
+    "image": null
+  },
+  {
+    "id": "368",
+    "name": "Pallet Inverter Machines",
+    "parentId": "245",
+    "slug": "/Pallet-Inverter-Machines",
+    "description": "The pallet inveter machines includes the stationary pallet changing machine, mobile pallet changer, inline pallet handling and packing line...It services for pallet load handling and pallet exchanging in the logistic procession.",
+    "image": null
+  },
+  {
+    "id": "365",
+    "name": "Copper Coil Packing Line",
+    "parentId": "135",
+    "slug": "/Copper-Coil-Packing-Line",
+    "description": "automatic copper coil packing line is mainly used for copper strip coil, copper tube coil, copper wire coil online packing,strapping and handling, stacking. Fhopepack providing the ERP system for copper packing automation.",
+    "image": null
+  },
+  {
+    "id": "366",
+    "name": "Coil Wrapping Machine",
+    "parentId": "245",
+    "slug": "/Coil-Wrapping-Machine",
+    "description": "The coil wrapping machine includes the rotation ring and coil turning station for coil packing with packing material ID through. FHOPE provides the different coil wrapping solution per package shape, packing material...",
+    "image": null
+  },
+  {
+    "id": "376",
+    "name": "Pallet Flipping Machine",
+    "parentId": "245",
+    "slug": "/pallet-flipping-machine",
+    "description": "Discover the benefits of pallet flipping machines (pallet flippers) for warehouses, manufacturing plants, and logistics centers. Efficiently flip, rotate, or reposition pallets with ease, reducing manual labor and workplace injuries while optimizing supply chain operations. Learn how this innovative solution streamlines material handling and boosts productivity.",
+    "image": null
+  },
+  {
+    "id": "367",
+    "name": "Hydraulic Dumper",
+    "parentId": "131",
+    "slug": "/hydraulic-dumper",
+    "description": "The Hydraulic Dumper by FHOPEPACK is engineered to boost performance and streamline operations for box, container when it comes to elevating and tipping over heavy loading.",
+    "image": null
+  },
+  {
+    "id": "369",
+    "name": "Mold upender",
+    "parentId": "131",
+    "slug": "/mold-upender",
+    "description": "All the Mold upender and mold turning solution from FHOPEPACK with different handling capacity for mold maintaining and repair.",
+    "image": null
+  },
+  {
+    "id": "370",
+    "name": "Mold Flipper",
+    "parentId": "131",
+    "slug": "/mold-flipper",
+    "description": "FHOPE Mold Flippers are engineered to securely turning and rotating the molds for maintece and repair. The lifting capacity of these mold flippers spans from 1-50T with different size working table.",
+    "image": null
+  },
+  {
+    "id": "371",
+    "name": "pallet-inverter",
+    "parentId": "351",
+    "slug": "/pallet-inverter",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "372",
+    "name": "steel-tube",
+    "parentId": "351",
+    "slug": "/steel-tube",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "373",
+    "name": "Mold Seperator",
+    "parentId": "245",
+    "slug": "/Mold-Seperator",
+    "description": "Mold separators, also known as mold splitters, offer a precise and safe solution for handling injection molds. These systems eliminate the risks associated with manual or crane-assisted mold turning, ensuring the safety of employees. By significantly reducing the time required for mold turning and eliminating the need for manual separation of mold halves, they streamline operations. ",
+    "image": null
+  },
+  {
+    "id": "374",
+    "name": "Box Wrapper",
+    "parentId": "245",
+    "slug": "/Box-Wrapper",
+    "description": "Discover the ultimate Box Wrapper solutions to streamline your packaging process. Explore high-performance Box Stretch Wrappers and Box Wrapping Machines designed for enhanced efficiency, safety, and cost savings. Perfect for industries seeking reliable, automated packaging equipment tailored to their needs.",
+    "image": null
+  },
+  {
+    "id": "375",
+    "name": "Orbital Stretch Wrapper ROI Caculator",
+    "parentId": "351",
+    "slug": "/landing-page",
+    "description": "Orbital Stretch Wrapper ROI Caculator： Enter the number of loads wrapped and your labor details into our calculator to estimate your total annual labor cost savings and per-load savings from investing in an orbital wrapping machine.",
+    "image": null
+  },
+  {
+    "id": "377",
+    "name": "Automatic Rod Packing Line",
+    "parentId": "135",
+    "slug": "/Automatic-Rod-Packing-Line",
+    "description": "An Automatic Rod Packing Line is a streamlined system designed for efficient and precise packaging of rods in industrial settings. It automates processes such as bundling, strapping, wrapping, and labeling, ensuring consistent quality and reduced labor costs. This solution enhances productivity while maintaining high safety standards and packaging reliability.",
+    "image": null
+  },
+  {
+    "id": "378",
+    "name": "Pallet feeding machine",
+    "parentId": "245",
+    "slug": "/Show-Room/pallet-feeding-machine",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "379",
+    "name": "Horizontal Stretch Wrapper",
+    "parentId": "245",
+    "slug": "/Horizontal-Stretch-Wrapper",
+    "description": "To optimize your factory’s packaging operations, the horizontal stretch wrapper offers an efficient and reliable solution. Designed to accommodate long or irregularly shaped items such as pipes, panels, and furniture, this machine ensures consistent film application, protecting goods during transit and storage. Its automation reduces labor costs, enhances productivity, and delivers superior wrappi",
+    "image": null
+  },
+  {
+    "id": "380",
+    "name": "Coil Tilter",
+    "parentId": "245",
+    "slug": "/Show-Room/Coil-tilter",
+    "description": "Discover FHOPE's advanced coil tilter solutions, designed for efficient and safe handling of heavy coils. Explore customizable options for seamless tilting, enhancing productivity and workplace safety across industries.",
+    "image": null
+  },
+  {
+    "id": "381",
+    "name": "Upender Machine",
+    "parentId": "245",
+    "slug": "/Upender-Machine",
+    "description": "An upender machine is a versatile piece of equipment designed to safely and efficiently rotate or tilt heavy loads, such as coils, molds, or pallets, for better handling and processing. Upender machine manufacturers specialize in creating durable, customizable solutions to meet diverse industrial needs, improving operational safety, productivity, and cost efficiency.",
+    "image": null
+  },
+  {
+    "id": "384",
+    "name": "Coil Turner",
+    "parentId": "245",
+    "slug": "/Coil-turner",
+    "description": "A coil turner or coil turning machine is a specialized industrial device designed to safely and efficiently rotate heavy steel or metal coils. It enhances workplace safety, minimizes manual handling, and improves operational efficiency in industries like steel manufacturing, automotive, and logistics. Ideal for heavy-duty and precision turning tasks.",
+    "image": null
+  },
+  {
+    "id": "385",
+    "name": "Coil Upender",
+    "parentId": "131",
+    "slug": "Coil-Upender",
+    "description": "High-quality Coil Upender designed to enhance efficiency and safety! As a leading Coil Upender manufacturer, we offer customized solutions to meet the coil handling needs of various industries. Durable, high-performance designs make us your ideal partner.",
+    "image": null
+  },
+  {
+    "id": "387",
+    "name": "Coil Tippers",
+    "parentId": "245",
+    "slug": "/Show-Room/Coil-Tipper",
+    "description": "The coil tipper, or coil tipping machine, is designed for safe and efficient handling of heavy steel coils and cylindrical materials. It minimizes manual labor, reduces injury risks, and enhances productivity. Ideal for industries like steel manufacturing and logistics, this durable machine ensures reliable performance in demanding industrial environments.",
+    "image": null
+  },
+  {
+    "id": "390",
+    "name": "Automatic PET Strapping Machine",
+    "parentId": "345",
+    "slug": "/PET-strapping-machine",
+    "description": "Secure your pallets efficiently with our Automatic PET Strapping Machine. Ideal for high-volume pallet strapping, ensuring load stability and reliability. Explore our solutions!",
+    "image": null
+  },
+  {
+    "id": "389",
+    "name": "Steel Sheet Lifter",
+    "parentId": "245",
+    "slug": "/Show-Room/Steel-Sheet-Lifter",
+    "description": "Discover high-quality steel sheet lifters, plate lifters, and bundle lifters designed for safety, efficiency, and versatility. Customizable solutions to handle heavy-duty lifting needs across industries.",
+    "image": null
+  },
+  {
+    "id": "392",
+    "name": "Pallet Inverter Russia",
+    "parentId": "279",
+    "slug": "leading/pallet-exchanger",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "393",
+    "name": "Pallet flipper",
+    "parentId": "279",
+    "slug": "/pallet-exchanger",
+    "description": "",
+    "image": null
+  },
+  {
+    "id": "395",
+    "name": "Slit Coil Packing Line",
+    "parentId": "136",
+    "slug": "/Automatic-Coil-Packing-Line",
+    "description": "",
+    "image": null
+  }
+]
