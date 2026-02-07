@@ -323,16 +323,166 @@ export const CATEGORY_METADATA: Record<string, CategoryData> = {
   question: "Does it handle rectangular tubes?", answer: "Yes, the control recipe can be switched to form square or rectangular bundles for box sections." } ] }, // L1 Category: Coil Packing Line 
 "coil-packing-line": {
   image: "/images/categories/coil-packing-hero.jpg",
-    description: "Integrated coil logistics systems for slitting centers and rolling mills.",
-    contentHtml: ` <h3>The Slitting Line Finish</h3> <p>A <a href="/machine/coil-packing-line" class="text-blue-600 hover:underline" title="Learn more about Coil Packing Line">Coil Packing Line</a> is the backbone of a steel service center. It automates the handling of slit coils after the turnstile. The system separates the coils, down-ends them (from vertical to horizontal), straps them, wraps them, and then stacks them onto pallets. This automation is crucial for safety, as manual handling of heavy, sharp steel coils is dangerous.</p> <h3>Data Integration</h3> <p>The system tracks each slit coil's identity (width, gauge, weight) throughout the process, ensuring the final label matches the coil data from the slitter.</p> `,
-    faq: [ {
-  question: "What is the throughput?", answer: "A high-speed line can process 60-80 coils per hour. The bottleneck is usually the wrapping station, so dual wrappers are often used." },
-      {
-  question: "Can it handle different coil widths randomly?", answer: "Yes, the system measures the width of each incoming coil and adjusts the strapping and stacking positions automatically." },
-      {
-  question: "Does it include palletizing?", answer: "Yes, automatic sorting and stacking stations (using magnetic or mechanical lifters) build custom pallet loads based on customer orders." },
-      {
-  question: "Is it suitable for aluminum?", answer: "Yes, aluminum lines use non-marking conveyors and vacuum lifters to prevent surface damage." } ] }, // L2: Automatic Coil Packing Line (Generic) 
+  description: "The complete automated solution for Steel, Copper, and Aluminum coil packaging. From Turnstile to Warehouse, we engineer the flow.",
+  contentHtml: `
+    <div className="pillar-page-content">
+      
+      <h3>The Backbone of the Service Center</h3>
+      <p>A <a href="/machine/coil-packing-line" class="text-blue-600 hover:underline">Coil Packing Line</a> is not just a collection of machines; it is the critical "handshake" between your high-speed slitting lines and your logistics network. In modern Steel Service Centers (SSC) and Non-Ferrous Mills, the packing line determines your final throughput, safety record, and customer satisfaction.</p>
+      
+      <p>We provide turnkey systems that automate the entire journey of the coil: Separation, Down-Ending, Strapping, Wrapping, Weighing, and Stacking.</p>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-8">
+        <div class="bg-blue-50 p-6 rounded-xl border border-blue-100">
+          <h4 class="font-bold text-lg mb-2 text-blue-800">For Steel & Stainless</h4>
+          <p class="text-sm mb-4">High-speed lines designed for durability and rust prevention.</p>
+          <ul class="list-disc pl-5 space-y-1 text-sm text-gray-700">
+            <li>Automatic Slit Coil Separation</li>
+            <li>Radial & Circumferential Strapping</li>
+            <li>Magnetic Stacking Robots</li>
+          </ul>
+          <a href="/machine/slit-coil-packing-line" class="inline-block mt-4 text-blue-600 font-bold hover:underline">Explore Steel Lines →</a>
+        </div>
+        <div class="bg-amber-50 p-6 rounded-xl border border-amber-100">
+          <h4 class="font-bold text-lg mb-2 text-amber-800">For Copper & Aluminum</h4>
+          <p class="text-sm mb-4">Zero-damage handling for soft, high-value surfaces.</p>
+          <ul class="list-disc pl-5 space-y-1 text-sm text-gray-700">
+            <li>Non-Marking PU Conveyors</li>
+            <li>Vacuum Suction Lifters</li>
+            <li>Paper Interleaving & Film Wrapping</li>
+          </ul>
+          <a href="/machine/copper-coil-packing-line" class="inline-block mt-4 text-amber-700 font-bold hover:underline">Explore Copper Lines →</a>
+        </div>
+      </div>
+
+      <h3>Expert Guides & Resources</h3>
+      <p>Deep dive into our engineering philosophy and success stories through our technical guides:</p>
+      
+      <!-- Expert Guides Section (Carousel) -->
+      <div class="not-prose my-12 relative group" id="expert-guides-carousel">
+        <div class="flex overflow-x-auto gap-6 pb-8 snap-x snap-mandatory scroll-smooth hide-scrollbar" id="guides-container" style="padding-left: 1px; padding-right: 1px;">
+          
+          <!-- Card 1: Steel Coil Guide -->
+          <a href="/blog/automatic-steel-coil-packing-line-guide" class="flex-shrink-0 w-[280px] md:w-[320px] snap-center group/card h-full bg-white rounded-xl overflow-hidden border border-gray-200 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 no-underline flex flex-col">
+            <div class="relative h-48 overflow-hidden bg-gray-100 border-b border-gray-100">
+              <img src="https://www.fhopepack.com/blog/wp-content/uploads/2025/08/steel-coil-mill-with-strapping.webp" class="w-full h-full object-cover transform group-hover/card:scale-105 transition-transform duration-500" alt="Steel Coil Guide" style="height: 192px; width: 100%; object-fit: cover;" />
+              <div class="absolute top-3 left-3 bg-white/95 backdrop-blur-sm text-[10px] font-bold px-2 py-1 rounded text-blue-700 shadow-sm border border-gray-100 uppercase tracking-wider">
+                Guide
+              </div>
+            </div>
+            <div class="p-5 flex flex-col flex-grow">
+              <h5 class="text-lg font-bold text-gray-900 group-hover/card:text-blue-600 transition-colors mb-2 leading-tight">The Steel Coil Guide</h5>
+              <p class="text-sm text-gray-500 mb-4 line-clamp-3 flex-grow leading-relaxed">From Slitting to Warehouse Efficiency: A comprehensive guide to automating steel coil packing.</p>
+              <div class="flex items-center text-xs font-bold text-blue-600 mt-auto uppercase tracking-wide">
+                Read Article <span class="ml-1 transition-transform group-hover/card:translate-x-1">→</span>
+              </div>
+            </div>
+          </a>
+          
+          <!-- Card 2: Copper Coil Guide -->
+          <a href="/blog/automated-copper-brass-coil-packing-guide" class="flex-shrink-0 w-[280px] md:w-[320px] snap-center group/card h-full bg-white rounded-xl overflow-hidden border border-gray-200 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 no-underline flex flex-col">
+            <div class="relative h-48 overflow-hidden bg-gray-100 border-b border-gray-100">
+              <img src="https://www.industgo.com/images/products/copper-coil-wrapping-machine.webp" class="w-full h-full object-cover transform group-hover/card:scale-105 transition-transform duration-500" alt="Copper Coil Guide" style="height: 192px; width: 100%; object-fit: cover;" />
+              <div class="absolute top-3 left-3 bg-white/95 backdrop-blur-sm text-[10px] font-bold px-2 py-1 rounded text-amber-700 shadow-sm border border-gray-100 uppercase tracking-wider">
+                Guide
+              </div>
+            </div>
+            <div class="p-5 flex flex-col flex-grow">
+              <h5 class="text-lg font-bold text-gray-900 group-hover/card:text-blue-600 transition-colors mb-2 leading-tight">Copper & Brass Guide</h5>
+              <p class="text-sm text-gray-500 mb-4 line-clamp-3 flex-grow leading-relaxed">Preserving Value in Precision Metals: How to pack soft metals without damage.</p>
+              <div class="flex items-center text-xs font-bold text-blue-600 mt-auto uppercase tracking-wide">
+                Read Article <span class="ml-1 transition-transform group-hover/card:translate-x-1">→</span>
+              </div>
+            </div>
+          </a>
+
+          <!-- Card 3: Plastic Pipe Guide -->
+          <a href="/blog/hose-pipe-coil-packing-guide" class="flex-shrink-0 w-[280px] md:w-[320px] snap-center group/card h-full bg-white rounded-xl overflow-hidden border border-gray-200 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 no-underline flex flex-col">
+            <div class="relative h-48 overflow-hidden bg-gray-100 border-b border-gray-100">
+              <img src="/images/products/hose-wrapping-FPH-300N-3.webp" class="w-full h-full object-cover transform group-hover/card:scale-105 transition-transform duration-500" alt="Plastic Pipe Guide" style="height: 192px; width: 100%; object-fit: cover;" />
+              <div class="absolute top-3 left-3 bg-white/95 backdrop-blur-sm text-[10px] font-bold px-2 py-1 rounded text-cyan-700 shadow-sm border border-gray-100 uppercase tracking-wider">
+                Guide
+              </div>
+            </div>
+            <div class="p-5 flex flex-col flex-grow">
+              <h5 class="text-lg font-bold text-gray-900 group-hover/card:text-blue-600 transition-colors mb-2 leading-tight">Hose & Pipe Guide</h5>
+              <p class="text-sm text-gray-500 mb-4 line-clamp-3 flex-grow leading-relaxed">The Ultimate Guide to Hose & Pipe Coil Packaging: From Extrusion to Retail.</p>
+              <div class="flex items-center text-xs font-bold text-blue-600 mt-auto uppercase tracking-wide">
+                Read Article <span class="ml-1 transition-transform group-hover/card:translate-x-1">→</span>
+              </div>
+            </div>
+          </a>
+
+          <!-- Card 4: Chile Case Study -->
+          <a href="/blog/chile-copper-project" class="flex-shrink-0 w-[280px] md:w-[320px] snap-center group/card h-full bg-white rounded-xl overflow-hidden border border-gray-200 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 no-underline flex flex-col">
+            <div class="relative h-48 overflow-hidden bg-gray-100 border-b border-gray-100">
+              <img src="https://www.industgo.com/images/products/copper-strip-packing-line-3.webp" class="w-full h-full object-cover transform group-hover/card:scale-105 transition-transform duration-500" alt="Chile Case Study" style="height: 192px; width: 100%; object-fit: cover;" />
+              <div class="absolute top-3 left-3 bg-white/95 backdrop-blur-sm text-[10px] font-bold px-2 py-1 rounded text-emerald-700 shadow-sm border border-gray-100 uppercase tracking-wider">
+                Case Study
+              </div>
+            </div>
+            <div class="p-5 flex flex-col flex-grow">
+              <h5 class="text-lg font-bold text-gray-900 group-hover/card:text-blue-600 transition-colors mb-2 leading-tight">Success Story: Chile</h5>
+              <p class="text-sm text-gray-500 mb-4 line-clamp-3 flex-grow leading-relaxed">Achieving 300% Efficiency Gain in a Copper Service Center with full automation.</p>
+              <div class="flex items-center text-xs font-bold text-blue-600 mt-auto uppercase tracking-wide">
+                Read Article <span class="ml-1 transition-transform group-hover/card:translate-x-1">→</span>
+              </div>
+            </div>
+          </a>
+
+        </div>
+        
+        <!-- Navigation Buttons (Desktop) -->
+        <button onclick="document.getElementById('guides-container').scrollBy({left: -340, behavior: 'smooth'})" class="absolute left-0 top-1/2 -translate-y-1/2 -ml-5 w-10 h-10 bg-white rounded-full shadow-lg border border-gray-200 flex items-center justify-center text-gray-600 hover:text-blue-600 hover:scale-110 transition-all z-10 hidden md:flex hover:shadow-xl" aria-label="Previous">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        </button>
+        
+        <button onclick="document.getElementById('guides-container').scrollBy({left: 340, behavior: 'smooth'})" class="absolute right-0 top-1/2 -translate-y-1/2 -mr-5 w-10 h-10 bg-white rounded-full shadow-lg border border-gray-200 flex items-center justify-center text-gray-600 hover:text-blue-600 hover:scale-110 transition-all z-10 hidden md:flex hover:shadow-xl" aria-label="Next">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+        </button>
+      </div>
+
+      <h3>Core Technology Modules</h3>
+      <p>A modular packing line is built from four key stations:</p>
+      <ol class="list-decimal pl-5 space-y-4">
+        <li>
+          <strong>The Turnstile & Down-Ender:</strong> 
+          Acting as the buffer between the slitter and the packer, the <a href="/machine/upender-tilter" class="text-blue-600 hover:underline">Upender</a> rotates the coil 90 degrees to "Eye-to-Sky" orientation, making it ready for palletizing.
+        </li>
+        <li>
+          <strong>Automatic Strapping:</strong> 
+          We use <a href="/machine/automatic-strapping-machine/automatic-pet-strapping-machine" class="text-blue-600 hover:underline">PET Strapping Heads</a> for most applications. They are safer and cheaper than steel strap, with excellent shock absorption during transport.
+        </li>
+        <li>
+          <strong>The Wrapping Station:</strong> 
+          For export protection, our <a href="/machine/coil-packing-machine" class="text-blue-600 hover:underline">Coil Wrappers</a> apply VCI paper and Stretch film in a single pass. This "Cocoon" protects against rust and humidity.
+        </li>
+        <li>
+          <strong>Smart Stacking:</strong> 
+          Whether using <strong>Electromagnets</strong> for steel or <strong>Vacuum Lifters</strong> for copper, our stackers place coils onto pallets with ±1mm precision, eliminating manual crane work.
+        </li>
+      </ol>
+    </div>
+  `,
+  faq: [
+    {
+      question: "What is the typical ROI for a packing line?",
+      answer: "Most service centers see a full Return on Investment in 12-18 months. This is driven by a 70-80% reduction in labor costs (replacing 4-5 operators with 1) and the elimination of injury claims and product damage."
+    },
+    {
+      question: "Can I process both Steel and Aluminum on the same line?",
+      answer: "Yes, but the line must be specified for the softer material. We would use 'Hybrid' lines with vacuum lifters (safe for both) or switchable lifting heads. Conveyors would use non-marking polyurethane rollers."
+    },
+    {
+      question: "How much space do I need?",
+      answer: "A fully automated 'U-Shape' line typically requires a footprint of approximately 15m x 8m. However, we design linear, L-shape, and compact layouts to fit existing factory constraints."
+    },
+    {
+      question: "Does it integrate with my ERP?",
+      answer: "Yes. Our Siemens S7-1500 control systems can handshake with SAP, Oracle, or custom MES. We can pull coil data (ID, OD, Weight) and push back production confirmations and weight data for automatic labeling."
+    }
+  ]
+}, // L2: Automatic Coil Packing Line (Generic) 
 "automatic-coil-packing-line": {
   image: "/images/categories/auto-coil-hero.jpg",
     description: "Versatile coil handling lines for various metal strips and wires.",
