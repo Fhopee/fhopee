@@ -135,4 +135,3 @@ export function getRelatedProducts(currentSlug: string, categoryName: string, li
   
   return filtered.slice(0, limit);
 }
-

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Filter, ChevronRight } from 'lucide-react';
-import { getAllProducts, getProductsByCategory } from '@/lib/products';
+import { getProductsByCategory } from '@/lib/products';
 import { getL1Categories, getL2Categories, getParentCategory } from '@/lib/category-config';
 import ProductCard from '@/components/ProductCard';
 import CategoryHero from '@/components/CategoryHero';
@@ -17,10 +17,9 @@ const slugify = (text: string) => {
 };
 
 // 反向查找：根据 slug 找到真实的 Category Name
-// 这是一个简单的实现，实际项目中可能需要更高效的查找表
 const getCategoryNameFromSlug = (slug: string) => {
   const allL1 = getL1Categories();
-  // 1. 先找 L1
+  // 1. 先找 L1 (虽然这个页面主要用于 L2，但以防万一)
   const l1Match = allL1.find(c => slugify(c) === slug);
   if (l1Match) return l1Match;
 
@@ -34,79 +33,70 @@ const getCategoryNameFromSlug = (slug: string) => {
   return null;
 };
 
-interface CategoryPageProps {
-  params: { slug: string };
-  searchParams: { category?: string };
+interface SubCategoryPageProps {
+  params: { slug: string; subSlug: string };
 }
 
-export async function generateMetadata({ params, searchParams }: CategoryPageProps) {
-  // 基础分类（L1 或 L2，取决于 URL）
-  const baseCategory = getCategoryNameFromSlug(params.slug);
+export async function generateMetadata({ params }: SubCategoryPageProps) {
+  const categoryName = getCategoryNameFromSlug(params.subSlug);
   
-  // 实际显示的分类（优先取 URL 参数中的 category，否则取 baseCategory）
-  const displayCategory = searchParams.category || baseCategory;
-  
-  if (!displayCategory) {
+  if (!categoryName) {
     return {
       title: 'Category Not Found',
     };
   }
 
   return {
-    title: `${displayCategory} - Industrial Solutions`,
-    description: `Explore our premium ${displayCategory.toLowerCase()} collection. High-quality industrial machinery for your production line.`,
+    title: `${categoryName} - Industrial Solutions`,
+    description: `Explore our premium ${categoryName.toLowerCase()} collection. High-quality industrial machinery for your production line.`,
   };
 }
 
 import CategorySEOContent from '@/components/CategorySEOContent';
 
-export default async function CategoryPage({ params, searchParams }: CategoryPageProps) {
-  // 1. 确定当前页面的“上下文分类”（通常是 L1，但也可能是直接访问的 L2）
-  const contextCategory = getCategoryNameFromSlug(params.slug);
+export default async function SubCategoryPage({ params }: SubCategoryPageProps) {
+  // 1. 获取当前二级分类名称
+  const currentCategory = getCategoryNameFromSlug(params.subSlug);
   
-  if (!contextCategory) {
+  if (!currentCategory) {
     notFound();
   }
 
-  // 2. 确定“活跃分类”（用于筛选产品）
-  // 如果 URL 参数中有 category，则使用它；否则使用上下文分类
-  const activeCategory = searchParams.category || contextCategory;
-
-  // 3. 获取所有 L1 分类（用于侧边栏）
-  const l1Categories = getL1Categories();
+  // 2. 获取父级分类 (L1) 名称
+  const parentCategory = getParentCategory(currentCategory);
   
-  // 4. 根据活跃分类筛选产品
-  const products = getProductsByCategory(activeCategory);
-  
-  // 5. 确定当前 L1 分组（用于显示 L2 标签和侧边栏高亮）
-  let currentL1: string | null = null;
-  
-  if (l1Categories.includes(contextCategory)) {
-    // 如果上下文本身就是 L1
-    currentL1 = contextCategory;
-  } else {
-    // 如果上下文是 L2，找到它的父分类
-    currentL1 = getParentCategory(contextCategory);
+  // 3. 校验 URL 的合法性：确保 L2 确实属于这个 L1 (params.slug)
+  // 如果 parentCategory 不存在，或者其 slug 不匹配 params.slug，则视为 404
+  if (!parentCategory || slugify(parentCategory) !== params.slug) {
+     notFound();
   }
+
+  // 4. 获取产品
+  const products = getProductsByCategory(currentCategory);
+
+  // 5. 获取同级的所有 L2 分类（用于标签栏）
+  const siblingCategories = getL2Categories(parentCategory);
+
+  // 6. 获取 Hero 数据 (使用父级分类的 slug，通常共享 Hero 图片)
+  const parentCategoryData = getCategoryData(params.slug);
   
-  // 6. 获取当前 L1 下的 L2 分类（用于标签栏）
-  const l2Categories = currentL1 ? getL2Categories(currentL1) : [];
+  // 获取当前二级分类的专属 SEO 数据
+  // 如果没有配置二级分类的专属数据，它会回退到默认数据，这可能不是我们要的（因为会和 Hero 的描述重复）
+  // 所以我们可以稍微修改 getCategoryData 的逻辑，或者直接在这里传当前 slug
+  const currentCategorySEOData = getCategoryData(params.subSlug);
   
-  // 7. 获取 Hero 数据 (使用上下文分类的 slug，保持 Hero 不变)
-  // 如果 activeCategory 是 L2，我们可能还是想显示 L1 的 Hero，或者显示 L2 专属的（如果有配置）
-  // 这里策略是：Hero 始终显示当前 URL 对应的主题（即 contextCategory）
-  // 这样切换 Tab 时 Hero 不会闪烁，符合“保持在当前页面”的意图
-  const categoryData = getCategoryData(params.slug);
+  // 7. 获取侧边栏的 L1 列表
+  const l1Categories = getL1Categories();
 
   return (
     <div className="bg-gray-50 min-h-screen flex flex-col">
       
-      {/* 全屏 Hero - 始终显示 contextCategory 的信息 */}
+      {/* 全屏 Hero - 显示当前二级分类的信息 */}
       <CategoryHero 
-        title={contextCategory}
-        description={categoryData.description}
-        imageSrc={categoryData.image}
-        parentCategory={currentL1 !== contextCategory ? currentL1 : null}
+        title={currentCategory}
+        description={`Professional ${currentCategory.toLowerCase()} solutions tailored for your industry.`}
+        imageSrc={parentCategoryData.image}
+        parentCategory={parentCategory}
       />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full flex-grow">
@@ -136,10 +126,7 @@ export default async function CategoryPage({ params, searchParams }: CategoryPag
 
                   {/* L1 Category Links */}
                   {l1Categories.map((category) => {
-                    // 侧边栏高亮逻辑：
-                    // 如果当前上下文是 L1，则高亮该 L1
-                    // 如果当前上下文是 L2，则高亮其父 L1
-                    const isActive = currentL1 === category;
+                    const isActive = category === parentCategory;
                     return (
                       <Link
                         key={category}
@@ -185,42 +172,35 @@ export default async function CategoryPage({ params, searchParams }: CategoryPag
               </div>
             </div>
 
-            {/* L2 Tabs Bar - Show when an L1 is selected */}
-            {currentL1 && l2Categories.length > 0 && (
-              <div className="mb-8 flex flex-wrap gap-2">
-                {/* "All [L1 Name]" Tab */}
-                {/* 链接到当前页面路径，不带参数 = 显示所有 */}
-                <Link
-                  href={`/machine/${slugify(currentL1)}`}
-                  className={`px-4 py-2 rounded-full text-sm font-semibold transition-all ${
-                    activeCategory === currentL1
-                      ? 'bg-blue-600 text-white shadow-md'
-                      : 'bg-white text-gray-600 border border-gray-300 hover:border-blue-400 hover:text-blue-600'
-                  }`}
-                >
-                  All {currentL1}
-                </Link>
-                
-                {/* L2 Category Tabs */}
-                {l2Categories.map((l2Category) => {
-                  const isActive = activeCategory === l2Category;
-                  return (
-                    <Link
-                      key={l2Category}
-                      // 跳转到新的层级 URL
-                      href={`/machine/${slugify(currentL1)}/${slugify(l2Category)}`}
-                      className={`px-4 py-2 rounded-full text-sm font-semibold transition-all ${
-                        isActive
-                          ? 'bg-blue-600 text-white shadow-md'
-                          : 'bg-white text-gray-600 border border-gray-300 hover:border-blue-400 hover:text-blue-600'
-                      }`}
-                    >
-                      {l2Category}
-                    </Link>
-                  );
-                })}
-              </div>
-            )}
+            {/* L2 Tabs Bar */}
+            <div className="mb-8 flex flex-wrap gap-2">
+              {/* "All [Parent Category]" Tab - Link back to L1 page */}
+              <Link
+                href={`/machine/${slugify(parentCategory)}`}
+                className="px-4 py-2 rounded-full text-sm font-semibold transition-all bg-white text-gray-600 border border-gray-300 hover:border-blue-400 hover:text-blue-600"
+              >
+                All {parentCategory}
+              </Link>
+              
+              {/* L2 Category Tabs */}
+              {siblingCategories.map((l2Category) => {
+                const isActive = l2Category === currentCategory;
+                return (
+                  <Link
+                    key={l2Category}
+                    // 指向当前层级的兄弟页面
+                    href={`/machine/${slugify(parentCategory)}/${slugify(l2Category)}`}
+                    className={`px-4 py-2 rounded-full text-sm font-semibold transition-all ${
+                      isActive
+                        ? 'bg-blue-600 text-white shadow-md'
+                        : 'bg-white text-gray-600 border border-gray-300 hover:border-blue-400 hover:text-blue-600'
+                    }`}
+                  >
+                    {l2Category}
+                  </Link>
+                );
+              })}
+            </div>
 
             {/* Product Grid */}
             {products.length > 0 ? (
@@ -233,9 +213,7 @@ export default async function CategoryPage({ params, searchParams }: CategoryPag
               <div className="col-span-full text-center py-20 text-gray-500">
                 <p className="text-lg font-medium mb-2">No products found</p>
                 <p className="text-sm">
-                  {activeCategory 
-                    ? `No products available in "${activeCategory}" category.`
-                    : 'No products available at the moment.'}
+                  No products available in "{currentCategory}" category.
                 </p>
                 <Link
                   href="/products"
@@ -248,8 +226,8 @@ export default async function CategoryPage({ params, searchParams }: CategoryPag
 
             {/* SEO Content Block */}
             <CategorySEOContent 
-              data={categoryData} 
-              categoryName={contextCategory} 
+              data={currentCategorySEOData} 
+              categoryName={currentCategory} 
             />
           </main>
         </div>

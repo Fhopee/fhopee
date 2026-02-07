@@ -46,7 +46,7 @@ export default function ProductVideoSection({
               >
                 <Image
                   src={thumbnailSrc}
-                  alt="Video thumbnail"
+                  alt={`${title} - Video Thumbnail`}
                   fill
                   className="object-cover opacity-90 group-hover:opacity-100 transition-opacity"
                   onError={(e) => {

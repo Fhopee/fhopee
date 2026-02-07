@@ -27,7 +27,7 @@ export default function ProductCard({ product }: ProductCardProps) {
       <div className="relative w-full aspect-[4/3] bg-gray-100 overflow-hidden">
         <Image
           src={product.mainImage}
-          alt={product.productName}
+          alt={`${product.productName} - ${product.categoryName} Industrial Machine`}
           fill
           unoptimized
           className="object-cover object-center mix-blend-multiply opacity-90 group-hover:opacity-100 group-hover:scale-105 transition-all duration-500"

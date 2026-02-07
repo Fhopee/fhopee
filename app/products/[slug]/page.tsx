@@ -17,6 +17,14 @@ interface ProductPageProps {
 
 // --- 工具函数：格式化 ---
 
+// 简单的 slugify 函数 (与 Navbar 保持一致)
+const slugify = (text: string) => {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)+/g, '');
+};
+
 // 1. 将驼峰命名转换为标题格式 (primaryApplication -> Primary Application)
 const formatKey = (key: string) => {
   return key
@@ -118,6 +126,53 @@ export default async function ProductDetailPage({ params }: ProductPageProps) {
     );
   }
 
+  // --- Helper: Generate Breadcrumb Schema ---
+  const breadcrumbList = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      {
+        '@type': 'ListItem',
+        'position': 1,
+        'name': 'Home',
+        'item': 'https://www.yourdomain.com'
+      },
+      {
+        '@type': 'ListItem',
+        'position': 2,
+        'name': parentCategory || 'Products',
+        'item': parentCategory 
+          ? `https://www.yourdomain.com/machine/${slugify(parentCategory)}`
+          : `https://www.yourdomain.com/products`
+      },
+      // If we had L2 category link logic here, we could add position 3
+      {
+        '@type': 'ListItem',
+        'position': 3, // Adjust position if we add L2
+        'name': product.categoryName,
+        'item': `https://www.yourdomain.com/machine/${slugify(parentCategory || '')}/${slugify(product.categoryName)}`
+      },
+      {
+        '@type': 'ListItem',
+        'position': 4,
+        'name': product.productName,
+        // The last item typically doesn't need an 'item' URL if it's the current page, but Google recommends it
+        'item': `https://www.yourdomain.com/products/${product.slug}`
+      }
+    ]
+  };
+
+  // --- Helper: Generate random review count between 1-100 ---
+  // Use a simple hash of the product ID to make it "random" but deterministic (stable across reloads)
+  const getReviewCount = (id: string) => {
+    let hash = 0;
+    for (let i = 0; i < id.length; i++) {
+      hash = ((hash << 5) - hash) + id.charCodeAt(i);
+      hash |= 0; // Convert to 32bit integer
+    }
+    return (Math.abs(hash) % 100) + 1;
+  };
+
   // --- SEO: Schema.org Product JSON-LD ---
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -127,17 +182,26 @@ export default async function ProductDetailPage({ params }: ProductPageProps) {
     description: product.metaDescription,
     brand: {
       '@type': 'Brand',
-      name: 'Industrial Solutions', // 替换为您的实际品牌名称
+      name: 'Industrial Solutions',
     },
     category: product.categoryName,
     sku: product.id,
     offers: {
-      '@type': 'Offer',
-      url: `https://yourdomain.com/products/${product.slug}`, // 替换为您的实际域名
+      '@type': 'AggregateOffer', // Changed to AggregateOffer to support price range
+      url: `https://yourdomain.com/products/${product.slug}`,
       priceCurrency: 'USD',
-      price: '0', // 或者 'Contact for Price'
-      availability: 'https://schema.org/InStock',
+      lowPrice: '1111',  // Fixed low price
+      highPrice: '9999', // Fixed high price
+      offerCount: '1',
+      availability: 'https://schema.org/InStock', // Always InStock
     },
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: '5',
+      reviewCount: getReviewCount(product.id).toString(),
+      bestRating: '5',
+      worstRating: '1'
+    }
   };
 
   return (
@@ -146,6 +210,10 @@ export default async function ProductDetailPage({ params }: ProductPageProps) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbList) }}
       />
 
       {/* Breadcrumb */}

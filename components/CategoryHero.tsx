@@ -21,7 +21,7 @@ export default function CategoryHero({
       <div className="absolute inset-0 z-0">
         <Image
           src={imageSrc}
-          alt={title}
+          alt={`${title} - Industrial Packaging Machinery Category`}
           fill
           className="object-cover transition-transform duration-1000 group-hover:scale-105"
           priority

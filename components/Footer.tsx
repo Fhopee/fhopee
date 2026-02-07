@@ -2,6 +2,8 @@ import Link from 'next/link';
 import { Factory, Linkedin, Youtube, Facebook, Twitter, Globe } from 'lucide-react';
 
 export default function Footer() {
+  const currentYear = new Date().getFullYear();
+
   return (
     <footer className="bg-slate-900 text-white pt-16 pb-8 border-t border-slate-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -38,13 +40,13 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="text-gray-400 hover:text-white transition-colors text-sm">
-                  Contact Us
+                <Link href="/blog" className="text-gray-400 hover:text-white transition-colors text-sm">
+                  Industry News
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-400 hover:text-white transition-colors text-sm">
-                  About Us
+                <Link href="/contact" className="text-gray-400 hover:text-white transition-colors text-sm">
+                  Contact Us
                 </Link>
               </li>
             </ul>
@@ -55,23 +57,23 @@ export default function Footer() {
             <h3 className="text-sm font-bold uppercase tracking-wider text-gray-200 mb-6">Products & Services</h3>
             <ul className="space-y-4">
               <li>
-                <Link href="/products?category=Coil%20Packing%20Machine" className="text-gray-400 hover:text-white transition-colors text-sm">
+                <Link href="/machine/coil-packing-machine" className="text-gray-400 hover:text-white transition-colors text-sm">
                   Coil Packing Machines
                 </Link>
               </li>
               <li>
-                <Link href="/products?category=Stretch%20Wrapping%20Machine" className="text-gray-400 hover:text-white transition-colors text-sm">
+                <Link href="/machine/stretch-wrapping-machine" className="text-gray-400 hover:text-white transition-colors text-sm">
                   Stretch Wrappers
                 </Link>
               </li>
               <li>
-                <Link href="/products?category=Automatic%20Packing%20Line" className="text-gray-400 hover:text-white transition-colors text-sm">
+                <Link href="/machine/automatic-packing-line" className="text-gray-400 hover:text-white transition-colors text-sm">
                   Automation Lines
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-400 hover:text-white transition-colors text-sm">
-                  Custom Engineering
+                <Link href="/machine/automatic-strapping-machine" className="text-gray-400 hover:text-white transition-colors text-sm">
+                  Strapping Machines
                 </Link>
               </li>
             </ul>
@@ -82,13 +84,8 @@ export default function Footer() {
             <h3 className="text-sm font-bold uppercase tracking-wider text-gray-200 mb-6">Support</h3>
             <ul className="space-y-4">
               <li>
-                <Link href="#" className="text-gray-400 hover:text-white transition-colors text-sm">
+                <Link href="/contact" className="text-gray-400 hover:text-white transition-colors text-sm">
                   Technical Support
-                </Link>
-              </li>
-              <li>
-                <Link href="#" className="text-gray-400 hover:text-white transition-colors text-sm">
-                  Spare Parts
                 </Link>
               </li>
               <li>
@@ -110,16 +107,16 @@ export default function Footer() {
           
           {/* Social Icons */}
           <div className="flex items-center gap-4">
-            <a href="#" className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 text-gray-400 hover:bg-blue-600 hover:text-white transition-all">
+            <a href="#" aria-label="LinkedIn" className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 text-gray-400 hover:bg-blue-600 hover:text-white transition-all">
               <Linkedin className="w-5 h-5" />
             </a>
-            <a href="#" className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 text-gray-400 hover:bg-red-600 hover:text-white transition-all">
+            <a href="#" aria-label="YouTube" className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 text-gray-400 hover:bg-red-600 hover:text-white transition-all">
               <Youtube className="w-5 h-5" />
             </a>
-            <a href="#" className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 text-gray-400 hover:bg-blue-500 hover:text-white transition-all">
+            <a href="#" aria-label="Facebook" className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 text-gray-400 hover:bg-blue-500 hover:text-white transition-all">
               <Facebook className="w-5 h-5" />
             </a>
-            <a href="#" className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 text-gray-400 hover:bg-sky-500 hover:text-white transition-all">
+            <a href="#" aria-label="Twitter" className="w-10 h-10 flex items-center justify-center rounded-full bg-slate-800 text-gray-400 hover:bg-sky-500 hover:text-white transition-all">
               <Twitter className="w-5 h-5" />
             </a>
           </div>
@@ -128,10 +125,10 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row items-center gap-6">
             <button className="flex items-center gap-2 px-4 py-2 rounded-lg border border-slate-700 text-sm text-gray-300 hover:border-gray-500 hover:text-white transition-colors">
               <Globe className="w-4 h-4" />
-              Change language
+              English
             </button>
             <p className="text-gray-500 text-sm">
-              © 2024 Industrial Packaging Solutions. All rights reserved.
+              © {currentYear} Industrial Solutions. All rights reserved.
             </p>
           </div>
         </div>
@@ -139,7 +136,3 @@ export default function Footer() {
     </footer>
   );
 }
-
-
-
-

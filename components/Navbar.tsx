@@ -100,7 +100,7 @@ export default function Navbar() {
                                 {l2Categories.map((l2) => (
                                   <Link
                                     key={l2}
-                                    href={`/machine/${slugify(l2)}`}
+                                    href={`/machine/${slugify(category)}/${slugify(l2)}`}
                                     onClick={() => setIsProductsDropdownOpen(false)}
                                     className="block px-4 py-2 text-sm text-gray-600 hover:text-blue-600 hover:bg-gray-50 transition-colors"
                                   >
